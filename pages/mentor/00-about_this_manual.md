@@ -1,12 +1,12 @@
 ---
-title: About This Manual
+title: About This Guide
 section: Introduction
 order: 0
 permalink: mentor/index.html
 sidebar: mentor_sidebar
 ---
 
-This manual was written during a Book Sprint sponsored by Google and facilitated by FLOSS Manuals. The manual was written in two days but the maintenance of the manual is an ongoing process to which you may wish to contribute. A second sprint occurred in 2010 to update the manual (adding the Org Admin section) and write the Students Guide ("Flipping Bits not Burgers"). Another brief edit occured February 2017 to update and reflect the new website and program changes.
+This guide was written during a Book Sprint sponsored by Google and facilitated by FLOSS Manuals. The manual was written in two days but the maintenance of the manual is an ongoing process to which you may wish to contribute. A second sprint occurred in 2010 to update the manual (adding the Org Admin section) and write the Students Guide ("Flipping Bits not Burgers"). Another brief edit occured February 2017 to update and reflect the new website and program changes.
 
 Since the manual may be updated at any time, you may wish to periodically check here for updated versions: 
 
@@ -17,7 +17,7 @@ You can also find the electronic book (for use with Android ebook readers softwa
 http://objavi.flossmanuals.net/books/
 
 
-## How to Contribute to This Manual 
+## How to Contribute to This Guide 
 
 If you would like to contribute then follow these steps:
 
@@ -43,7 +43,7 @@ http://en.flossmanuals.net/FLOSSManuals
 
 ## About the Authors
 
-This manual exists as a dynamic document on flossmanuals.net, and over time will have an ever-increasing pool of authors and contributors.
+This guide exists as a dynamic document on flossmanuals.net, and over time will have an ever-increasing pool of authors and contributors.
 
 Except where noted, the following individuals were part of both the 2009 and 2010 GSoCBook Sprint. We thank them for their tireless efforts to create this first-of-its-kind volume.
 

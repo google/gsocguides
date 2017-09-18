@@ -94,7 +94,7 @@ Google employees who run the program. See the What is GSoC section for more deta
 
 ## Secondary Mentor
 
-A person who helps out a student's assigned mentor. At time of writing this manual, the GSoC online system only allows one mentor to be officially assigned to a student proposal, as one person must be responsible for submitting evaluations, etc. However, it is quite common to have multiple mentors for one student.
+A person who helps out a student's assigned mentor. At time of writing this guide, the GSoC online system only allows one mentor to be officially assigned to a student proposal, as one person must be responsible for submitting evaluations, etc. However, it is quite common to have multiple mentors for one student.
 
 
 ## SMOP

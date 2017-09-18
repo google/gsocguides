@@ -13,7 +13,7 @@ The most important part of GSoC is providing the students an excellent experienc
 
 ## The Ideas Page
 
-The ideas page is the most important part of the organization application. Please see the Ideas Page chapter of this manual for more information.
+The ideas page is the most important part of the organization application. Please see the Ideas Page chapter of this guide for more information.
 
 
 ## Past Success
