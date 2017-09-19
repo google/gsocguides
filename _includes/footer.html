@@ -1,9 +1,23 @@
 <footer>
-            <div class="row">
-                <div class="col-lg-12 footer">
-               &copy; {{ site.time | date: "%Y"  }} {{site.company_name}}. All rights reserved. <br />
-{% if page.last_updated %}<span>Page last updated:</span> {{page.last_updated}}<br/>{% endif %} Site last generated: {{ site.time | date: "%b %-d, %Y"  }} <br />
-<p><img src="{{ "/images/company_logo.png" }}" alt="Company logo"/></p>
-                </div>
-            </div>
+  <div class="row">
+    <div class="col-lg-12 footer">
+      &copy; {{ site.time | date: "%Y"  }} {{site.company_name}}.<br />
+      <a rel="license" class="no_icon"
+         href="http://creativecommons.org/licenses/by-sa/3.0/">
+        <img alt="Creative Commons License" style="border-width:0"
+             src="https://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a>
+      This work is licensed under a
+      <a rel="license" class="no_icon"
+         href="http://creativecommons.org/licenses/by-sa/3.0/">Creative
+        Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />
+
+      {% if page.last_updated %}
+      <span>Page last updated:</span> {{page.last_updated}}<br/>
+      {% endif %}
+      Site last generated: {{ site.time | date: "%b %-d, %Y"  }} <br />
+      "Google Summer of Code" (GSoC) is a trademark of Google Inc.  <br />
+
+      <!-- <p><img src="{{ "/images/company_logo.png" }}" alt="Company logo"/></p> -->
+    </div>
+  </div>
 </footer>
