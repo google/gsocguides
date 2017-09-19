@@ -11,3 +11,6 @@ entries:
     - title: Mentor Guide
       url: /mentor/
       output: web
+    - title: Student Guide
+      url: /student/
+      output: web

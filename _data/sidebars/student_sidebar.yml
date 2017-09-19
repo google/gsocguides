@@ -1,0 +1,94 @@
+entries:
+- title: sidebar
+  product: Student Guide
+  folders:
+  - title: Introduction
+    output: web
+    folderitems:
+    - title: What is Google Summer of Code?
+      url: index
+      output: web
+    - title: Why Should I Apply?
+      url: why_should_i_apply
+      output: web
+    - title: Am I good enough?
+      url: am_i_good_enough
+      output: web
+  - title: Applying
+    output: web
+    folderitems:
+    - title: Making First Contact
+      url: making_first_contact
+      output: web
+    - title: Choosing an Organization
+      url: choosing_an_organization
+      output: web
+    - title: Finding the Right Project
+      url: finding_the_right_project
+      output: web
+    - title: Writing a proposal
+      url: writing_a_proposal
+      output: web
+    - title: Being Turned Down
+      url: being_turned_down
+      output: web
+  - title: Community Bonding Period
+    output: web
+    folderitems:
+    - title: How GSoC Works
+      url: how_gsoc_works
+      output: web
+    - title: What does community mean?
+      url: what_does_community_mean
+      output: web
+    - title: Open Source Culture
+      url: open_source_culture
+      output: web
+    - title: Communication Best Practices
+      url: communication_best_practices
+      output: web
+    - title: How to Get a Head Start
+      url: how_to_get_a_head_start
+      output: web
+  - title: Let The Coding Begin
+    output: web
+    folderitems:
+    - title: Working With Your Mentor
+      url: working_with_your_mentor
+      output: web
+    - title: Time management for students
+      url: time_management_for_students
+      output: web
+    - title: Evaluations
+      url: evaluations
+      output: web
+  - title: Wrapping Up
+    output: web
+    folderitems:
+    - title: Strategies for getting your code committed
+      url: strategies_for_getting_your_code_committed
+      output: web
+    - title: Staying Engaged with Your Community
+      url: staying_engaged_with_your_community
+      output: web
+  - title: Appendices
+    output: web
+    folderitems:
+    - title: About This Manual
+      url: about_this_manual
+      output: web
+    - title: History of GSoC
+      url: history_of_gsoc
+      output: web
+    - title: Additional Resources
+      url: additional_resources
+      output: web
+    - title: Proposal Example 1
+      url: proposal_example_1
+      output: web
+    - title: Proposal Example 2
+      url: proposal_example_2
+      output: web
+    - title: Glossary
+      url: glossary
+      output: web
