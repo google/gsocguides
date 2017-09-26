@@ -61,7 +61,7 @@ http://producingoss.com/
 
 **Google Summer of Code Mentors Guide** 
 
-http://en.flossmanuals.net/GSoCMentoringGuide 
+https://gsocguides.github.io/mentor
 
 **Teaching Open Source** 
 
@@ -81,10 +81,7 @@ irc : freenode #teachingopensource
 
 ## What to Do When the Unexpected Happens?
 
-
-
 1.  Contact your Mentor. He or she can help you figure out what to do next or contact Google for more help.
 1.  Contact the Org Admin.
-1.  Talk to Google's Program Administrators. They have plenty of experience with all the corner cases and strange issues that can arise during GSoC. Email [gsoc-support@google.com](http://write.flossmanuals.net/gsocstudentguide/additional-resources/gsoc-support@google.com) for help. 
-
+1.  Talk to Google's Program Administrators. They have plenty of experience with all the corner cases and strange issues that can arise during GSoC. 
 

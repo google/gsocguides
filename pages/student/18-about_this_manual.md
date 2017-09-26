@@ -6,42 +6,25 @@ permalink: student/about_this_manual.html
 sidebar: student_sidebar
 ---
 
-This manual was written during a Book Sprint sponsored by Google and facilitated by FLOSS Manuals. The manual was written in two days but the maintenance of the manual is an ongoing process to which you may wish to contribute. A second sprint occurred in 2010 to update the manual (adding the Org Admin section) and to write the Students Guide ("Flipping Bits not Burgers").
+This guide was originally written during a Book Sprint sponsored by Google and
+facilitated by FLOSS Manuals. The manual was written in two days but the
+maintenance of the manual is an ongoing process to which you may wish to
+contribute. A second sprint occurred in 2010 to update the manual (adding the
+Org Admin section) and to write the Students Guide ("Flipping Bits not
+Burgers").
 
-An update of the manual was done in January 2017 and what was quite impressive is how few changes had to be made as all of the advice the original authors of this manual still stand today. 
+An update of the manual was done in January 2017 and what was quite impressive
+is how few changes had to be made as all of the advice the original authors of
+this manual still stand today.
 
-Since the manual may be updated at any time, you may wish to periodically check here for updated versions: 
-
-http://www.flossmanuals.net
-
-You can also find the electronic book (for use with Android ebook readers software, Sony Reader etc) here: 
-
-http://objavi.flossmanuals.net/books/
+In October 2017, the guide moved from http://www.flossmanuals.net to GitHub.
 
 
 ## How to Contribute to This Manual
 
-If you would like to contribute then follow these steps:
-
-
-
-1.  Register on the front page (http://booki.flossmanuals.net/) by clicking on **Register** in the sidebar.
-1.  Under **Create Account** add your desired details
-1.  Click **Create account**.
-1.  Booki will generate the account and display a Your account has been created message before redirecting you to your **Profile Page**. Your user page is also accessed through **My Profile** on the menu.
-1.  Contribute by visiting http://booki.flossmanuals.net/GSoCStudentGuide/_edit/. Press 'edit' and start work on a chapter.
-1.  **Mailing List** 
-1.  For discussing all things about FLOSS Manuals join our mailing list:[ ](http://lists.flossmanuals.net/listinfo.cgi/discuss-flossmanuals.net%20)
-1.  http://lists.flossmanuals.net/listinfo.cgi/discuss-flossmanuals.net
-
-For more information on using FLOSS Manuals you may also wish to read our manual: 
-
-http://en.flossmanuals.net/FLOSSManuals
-
+See the CONTRIBUTING file in the source repository.
 
 ## About the Authors
-
-This manual exists as a dynamic document on flossmanuals.net, and over time will have an ever-increasing pool of authors and contributors.
 
 Except were noted the following individuals were part of both the 2009 and 2010 GSoC Book Sprint. We thank them for their tireless efforts to create this first-of-its-kind volume.
 
@@ -51,7 +34,7 @@ Alex works at the Gladstone Institutes in San Francisco as a Bioinformatics Soft
 
 http://nextnucleus.org
 
-**Bart Massey **
+**Bart Massey**
 
 Bart Massey graduated Reed College in 1987 and spent two years as a software engineer at Tektronix, Inc.  He received his MSc in Computer Science from University of Oregon in 1992 and his PhD in 1999 for work with the Computational Intelligence Research Laboratory there.  Since then, Bart has taught at Portland State University, where he is currently an Associate Professor, and for the Oregon Master of Software Engineering program. Bart is Secretary of the X.Org Foundation Board; his current research interests include open tech, software engineering, desktop interfaces and state space search. 
 
@@ -63,7 +46,7 @@ Jonathan is an open source hacker who currently focuses on the Parrot Virtual Ma
 
 http://leto.net
 
-**Jennifer Redman **
+**Jennifer Redman**
 
 Jennifer is the founder and CEO of Buunabet, a technical consulting company that helps businesses and organizations integrate open source software into their computing infrastructure. Jennifer is currently the Associate Systers-Keeper for Systers, the oldest International online community of technical women. One of the founders of the Systers open source project, she participated in GSoC 2009 and 2010 as an org admin and mentor. Previous careers include canvassing for Greenpeace and as a staff member on a national (and successful) presidential campaign. She also likes to travel and reads a lot of books. 
 
@@ -98,7 +81,7 @@ Olly is the lead developer of the Xapian search engine library. He's been workin
 
 http://survex.com/~olly/  
 
-**Leslie Hawthorn ** 
+**Leslie Hawthorn** 
 
 Leslie held various roles at Google before joining the Open Source Programs Office in March 2006. Her first project after joining the team was spinning up Google Summer of Code 2006 and she has managed the program ever since. She also conceived, launched and managed the Google Highly Open Participation Contest, an initiative inspired by GSoC that helps pre-university students get involved with all aspects of open source development. Mentoring in open source communities is one of her personal passions, along with humanitarian uses for open source software. She loves to cook, read and can occasionally be found pining for illuminated manuscripts. She also likes to think of herself as a superb filker.  
 
@@ -114,12 +97,4 @@ The Book Sprints were facilitated by :
 Adam is the founder of FLOSS Manuals and project manager for Booki. FLOSS Manuals is a community of 1500 (at the time of writing) volunteers that create quality free documentation about free software. FLOSS Manuals is pioneering the Book Sprint methodology that enables the development of well written manuals on free software in 2-5 days. Adam has facilitated over 15 Book Sprints on Free Software including Inkscape, OLPC, Sugar, CiviCRM, Firefox, Introduction to the Command Line, Digital Foundations (conversion to free software examples), Ogg Theora, How to Bypass Internet Censorship, Open Translation Tools, PureData, Video Subtitling and now the Google Summer of Code Mentors Guide. Adam is also the Project Manager for the development of 'Booki' - the free software Collaborative Authoring Platform (see below). 
 
 adam@flossmanuals.net
-
- 
-
-
-## The Platform
-
-This book was written using Booki and output to templated HTML, book formatted PDF, and epub by the same platform. Please consider helping us develop this wonderful collaborative authoring and book production software. It is GPL and more info available at http://booki-dev.flossmanuals.net. You can also see booki at http://www.booki.cc.
-
 
