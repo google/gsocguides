@@ -1,7 +1,7 @@
 ---
 title: Selecting a Student
 section: Getting Started
-order: 6
+order: 5
 permalink: mentor/selecting_a_student.html
 sidebar: mentor_sidebar
 ---

@@ -1,7 +1,7 @@
 ---
 title: Mind the Gap
 section: Mentoring
-order: 11
+order: 10
 permalink: mentor/mind_the_gap.html
 sidebar: mentor_sidebar
 ---

@@ -1,7 +1,7 @@
 ---
 title: Workflow
 section: Mentoring
-order: 13
+order: 12
 permalink: mentor/workflow.html
 sidebar: mentor_sidebar
 ---

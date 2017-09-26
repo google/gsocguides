@@ -1,7 +1,7 @@
 ---
 title: Managing the Plan
 section: Mentoring
-order: 14
+order: 13
 permalink: mentor/managing_the_plan.html
 sidebar: mentor_sidebar
 ---

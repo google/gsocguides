@@ -1,7 +1,7 @@
 ---
 title: Setting Expectations
 section: Mentoring
-order: 12
+order: 11
 permalink: mentor/setting_expectations.html
 sidebar: mentor_sidebar
 ---

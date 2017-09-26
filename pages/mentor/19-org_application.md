@@ -1,7 +1,7 @@
 ---
 title: Org Application
 section: Org Admin
-order: 20
+order: 19
 permalink: mentor/org_application.html
 sidebar: mentor_sidebar
 ---

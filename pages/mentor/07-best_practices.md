@@ -1,7 +1,7 @@
 ---
 title: Best Practices
 section: Communication
-order: 8
+order: 7
 permalink: mentor/best_practices.html
 sidebar: mentor_sidebar
 ---

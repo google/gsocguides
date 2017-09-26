@@ -1,7 +1,7 @@
 ---
 title: Community Basics
 section: Communication
-order: 7
+order: 6
 permalink: mentor/community_basics.html
 sidebar: mentor_sidebar
 ---

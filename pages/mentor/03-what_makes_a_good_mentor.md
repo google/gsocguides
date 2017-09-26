@@ -1,7 +1,7 @@
 ---
 title: What Makes a Good Mentor?
 section: Getting Started
-order: 4
+order: 3
 permalink: mentor/what_makes_a_good_mentor.html
 sidebar: mentor_sidebar
 ---

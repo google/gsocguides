@@ -1,7 +1,7 @@
 ---
 title: What is Google Summer of Code?
 section: Introduction
-order: 1
+order: 0
 permalink: mentor/index
 sidebar: mentor_sidebar
 ---

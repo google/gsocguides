@@ -1,7 +1,7 @@
 ---
 title: Managing Your Mentors
 section: Org Admin
-order: 21
+order: 20
 permalink: mentor/managing_your_mentors.html
 sidebar: mentor_sidebar
 ---

@@ -1,7 +1,7 @@
 ---
 title: Other Possible Issues
 section: Org Admin
-order: 23
+order: 22
 permalink: mentor/other_possible_issues.html
 sidebar: mentor_sidebar
 ---

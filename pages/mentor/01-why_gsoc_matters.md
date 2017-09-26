@@ -1,7 +1,7 @@
 ---
 title: Why GSoC Matters
 section: Introduction
-order: 2
+order: 1
 permalink: mentor/why_gsoc_matters.html
 sidebar: mentor_sidebar
 ---

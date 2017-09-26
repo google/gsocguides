@@ -1,7 +1,7 @@
 ---
 title: Warning Signs
 section: Communication
-order: 9
+order: 8
 permalink: mentor/warning_signs.html
 sidebar: mentor_sidebar
 ---

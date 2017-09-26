@@ -1,7 +1,7 @@
 ---
 title: Open Source Culture
 section: Communication
-order: 10
+order: 9
 permalink: mentor/open_source_culture.html
 sidebar: mentor_sidebar
 ---
