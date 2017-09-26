@@ -2,7 +2,7 @@
 title: Additional Resources
 section: Appendices
 order: 20
-permalink: student/additional_resources.html
+permalink: student/additional-resources.html
 sidebar: student_sidebar
 ---
 

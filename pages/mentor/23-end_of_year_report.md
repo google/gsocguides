@@ -2,7 +2,7 @@
 title: End of Year Report
 section: Org Admin
 order: 23
-permalink: mentor/end_of_year_report.html
+permalink: mentor/end-of-year-report.html
 sidebar: mentor_sidebar
 ---
 

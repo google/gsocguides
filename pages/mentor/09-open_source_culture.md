@@ -2,7 +2,7 @@
 title: Open Source Culture
 section: Communication
 order: 9
-permalink: mentor/open_source_culture.html
+permalink: mentor/open-source-culture.html
 sidebar: mentor_sidebar
 ---
 

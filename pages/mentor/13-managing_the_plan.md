@@ -2,7 +2,7 @@
 title: Managing the Plan
 section: Mentoring
 order: 13
-permalink: mentor/managing_the_plan.html
+permalink: mentor/managing-the-plan.html
 sidebar: mentor_sidebar
 ---
 

@@ -2,7 +2,7 @@
 title: Writing a proposal
 section: Applying
 order: 6
-permalink: student/writing_a_proposal.html
+permalink: student/writing-a-proposal.html
 sidebar: student_sidebar
 ---
 

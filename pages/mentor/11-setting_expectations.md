@@ -2,7 +2,7 @@
 title: Setting Expectations
 section: Mentoring
 order: 11
-permalink: mentor/setting_expectations.html
+permalink: mentor/setting-expectations.html
 sidebar: mentor_sidebar
 ---
 

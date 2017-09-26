@@ -2,7 +2,7 @@
 title: Making Your Ideas Page
 section: Org Admin
 order: 17
-permalink: mentor/making_your_ideas_page.html
+permalink: mentor/making-your-ideas-page.html
 sidebar: mentor_sidebar
 ---
 

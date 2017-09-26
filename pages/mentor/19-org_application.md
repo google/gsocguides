@@ -2,7 +2,7 @@
 title: Org Application
 section: Org Admin
 order: 19
-permalink: mentor/org_application.html
+permalink: mentor/org-application.html
 sidebar: mentor_sidebar
 ---
 

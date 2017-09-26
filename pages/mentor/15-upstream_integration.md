@@ -2,7 +2,7 @@
 title: Upstream Integration
 section: Wrapping Up
 order: 15
-permalink: mentor/upstream_integration.html
+permalink: mentor/upstream-integration.html
 sidebar: mentor_sidebar
 ---
 

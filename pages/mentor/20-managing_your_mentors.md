@@ -2,7 +2,7 @@
 title: Managing Your Mentors
 section: Org Admin
 order: 20
-permalink: mentor/managing_your_mentors.html
+permalink: mentor/managing-your-mentors.html
 sidebar: mentor_sidebar
 ---
 

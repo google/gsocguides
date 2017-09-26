@@ -2,7 +2,7 @@
 title: Warning Signs
 section: Communication
 order: 8
-permalink: mentor/warning_signs.html
+permalink: mentor/warning-signs.html
 sidebar: mentor_sidebar
 ---
 

@@ -2,7 +2,7 @@
 title: How GSoC Works
 section: Community Bonding Period
 order: 8
-permalink: student/how_gsoc_works.html
+permalink: student/how-gsoc-works.html
 sidebar: student_sidebar
 ---
 

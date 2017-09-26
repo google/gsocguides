@@ -2,7 +2,7 @@
 title: Student - Mentor Facilitation
 section: Org Admin
 order: 21
-permalink: mentor/student_-_mentor_facilitation.html
+permalink: mentor/student-mentor-facilitation.html
 sidebar: mentor_sidebar
 ---
 

@@ -2,7 +2,7 @@
 title: Working With Your Mentor
 section: Let The Coding Begin
 order: 13
-permalink: student/working_with_your_mentor.html
+permalink: student/working-with-your-mentor.html
 sidebar: student_sidebar
 ---
 

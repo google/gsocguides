@@ -2,7 +2,7 @@
 title: Building a Lifetime Contributor
 section: Wrapping Up
 order: 16
-permalink: mentor/building_a_lifetime_contributor.html
+permalink: mentor/building-a-lifetime-contributor.html
 sidebar: mentor_sidebar
 ---
 

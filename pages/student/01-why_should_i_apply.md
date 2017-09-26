@@ -2,7 +2,7 @@
 title: Why Should I Apply?
 section: Introduction
 order: 1
-permalink: student/why_should_i_apply.html
+permalink: student/why-should-i-apply.html
 sidebar: student_sidebar
 ---
 

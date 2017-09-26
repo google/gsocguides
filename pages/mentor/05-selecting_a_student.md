@@ -2,7 +2,7 @@
 title: Selecting a Student
 section: Getting Started
 order: 5
-permalink: mentor/selecting_a_student.html
+permalink: mentor/selecting-a-student.html
 sidebar: mentor_sidebar
 ---
 

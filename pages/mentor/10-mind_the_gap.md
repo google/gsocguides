@@ -2,7 +2,7 @@
 title: Mind the Gap
 section: Mentoring
 order: 10
-permalink: mentor/mind_the_gap.html
+permalink: mentor/mind-the-gap.html
 sidebar: mentor_sidebar
 ---
 

@@ -2,7 +2,7 @@
 title: Selecting Students and Mentors
 section: Org Admin
 order: 18
-permalink: mentor/selecting_students_and_mentors.html
+permalink: mentor/selecting-students-and-mentors.html
 sidebar: mentor_sidebar
 ---
 

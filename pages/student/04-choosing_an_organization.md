@@ -2,7 +2,7 @@
 title: Choosing an Organization
 section: Applying
 order: 4
-permalink: student/choosing_an_organization.html
+permalink: student/choosing-an-organization.html
 sidebar: student_sidebar
 ---
 

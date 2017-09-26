@@ -2,7 +2,7 @@
 title: How to Get a Head Start
 section: Community Bonding Period
 order: 12
-permalink: student/how_to_get_a_head_start.html
+permalink: student/how-to-get-a-head-start.html
 sidebar: student_sidebar
 ---
 

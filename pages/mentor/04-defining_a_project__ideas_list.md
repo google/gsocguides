@@ -2,7 +2,7 @@
 title: Defining a Project (Ideas List)
 section: Getting Started
 order: 4
-permalink: mentor/defining_a_project__ideas_list.html
+permalink: mentor/defining-a-project-ideas-list.html
 sidebar: mentor_sidebar
 ---
 

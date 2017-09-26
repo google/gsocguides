@@ -2,7 +2,7 @@
 title: The History of GSoC
 section: Org Admin
 order: 26
-permalink: mentor/the_history_of_gsoc.html
+permalink: mentor/the-history-of-gsoc.html
 sidebar: mentor_sidebar
 ---
 

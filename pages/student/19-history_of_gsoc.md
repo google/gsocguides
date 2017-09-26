@@ -2,7 +2,7 @@
 title: History of GSoC
 section: Appendices
 order: 19
-permalink: student/history_of_gsoc.html
+permalink: student/history-of-gsoc.html
 sidebar: student_sidebar
 ---
 

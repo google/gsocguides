@@ -2,7 +2,7 @@
 title: The Quick Guide
 section: Appendices
 order: 25
-permalink: mentor/the_quick_guide.html
+permalink: mentor/the-quick-guide.html
 sidebar: mentor_sidebar
 ---
 

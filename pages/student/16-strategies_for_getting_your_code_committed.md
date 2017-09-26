@@ -2,7 +2,7 @@
 title: Strategies for getting your code committed
 section: Wrapping Up
 order: 16
-permalink: student/strategies_for_getting_your_code_committed.html
+permalink: student/strategies-for-getting-your-code-committed.html
 sidebar: student_sidebar
 ---
 

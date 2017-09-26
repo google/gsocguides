@@ -2,7 +2,7 @@
 title: Finding the Right Project
 section: Applying
 order: 5
-permalink: student/finding_the_right_project.html
+permalink: student/finding-the-right-project.html
 sidebar: student_sidebar
 ---
 

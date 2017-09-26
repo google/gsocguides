@@ -2,7 +2,7 @@
 title: 'Proposal Example 2 '
 section: Appendices
 order: 22
-permalink: student/proposal_example_2.html
+permalink: student/proposal-example-2.html
 sidebar: student_sidebar
 ---
 

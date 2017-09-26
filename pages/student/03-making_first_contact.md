@@ -2,7 +2,7 @@
 title: Making First Contact
 section: Applying
 order: 3
-permalink: student/making_first_contact.html
+permalink: student/making-first-contact.html
 sidebar: student_sidebar
 ---
 

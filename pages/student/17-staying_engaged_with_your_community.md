@@ -2,7 +2,7 @@
 title: Staying Engaged with Your Community
 section: Wrapping Up
 order: 17
-permalink: student/staying_engaged_with_your_community.html
+permalink: student/staying-engaged-with-your-community.html
 sidebar: student_sidebar
 ---
 

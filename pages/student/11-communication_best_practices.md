@@ -2,7 +2,7 @@
 title: 'Communication Best Practices  '
 section: Community Bonding Period
 order: 11
-permalink: student/communication_best_practices.html
+permalink: student/communication-best-practices.html
 sidebar: student_sidebar
 ---
 

@@ -2,7 +2,7 @@
 title: About This Guide
 section: Introduction
 order: 24
-permalink: mentor/about_this_guide
+permalink: mentor/about-this-guide
 sidebar: mentor_sidebar
 ---
 

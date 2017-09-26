@@ -2,7 +2,7 @@
 title: About This Manual
 section: Appendices
 order: 18
-permalink: student/about_this_manual.html
+permalink: student/about-this-manual.html
 sidebar: student_sidebar
 ---
 

@@ -9,52 +9,52 @@ entries:
       url: index
       output: web
     - title: Why GSoC Matters
-      url: why_gsoc_matters
+      url: why-gsoc-matters
       output: web
   - title: Getting Started
     output: web
     folderitems:
     - title: Notes for First Year Organizations
-      url: notes_for_first_year_organizations
+      url: notes-for-first-year-organizations
       output: web
     - title: What Makes a Good Mentor?
-      url: what_makes_a_good_mentor
+      url: what-makes-a-good-mentor
       output: web
     - title: Defining a Project (Ideas List)
-      url: defining_a_project__ideas_list
+      url: defining-a-project-ideas-list
       output: web
     - title: Selecting a Student
-      url: selecting_a_student
+      url: selecting-a-student
       output: web
   - title: Communication
     output: web
     folderitems:
     - title: Community Basics
-      url: community_basics
+      url: community-basics
       output: web
     - title: Best Practices
-      url: best_practices
+      url: best-practices
       output: web
     - title: Warning Signs
-      url: warning_signs
+      url: warning-signs
       output: web
     - title: Open Source Culture
-      url: open_source_culture
+      url: open-source-culture
       output: web
   - title: Mentoring
     output: web
     folderitems:
     - title: Mind the Gap
-      url: mind_the_gap
+      url: mind-the-gap
       output: web
     - title: Setting Expectations
-      url: setting_expectations
+      url: setting-expectations
       output: web
     - title: Workflow
       url: workflow
       output: web
     - title: Managing the Plan
-      url: managing_the_plan
+      url: managing-the-plan
       output: web
     - title: Evaluations
       url: evaluations
@@ -63,46 +63,46 @@ entries:
     output: web
     folderitems:
     - title: Upstream Integration
-      url: upstream_integration
+      url: upstream-integration
       output: web
     - title: Building a Lifetime Contributor
-      url: building_a_lifetime_contributor
+      url: building-a-lifetime-contributor
       output: web
   - title: Org Admin
     output: web
     folderitems:
     - title: Making Your Ideas Page
-      url: making_your_ideas_page
+      url: making-your-ideas-page
       output: web
     - title: Selecting Students and Mentors
-      url: selecting_students_and_mentors
+      url: selecting-students-and-mentors
       output: web
     - title: Org Application
-      url: org_application
+      url: org-application
       output: web
     - title: Managing Your Mentors
-      url: managing_your_mentors
+      url: managing-your-mentors
       output: web
     - title: Student - Mentor Facilitation
-      url: student_-_mentor_facilitation
+      url: student-mentor-facilitation
       output: web
     - title: Other Possible Issues
-      url: other_possible_issues
+      url: other-possible-issues
       output: web
     - title: End of Year Report
-      url: end_of_year_report
+      url: end-of-year-report
       output: web
   - title: Appendices
     output: web
     folderitems:
     - title: About This Guide
-      url: about_this_guide
+      url: about-this-guide
       output: web
     - title: The History of GSoC
-      url: the_history_of_gsoc
+      url: the-history-of-gsoc
       output: web
     - title: Additional Resources
-      url: additional_resources
+      url: additional-resources
       output: web
     - title: Glossary
       url: glossary

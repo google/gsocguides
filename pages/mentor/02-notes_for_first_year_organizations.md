@@ -2,7 +2,7 @@
 title: Notes for First Year Organizations
 section: Getting Started
 order: 2
-permalink: mentor/notes_for_first_year_organizations.html
+permalink: mentor/notes-for-first-year-organizations.html
 sidebar: mentor_sidebar
 ---
 

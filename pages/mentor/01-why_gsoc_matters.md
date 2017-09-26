@@ -2,7 +2,7 @@
 title: Why GSoC Matters
 section: Introduction
 order: 1
-permalink: mentor/why_gsoc_matters.html
+permalink: mentor/why-gsoc-matters.html
 sidebar: mentor_sidebar
 ---
 

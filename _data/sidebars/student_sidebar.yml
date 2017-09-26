@@ -9,55 +9,55 @@ entries:
       url: index
       output: web
     - title: Why Should I Apply?
-      url: why_should_i_apply
+      url: why-should-i-apply
       output: web
     - title: Am I good enough?
-      url: am_i_good_enough
+      url: am-i-good-enough
       output: web
   - title: Applying
     output: web
     folderitems:
     - title: Making First Contact
-      url: making_first_contact
+      url: making-first-contact
       output: web
     - title: Choosing an Organization
-      url: choosing_an_organization
+      url: choosing-an-organization
       output: web
     - title: Finding the Right Project
-      url: finding_the_right_project
+      url: finding-the-right-project
       output: web
     - title: Writing a proposal
-      url: writing_a_proposal
+      url: writing-a-proposal
       output: web
     - title: Being Turned Down
-      url: being_turned_down
+      url: being-turned-down
       output: web
   - title: Community Bonding Period
     output: web
     folderitems:
     - title: How GSoC Works
-      url: how_gsoc_works
+      url: how-gsoc-works
       output: web
     - title: What does community mean?
-      url: what_does_community_mean
+      url: what-does-community-mean
       output: web
     - title: Open Source Culture
-      url: open_source_culture
+      url: open-source-culture
       output: web
     - title: Communication Best Practices
-      url: communication_best_practices
+      url: communication-best-practices
       output: web
     - title: How to Get a Head Start
-      url: how_to_get_a_head_start
+      url: how-to-get-a-head-start
       output: web
   - title: Let The Coding Begin
     output: web
     folderitems:
     - title: Working With Your Mentor
-      url: working_with_your_mentor
+      url: working-with-your-mentor
       output: web
     - title: Time management for students
-      url: time_management_for_students
+      url: time-management-for-students
       output: web
     - title: Evaluations
       url: evaluations
@@ -66,28 +66,28 @@ entries:
     output: web
     folderitems:
     - title: Strategies for getting your code committed
-      url: strategies_for_getting_your_code_committed
+      url: strategies-for-getting-your-code-committed
       output: web
     - title: Staying Engaged with Your Community
-      url: staying_engaged_with_your_community
+      url: staying-engaged-with-your-community
       output: web
   - title: Appendices
     output: web
     folderitems:
     - title: About This Manual
-      url: about_this_manual
+      url: about-this-manual
       output: web
     - title: History of GSoC
-      url: history_of_gsoc
+      url: history-of-gsoc
       output: web
     - title: Additional Resources
-      url: additional_resources
+      url: additional-resources
       output: web
     - title: Proposal Example 1
-      url: proposal_example_1
+      url: proposal-example-1
       output: web
     - title: Proposal Example 2
-      url: proposal_example_2
+      url: proposal-example-2
       output: web
     - title: Glossary
       url: glossary

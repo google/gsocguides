@@ -2,7 +2,7 @@
 title: Time management for students
 section: Let The Coding Begin
 order: 14
-permalink: student/time_management_for_students.html
+permalink: student/time-management-for-students.html
 sidebar: student_sidebar
 ---
 

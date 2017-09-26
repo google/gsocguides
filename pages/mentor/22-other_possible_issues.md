@@ -2,7 +2,7 @@
 title: Other Possible Issues
 section: Org Admin
 order: 22
-permalink: mentor/other_possible_issues.html
+permalink: mentor/other-possible-issues.html
 sidebar: mentor_sidebar
 ---
 

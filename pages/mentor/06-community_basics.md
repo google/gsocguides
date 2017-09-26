@@ -2,7 +2,7 @@
 title: Community Basics
 section: Communication
 order: 6
-permalink: mentor/community_basics.html
+permalink: mentor/community-basics.html
 sidebar: mentor_sidebar
 ---
 

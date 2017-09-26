@@ -2,7 +2,7 @@
 title: Am I good enough?
 section: Introduction
 order: 2
-permalink: student/am_i_good_enough.html
+permalink: student/am-i-good-enough.html
 sidebar: student_sidebar
 ---
 

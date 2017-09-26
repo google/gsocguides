@@ -2,7 +2,7 @@
 title: Open Source Culture
 section: Community Bonding Period
 order: 10
-permalink: student/open_source_culture.html
+permalink: student/open-source-culture.html
 sidebar: student_sidebar
 ---
 

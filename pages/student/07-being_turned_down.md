@@ -2,7 +2,7 @@
 title: Being Turned Down
 section: Applying
 order: 7
-permalink: student/being_turned_down.html
+permalink: student/being-turned-down.html
 sidebar: student_sidebar
 ---
 

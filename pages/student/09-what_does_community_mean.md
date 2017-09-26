@@ -2,7 +2,7 @@
 title: What does community mean?
 section: Community Bonding Period
 order: 9
-permalink: student/what_does_community_mean.html
+permalink: student/what-does-community-mean.html
 sidebar: student_sidebar
 ---
 

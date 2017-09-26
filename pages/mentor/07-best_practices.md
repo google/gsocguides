@@ -2,7 +2,7 @@
 title: Best Practices
 section: Communication
 order: 7
-permalink: mentor/best_practices.html
+permalink: mentor/best-practices.html
 sidebar: mentor_sidebar
 ---
 

@@ -2,7 +2,7 @@
 title: Additional Resources
 section: Org Admin
 order: 27
-permalink: mentor/additional_resources.html
+permalink: mentor/additional-resources.html
 sidebar: mentor_sidebar
 ---
 
