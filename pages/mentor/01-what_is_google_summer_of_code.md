@@ -2,7 +2,7 @@
 title: What is Google Summer of Code?
 section: Introduction
 order: 1
-permalink: mentor/what_is_google_summer_of_code.html
+permalink: mentor/index
 sidebar: mentor_sidebar
 ---
 

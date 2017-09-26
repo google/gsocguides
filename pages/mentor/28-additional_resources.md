@@ -53,7 +53,7 @@ http://producingoss.com/
 
 **Google Summer of Code Students Guide** 
 
-http://en.flossmanuals.net/GSoCStudentGuide 
+https://gsocguides.github.io/student/
 
 
 ## Associated Projects

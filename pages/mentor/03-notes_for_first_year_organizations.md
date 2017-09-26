@@ -20,8 +20,6 @@ General:
 
 * Talk to experienced organizations for advice; talk to new organizations for brainstorming.
 
-* There's a GSoC book. Read it: http://www.booki.cc/gsoc-mentoring/
-
 * Spread (don't spam) the word that your organization is participating in GSoC.
 
 Students, mentors, and slots:

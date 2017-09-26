@@ -5,11 +5,8 @@ entries:
   - title: Introduction
     output: web
     folderitems:
-    - title: About This Manual
-      url: index
-      output: web
     - title: What is Google Summer of Code?
-      url: what_is_google_summer_of_code
+      url: index
       output: web
     - title: Why GSoC Matters
       url: why_gsoc_matters
@@ -94,6 +91,12 @@ entries:
       output: web
     - title: End of Year Report
       url: end_of_year_report
+      output: web
+  - title: Appendices
+    output: web
+    folderitems:
+    - title: About This Guide
+      url: about_this_guide
       output: web
     - title: The History of GSoC
       url: the_history_of_gsoc
