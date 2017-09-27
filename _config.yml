@@ -73,13 +73,14 @@ defaults:
       layout: "page"
       comments: false
       search: true
-      sidebar: home_sidebar
+      #      sidebar: home_sidebar
       topnav: topnav
 
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
 - mentor_sidebar
+- student_sidebar
 
 description: "The Google Summer of Code Mentor and Student Manuals provide invaluable information for participants."
 # the description is used in the feed.xml file
