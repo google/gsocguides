@@ -1198,3 +1198,8 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+.navbar-brand>img {
+	height: 1em;
+	display: inline;
+}
