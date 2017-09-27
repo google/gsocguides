@@ -61,7 +61,7 @@ http://producingoss.com/
 
 **Google Summer of Code Mentors Guide** 
 
-https://gsocguides.github.io/mentor
+https://google.github.io/gsocguides/mentor
 
 **Teaching Open Source** 
 
