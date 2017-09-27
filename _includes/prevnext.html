@@ -8,7 +8,7 @@
     {% assign g = p.permalink | split: "/" | first %}
       {% if p.order == prev and g == guide %}
         {% assign had_prev = 1 %}
-        <a href="{{p.url}}">← Prev</a>
+        <a href="{{site.baseurl}}{{p.url}}">← Prev</a>
     {% endif %}
   {% endfor %}
 {% endif %}
@@ -17,7 +17,7 @@
     {% assign g = p.permalink | split: "/" | first %}
     {% if p.order == next and g == guide%}
         {% if had_prev == 1 %} | {% endif %}
-        <a href="{{p.url}}">Next →</a>
+        <a href="{{site.baseurl}}{{p.url}}">Next →</a>
     {% endif %}
   {% endfor %}
 {% endif %}
