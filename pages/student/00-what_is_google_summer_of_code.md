@@ -34,7 +34,7 @@ The GSoC program has several goals:
 
 Google Summer of Code began in 2005 as a complex experiment with a simple goal: helping students find work related to their academic pursuits during their school holidays. In GSoC's first year, 40 projects and 400 students participated. By the conclusion of the 13th Google Summer of Code in 2017, over 13,000 students have been accepted into the program. Best of all, most of the organizations participating over the past 13 years reported that the program helped them find new community members and active committers.
 
-GSoC has grown immensly over the last decade and in the process helped students make the most of their summer by working on exciting open source projects. 
+GSoC has grown immensely over the last decade and in the process helped students make the most of their summer by working on exciting open source projects. 
 
 You can take a look at the appendix if you're interested in a more extensive history of the program.
 
