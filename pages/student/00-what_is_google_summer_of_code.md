@@ -12,7 +12,7 @@ Google Summer of Code (GSoC) is a global program that matches students up with o
 
 Accepted students gain exposure to real-world software development and employment opportunities in areas related to their academic pursuits. Participating organizations are able to identify and bring in new developers. Best of all, more source code is created and released for the use and benefit of all; all code produced as part of the program is released under an open source license. The fact that you get to write code that people from all over the world can use - how cool is that!
 
-This program has brought together thousands of students and mentors from over 100 countries worldwide. As of January 2017, over 565 open source projects, from areas as diverse as operating systems and community services, have participated as mentoring organizations for the program. Successful students have widely reported that their participation in GSoC made them more attractive to potential employers and that the program has helped greatly when embarking on their technical careers.
+This program has brought together thousands of students and mentors from over 105 countries worldwide. As of October 2017, 607 open source projects, from areas as diverse as operating systems and community services, have participated as mentoring organizations for the program. Successful students have widely reported that their participation in GSoC made them more attractive to potential employers and that the program has helped greatly when embarking on their technical careers.
 
 
 ## Goals of the Program
