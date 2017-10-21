@@ -17,8 +17,6 @@ However, if you're more likely to hang back and watch people for a while, spend 
 
 ## How to observe community interactions
 
-
-
 *   Join both the development and user mailing lists and spend a few days just reading the conversations.
 *   Read the mailing list archives.
 *   Join the projects IRC channel and lurk for a bit.
@@ -29,8 +27,6 @@ At the end of your "listening and research" phase you'll understand how, where a
 
 
 ## How to begin participating in conversations
-
-
 
 *   Introduce yourself! If you are new to the community you need to let people know who you are and why you are interested in contributing to the project.
 *   Ask questions. You should be able to come up with a least a few legitimate questions before offering your opinion on the right way to do things.

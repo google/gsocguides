@@ -49,6 +49,6 @@ Everyone likes to hear back from friends and people they've worked with. Be sure
 
 "GSoC may be over, but I'm really hoping my contribution to the Congress application will go beyond that. I'll be sure to stay in touch with Eric and the Sunlight Foundation. " 
 
-Evelina Vrabie, SunLight Foundation, GSoC Student 2010* *
+Evelina Vrabie, SunLight Foundation, GSoC Student 2010
 
 

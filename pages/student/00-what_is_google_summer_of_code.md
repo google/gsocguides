@@ -19,15 +19,11 @@ This program has brought together thousands of students and mentors from over 10
 
 The GSoC program has several goals:
 
-
-
 *   Get more open source code written and released for the benefit of all.
 *   Inspire young developers to begin participating in open source development.
 *   Help open source projects identify and bring in new developers.
 *   Provide students the opportunity to do work related to their academic pursuits during the summer: "flip bits, not burgers."
 *   Give students more exposure to real-world software development (for example, distributed development and version control, software licensing issues, and mailing list etiquette).
-
- 
 
 
 ## A Brief History of Google Summer of Code

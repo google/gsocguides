@@ -70,8 +70,6 @@ Malveeka is currently a graduate student in the CS dept at UC, San Diego. She pa
 
 http://cseweb.ucsd.edu/~mtewari/
 
- 
-
 
 ## 2009 Particpants
 

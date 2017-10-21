@@ -43,8 +43,6 @@ The script will also pull updates from Reactome and push new pathways to WikiPat
 
 ## Deliverables
 
-
-
 *   an XML schema to validate the new Reactome XML format;
 *   a GPML to Reactome XML layout converter and Reactome XML layout to GPML converter, which will be available both as command line tool and a library that can be integrated with WikiPathways infrastructure;
 *   a system using the above converter, integrated to WikiPathways, that will periodically check for updates on both WikiPathways and Reactome and update the websites accordingly;

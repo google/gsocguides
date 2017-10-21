@@ -26,35 +26,35 @@ Most organizations have their own proposal guidelines or templates. You should b
 
 There are certain elements of the proposal that should apply to every organization. Proper attention to these elements will greatly improve your chances of a successful proposal. 
 
-**Name and Contact Information **
+**Name and Contact Information**
 
 Putting your full name on the proposal is not enough. Provide full contact information, including email addresses, websites, IRC nick, postal address and telephone number. Also provide full contact information for a friend or relative that the organization can contact to find you in case of emergency.
 
-**Title **
+**Title**
 
 Your title should be short, clear and interesting. The job of the title is to convince the reviewer to read your synopsis.
 
-**Synopsis **
+**Synopsis**
 
 If the format allows, start your proposal with a short summary, designed to convince the reviewer to read the rest of the proposal.
 
-**Benefits to Community **
+**Benefits to Community**
 
 Don't forget to make your case for a benefit to the organization, not just to yourself.  Why would Google and your organization be proud to sponsor this work? How would open source or society as a whole benefit? What cool things would be demonstrated?
 
-**Deliverables **
+**Deliverables**
 
 Include a brief, clear work breakdown structure with milestones and deadlines. Make sure to label deliverables as optional or required. You may want your plan to start by producing some kind of white paper, or planning the project in traditional Software Engineering style. It's OK to include thinking time ("investigation") in your work schedule. Deliverables should include investigation, coding and documentation.
 
-**Related Work **
+**Related Work**
 
 You should understand and communicate other people's work that may be related to your own. Do your research, and make sure you understand how the project your are proposing fits into the target organization. Be sure to explain how the proposed work is different from similar related work.
 
-**Biographical Information **
+**Biographical Information**
 
 Keep your personal info brief. Be sure to communicate personal experiences and skills that might be relevant to the project. Summarize your education, work, and open source experience. List your skills and give evidence of your qualifications. Convince your organization that you can do the work. Any published work, successful open source projects and the like should definitely be mentioned.
 
-**Follow the Rules **
+**Follow the Rules**
 
 Most organizations accept only plain text applications. Most organizations have a required application format. Many organizations have application length limits. In general, organizations *will *throw out your proposal if you fail to conform to these guidelines. If you feel you *must *have graphical or interactive content associated with your application, put just this content (not a copy of your proposal) on the web and provide an easy-to-type URL. Do not expect reviewers to follow this link.
 
@@ -74,7 +74,7 @@ You can edit the draft as many times as you wish before the application deadline
 
 **Before the application period closes you must submit a Final PDF Proposal** - this must be done for your proposal to be considered for the GSoC program. If you only submit a draft and fail to submit the Final PDF Proposal the organizations will not be able to see your proposal and therefore will not be able to accept you - it is an automatic reject from the system.
 
-Follow the instructions on the GSoC site and the process is quite straighforward.
+Follow the instructions on the GSoC site and the process is quite straightforward.
 
 
 ## Outside the Project List 
@@ -83,31 +83,31 @@ Some organizations allow students to propose work that is not on their official 
 
 However, original proposals are also riskier; their flaws will be much more apparent. Here's some of the ways that such proposals fail:
 
-**Projects without a mentor **
+**Projects without a mentor**
 
 Try to make sure that someone in the organization would be competent to work with you.
 
-**Projects that better belong with other Summer of Code organizations **
+**Projects that better belong with other Summer of Code organizations**
 
 Open source organizations try hard to avoid stepping on each other's turf. Try to find your best customer.
 
-**Projects that represent too large a scope **
+**Projects that represent too large a scope**
 
 The time flies by quickly. If you have a large project, break it into small, coherent pieces and propose to get the first couple of them done. That way the organization can be confident that they will get at least one good piece of work out of you.
 
-**Incoherent proposals **
+**Incoherent proposals**
 
 The organization needs to see a clearly delimited, contained piece of work. If the organization can't understand or define the work, the proposal will be thrown out.
 
-**Projects that are "inappropriate" for legal or social reasons **
+**Projects that are "inappropriate" for legal or social reasons**
 
 If your proposal is near the boundary, make sure you clear it with your target organization in advance.
 
-**Boring projects **
+**Boring projects**
 
-For the mentor and the organization, half the fun is helping a student do something novel and cool. Infrastructure *per se *isn't necessarily boring, but it should be part of a luminous vision.
+For the mentor and the organization, half the fun is helping a student do something novel and cool. Infrastructure *per se* isn't necessarily boring, but it should be part of a luminous vision.
 
-**Stuff that's already been done to death **
+**Stuff that's already been done to death**
 
 Novel work should be novel. Surprise.
 
@@ -123,5 +123,5 @@ Most organizations are risk averse. It is better for everyone if your project is
 Integrate and leverage existing open source code in your project. Only propose to write something yourself if you cannot get it any other way.
 
 The "Pencils Down" deadline for your project to be complete is usually sometime in mid-August. This will come sooner than you think.
-
+s
 

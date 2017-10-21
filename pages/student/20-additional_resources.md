@@ -31,8 +31,6 @@ If you're looking for advice for mentors or students, program promotional materi
 
 You can see a list of the mentoring organizations that participated in previous years of the program by going to the program site and looking at the Archive site: https://developers.google.com/open-source/gsoc/past-summers
 
- 
-
 
 ## Mailing Lists
 

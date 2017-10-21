@@ -8,10 +8,6 @@ sidebar: student_sidebar
 
 One of the best things about GSoC is the group of individuals from diverse cultures and different open source organizations that participate each year. This also means that you cannot make any assumptions about communication. Specifically:
 
- 
-
-
-
 *   Always read the Program Rules, FAQ and manual first! One of the best ways to destroy your reputation early is to repeatedly ask questions on IRC or the mailing list that are covered in a FAQ or other types of documentation.
 *   Don't expect instant answers. Remember you are working with volunteers.
 *   Avoid humor when communicating with the entire GSoC community. It does not translate well to large groups and is likely to be misconstrued by someone.
@@ -23,10 +19,6 @@ One of the best things about GSoC is the group of individuals from diverse cultu
 Every community uses mailing lists differently. It is extremely important that you spend some time understanding how to participate in a way that is acceptable to the community. Read the mailing list archives, observe for awhile first and be sure to inquire about and read any codes of conduct or guidelines before you post.
 
 Some specific guidelines that should apply across communities:
-
- 
-
-
 
 *   Follow the mailing list posting style. Do people top or bottom post? Follow the norm.
 *   Keep your posts on-topic. Avoid tangents and posting "I know this is off-topic but..." type posts. If you have any doubt, email the moderator *before* you post. 
@@ -49,8 +41,6 @@ Some specific guidelines that should apply across communities:
 
 When you post to the GSoC student list you are essentially using a bullhorn to broadcast your words to 7,000 people across time zones and international boundaries. Use your bullhorn wisely, or it might be ripped from your hands by an unruly and angry mob, or by a responsible moderator. 
 
- 
-
 
 ## How to Use IRC
 
@@ -61,8 +51,6 @@ The Fedora Project has a great FAQ on how to use IRC. Read it!
 http://fedoraproject.org/wiki/Fedora_Channel_FAQ
 
 Some additional guidelines:
-
-
 
 *   Include your real name in your IRC signature information.
 *   Never private-message (pm) someone that you don't know without first asking if it is OK in the public channel.

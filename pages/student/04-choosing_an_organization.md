@@ -17,8 +17,6 @@ Kapila Bogahapitiy, Network Time Protocol Project, GSoc Student 2009, 2010
 
 The very first requirement for a successful GSoC experience is finding a project/organization that interests you. Take a few minutes to consider the following questions. You can use the answers to these questions to search and filter through the organizations participating in GSoC. 
 
-
-
 *   What open source software do you use?
 *   What are your professional interests?
 *   What are your hobbies?

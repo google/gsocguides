@@ -12,7 +12,7 @@ Google Summer of Code moves in phases after you are accepted. The first phase is
 
 Evaluations are not as daunting as they may sound. This is an opportunity for you to evaluate your mentor and your mentor to evaluate you, not a quiz on your coding abilities. Some mentors even choose to review their evaluations afterward with the student in order to integrate the feedback into the coding process for the rest of the term. Be honest about your experiences with the program. This helps GSoC improve in future years. Remember, you must complete your evaluation of your mentor at each phase or you will receive an automatic fail.
 
-**Payments ** 
+**Payments** 
 
 Payment is in three pieces. The first payment is sent shortly after you pass the Phase 1 evaluation. The second payment is sent after you have passed the Phase 2 evaluation; the final payment is sent once you pass your final evaluation. All of these payments take a few business days to become active on your card or in your bank account if you choose direct deposit.
 

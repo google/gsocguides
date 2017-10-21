@@ -28,7 +28,7 @@ There is something very fulfilling about getting your first patch committed upst
 
 Mike Conley, Review Board, GSoC Student 2010
 
-**Hone your developer skills. **
+**Hone your developer skills**
 
 Students who are already active developers can apply themselves to a specific project. You'll get direct feedback from your mentor.
 
