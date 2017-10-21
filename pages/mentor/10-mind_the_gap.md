@@ -8,8 +8,6 @@ sidebar: mentor_sidebar
 
 The community bonding period is the 4 weeks between GSoC student acceptance and the start of coding date. Here are some of the goals of this period:
 
-
-
 *   Prepare students to immediately start writing code at the official start of coding.
 *   Get students engaged socially in the project.
 *   Provide time for students to learn about the development practices of the organization.

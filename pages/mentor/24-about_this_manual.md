@@ -15,7 +15,6 @@ Burgers"). Another brief edit occured February 2017 to update and reflect the
 new website and program changes.
 
 
-
 ## How to Contribute to This Guide
 
 Read the CONTRIBUTING file in the source repository.
@@ -66,8 +65,6 @@ http://www.fossygirl.com
 Malveeka is currently a graduate student in the CS dept at UC, San Diego. She participated in GSoC 2009 as a student for Systers and again as a mentor for Systers in GSoC 2010.  She is also a member of Systers and WIC (Women in Computing) group at UC, San Diego and has helped in organizing events in her school for engaging and encouraging women in computing. Her favorite past times including hiking, cooking and reading books. She is a big fan of P.G. Wodehouse and Agatha Christie.
 
 http://cseweb.ucsd.edu/~mtewari/
-
-
 
 
 ## 2009 Particpants

@@ -31,8 +31,6 @@ You can help your student by talking with them about how to divide their code in
 
 Be sure to set aside some time to teach your students how to use your revision control system, and especially its code merge tools, during the bonding period. This is both for their benefit and to save your time. If the student already knows how to test merging their changes before submitting them, it is far more likely that less time will be spent fixing patches which don't apply.
 
- 
-
 
 ## Patch Review
 
@@ -40,7 +38,7 @@ Make review of submitted patches an explicit task. By doing so, you make it easi
 
 Ultimately, you'll be responsible for understanding and performing a final review of the code for the student's GSoC evaluation. However, there's nothing wrong with bringing other people into the process.
 
-Some projects have a documented review process. A good example is on the PostgreSQL Developers Wiki (http://wiki.postgresql.org/wiki/Reviewing_a_Patch), some of which was used as a reference for this section.
+Some projects have a documented review process. A good example is on the [PostgreSQL Developers Wiki](http://wiki.postgresql.org/wiki/Reviewing_a_Patch), some of which was used as a reference for this section.
 
 Many people feel that they're not qualified to do a full review of a patch. But review includes many different tasks, and even if you can't do all of them, a reviewer can help your organization by taking on some or all of pre-commit tasks.
 
@@ -49,8 +47,6 @@ If you can apply a patch and you can use the new feature, you're already qualifi
 A reviewer does not need to guarantee some level of quality, but they do need to report any problems they find. The review is done if you think the patch is ready for in-depth review from a committer. See this patch review at http://archives.postgresql.org/pgsql-hackers/2009-07/msg01103.php as one example of the output a thorough review might produce. Reviews for other patches might, of course, contain different sections or for that matter, look completely different.
 
 Questions a patch reviewer might ask include:
-
-
 
 *   Does it include reasonable tests, necessary documentation, an overview of features, etc?
 *   Does the patch actually implement what the author intends and work as advertised?

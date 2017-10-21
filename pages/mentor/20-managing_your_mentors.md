@@ -57,8 +57,6 @@ Unfortunately, at some point your organization is probably going to encounter a 
 
 At some point in your org admin career you are going to need to step in to help resolve conflicts. Sometimes these are mentor-student conflicts, cross-project conflicts or mentor-mentor conflicts; they may be something completely unexpected.  Here are a few guidelines to help you find the best-approach for resolution:
 
-
-
 *   Get involved early, before things spiral out of control.
 *   Discuss the conflict privately and separately with those involved.
 *   Whenever possible don't take sides, but rather attempt to function as a mediator. 

@@ -10,8 +10,6 @@ The key to a successful GSoC experience is good communication. It is both a chal
 
 It is up to the org admin to stress communication strategies and expectations for both students and mentors.
 
-
-
 *   Make sure your mentors set expectations for time commitment, meetings, reports and code check-ins, and that these have been clearly communicated (if not collaboratively developed) with their students.
 *   Make sure both mentors and students have established more than one channel of communication with each other.
 *   Create internal contact groups for all your mentors and all your students. Use these email lists for general statements and advice regarding who should be doing what and when, and for asking, "Do you know where your student [or mentor] is?"

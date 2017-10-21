@@ -21,8 +21,6 @@ One aspect of "open culture" is that people are informal. People address each ot
 
 Although "open culture" is generally informal, it is important to remember that you still need to mind your manners when participating in conversations. 
 
- 
-
 
 ## Remote Communication
 
@@ -41,12 +39,10 @@ People come up with abbreviations and slang that are meaningful inside the group
 
 Here are a few useful resources for teasing out meaning from initialisms, acronyms and abbreviations:
 
-
-
 *   Urban Dictionary (http://www.urbandictionary.com) 
 *   Webster's Online Dictionary (http://www.websters-online-dictionary.org/) 
 *   Acronym Finder (http://www.acronymfinder.com/) 
-*   A to Z word finder [(http://www.a2zwordfinder.com/](http://www.a2zwordfinder.com/)))  
+*   A to Z word finder (http://www.a2zwordfinder.com/)  
 
 
 ## Volunteerism and Gift Economies
@@ -56,8 +52,6 @@ Donated time are the life blood of open source projects. Many individuals contri
 Contributions to projects are often self-directed, with developers having a personal itch to scratch in the form of a new feature, by correcting a bug that they've encountered or by implementing something from a TODO list. Projects operating in this way may seem chaotic if you are only familiar with top-down management - where teachers, professors or bosses tell you what to do and when. Of course, some projects do have clearly defined project management, with milestones and tasks meted out carefully.
 
 Because many (or in some cases all) contributors are volunteering, methods of coercion available to businesses are not available. The best way to collaborate is to behave in a way that encourages others, and ultimately, makes people want to contribute. Some easy ways to encourage volunteerism include:
-
-
 
 *   Saying thank you
 *   Giving compliments when they are deserved, regularly and in public
