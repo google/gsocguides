@@ -56,25 +56,21 @@ For those unfortunate students that don't make the cut for logistical reasons (e
 
 The Google Open Source Program Office (OSPO) has an internal process to select mentoring organizations and allocate GSoC student slots; understanding it may help you make better student selections. 
 
-Each mentoring organization will review the applications they receieve (outside of the program site) and determine the best projects using the criteria agreed upon by their organization. Next the Org Admins will make sure those "best projects" have at least one mentor confirmed to mentor that project. Then the Org Admin will enter a minimum and a maximum number of student "slots" they wish to receive. The minimum is based on the projects that are so amazing they really want to see these projects occur over the summer and the maximum number should be the number of solid and amazing projects they wish to mentor over the summer. 
+Each mentoring organization will review the applications they receive (outside of the program site) and determine the best projects using the criteria agreed upon by their organization. Next the Org Admins will make sure those "best projects" have at least one mentor confirmed to mentor that project. Then the Org Admin will enter a minimum and a maximum number of student "slots" they wish to receive. The minimum is based on the projects that are so amazing they really want to see these projects occur over the summer and the maximum number should be the number of solid and amazing projects they wish to mentor over the summer. 
 
 Next, Google OSPO will allocate each organization a number of student slots. It is then up to the Org admins and mentors to decide which of their student proposals will become their organization's accepted student slots. The Org Admin will then select the student proposals on the program site.   
 
 You should also understand how student selection and mentoring can affect the eligibility of an organization. In particular, note that a poor job of mentoring may lead to a poor outcome, making it less likely that your organization will be selected in future years. But failing a student does not mean that Google will consider that organization poorly for future programs, we encourage organizations to fail if the student is not doing the work, generally 12-15% of students fail their project in a given year at some point in the program.
 
  
-
-
 ## Starting at the Beginning
 
 A successful GSoC project begins with a successful initiation. Finding the right three-way fit between mentor, student and organization can make success incredibly easy. Conversely, failing to find this fit makes it difficult or impossible for the project to succeed.
 
 Once a fit is found, the project is ready to be elaborated. You and your student are prepared to embark upon a grand adventure. Excelsior!
 
-**Pro Tip**:** **One temptation to be avoided is to give a promising student excessive help in rewriting their proposal. It is likely that the result will be a proposal stronger than the student it represents. Students' communication, organization and logical thinking skills rarely improve over the course of a summer.
+**Pro Tip**: One temptation to be avoided is to give a promising student excessive help in rewriting their proposal. It is likely that the result will be a proposal stronger than the student it represents. Students' communication, organization and logical thinking skills rarely improve over the course of a summer.
 
 **Pro Tip**: If in doubt about a student applicant's final ranking after allocation, err on the side of rejecting. Limited program budget and mentor time can most certainly be better spent on another student in your or another organization. 
 
-**Don't Be* *That Guy**: Don't even think about selecting a student with whom you've had no contact. You should establish an active back-and-forth prior to making a decision. If you or your student have failed to make this happen, *do not proceed*.
-
-
+**Don't Be That Guy**: Don't even think about selecting a student with whom you've had no contact. You should establish an active back-and-forth prior to making a decision. If you or your student have failed to make this happen, *do not proceed*.

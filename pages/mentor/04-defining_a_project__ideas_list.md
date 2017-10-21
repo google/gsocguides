@@ -22,8 +22,6 @@ Note that the quality of the project descriptions on an organization's "Ideas li
 
 When Google Administrators review the hundreds of organization applications one of the main things they look at is the quality of the Ideas list. An Ideas list should follow these guidelines:
 
-
-
 1.  Each project on the Ideas list should include: a) a project title/description  b) more detailed description of the project (2-5 sentences) c) expected outcomes  d) skills required/preferred  e) possible mentors. And if possible, an easy, medium or hard rating of each project.
 1.  Have multiple ideas. Even if you are a new organization and only want one or two students showing that you have multiple ideas (a bare minimum of 4 solid ideas) is vital. And for an organization hoping for 4 or more students you should have at least 8-10 ideas and having them categorized is a nice touch if you have subcategories of topics within your project.
 1.  Make it easy for Administrators to find your Ideas list. When reviewing many hundreds of organizations Program Admins can only spend a certain amount of time looking for your Ideas list. Many organizations are rejected because Program Admins couldn't find the actual Ideas list because the URL the org gave had a bunch of other unrelated information on it and wasn't clear where to find the actual Ideas list. 
@@ -49,5 +47,3 @@ The project you propose will define the tone and scope of your organization's pa
 **Pro Tip**: Maintain an "ideas page" with a running list of entry projects year-round. This can benefit your development effort throughout the year. It can also make your organization's GSoC application easier to put together the following summer.
 
 **Don't Be That Guy**: Don't propose projects that neither you nor anyone else wants to mentor.
-
-

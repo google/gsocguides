@@ -10,8 +10,6 @@ It all begins with the "Ideas Page". This is where you compile a list of possibl
 
 Depending on how your organization operates, the source of material for your Ideas Page may come from an existing list of projects maintained by your community year-round, from potential mentors as they are recruited, or from the org admin. Regardless of how it is generated, an Ideas Page should have the following:
 
-
-
 *   Brief descriptions of projects that can be completed in about 12 weeks.
 *   For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level.
 *   A list of potential mentors.

@@ -17,8 +17,6 @@ This program has brought together thousands of students and mentors from over 11
 
 The program has several goals:
 
-
-
 *   Get more open source code written and released for the benefit of all.
 *   Inspire young developers to begin participating in open source development.
 *   Help open source projects identify and bring in new developers.
@@ -26,8 +24,6 @@ The program has several goals:
 *   Give students more exposure to real-world software development (for example, distributed development and version control, software licensing issues, and mailing list etiquette).
 
  
-
-
 ## A Brief History of Google Summer of Code
 
 Google Summer of Code began in 2005 as a complex experiment with a simple goal: helping students find work related to their academic pursuits during their school holidays. In GSoC's first year, 40 projects and 400 students participated. By the conclusion of the twelfth Google Summer of Code in 2016, over 12,000 students have been accepted into the program. Best of all, most of the organizations participating over the past seven years reported that the program helped them find new community members and active committers.

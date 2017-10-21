@@ -18,7 +18,7 @@ Once a student has a feeling for who's who in the community, they are more likel
 
 ## Encourage Questions
 
-Asking effective questions is a skill, not an innate talent. There are many resources for learning how to ask questions effectively, and Eric Raymond's classic *"How to ask good questions" *(http://catb.org/~esr/faqs/smart-questions.html) is a great place for students to start.  Another useful resource is Simon Tatham's *"How to Report Bugs Effectively" *(http://www.chiark.greenend.org.uk/~sgtatham/bugs.html) which isn't explicitly about asking questions, but does cover aspects of effective communication about technical issues.
+Asking effective questions is a skill, not an innate talent. There are many resources for learning how to ask questions effectively, and Eric Raymond's classic [How to ask good questions](http://catb.org/~esr/faqs/smart-questions.html) is a great place for students to start.  Another useful resource is Simon Tatham's [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html) which isn't explicitly about asking questions, but does cover aspects of effective communication about technical issues.
 
 Before your student asks a question, it's often helpful for them to take a minute to struggle with it and attempt to find the answer on their own. That extra effort often helps your student to solve their own problem. If not, it sharpens the question they ultimately ask.
 

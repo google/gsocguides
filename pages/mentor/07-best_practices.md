@@ -32,17 +32,15 @@ Here are some ways to help your student understand that her question is valuable
 
 **Be inclusive**: If you're asked a question which someone else in your project could answer better, put your student in touch with them. Invite your student to participate in your community events, not just the core development processes. Invite your student to attend group retreats or related conferences.
 
-**Introduce your student to the community's communication style**: Some groups have developed codes of conduct, such as the Fedora IRC Helpers Code of Conduct (http://fedoraproject.org/wiki/IRC_helpers_code_of_conduct), which help initiate new members and guide the interactions of existing members. You are encouraged to read the code of conduct and think about which issues and solutions might apply to your group.
+**Introduce your student to the community's communication style**: Some groups have developed codes of conduct, such as the [Fedora IRC Helpers Code of Conduct](http://fedoraproject.org/wiki/IRC_helpers_code_of_conduct), which help initiate new members and guide the interactions of existing members. You are encouraged to read the code of conduct and think about which issues and solutions might apply to your group.
 
-**Follow mailing list etiquette**: The GSoC mentors mailing list has more than 4500 subscribers. If you have a question for the Google team, mail gsoc-support@google.com instead of the list. Please take a moment to review list etiquette (http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html).
+**Follow mailing list etiquette**: The GSoC mentors mailing list has more than 4500 subscribers. If you have a question for the Google team, mail gsoc-support@google.com instead of the list. Please take a moment to review list [etiquette](http://www.gweep.ca/~edmonds/usenet/ml-etiquette.html).
 
 **Address communication disconnects**: When working with people for the first time, a best practice is to assume that they do not mean any harm. If your student makes a comment via email that offends another member of the community, it's appropriate and constructive to speak up and address the issue. Assuming that the comment was the result of misunderstanding, rather a result of malice, allows you to ask questions and help your student adjust to your community's communication style.
 
 After asking questions, you can then offer an explanation to a person or a suggestion on how they could behave or phrase their comments differently in the future. When offering coaching on how to behave, be mindful of embarrassing your student in public about what's happened, or demanding apologies. If possible, talk to your student one on one, using an immediate communication medium like IM, IRC, the telephone or a face-to-face conversation. This is better than sending email. Remember that you're telling someone that they did something wrong; keep in mind how you'd feel if someone was telling you that you'd made a mistake.
 
 **Apologize Effectively**: Making apologies is a fact of human life, and open source communities are no exception. In the event that you or a student finds themselves needing to make an apology, there are a few things that might help you apologize effectively:
-
-
 
 *   Make the apology as soon as possible
 *   Make it clear in the subject line that you're apologizing
@@ -58,8 +56,6 @@ Project policies vary widely on how contributions are treated. Some encourage co
 All projects engage in some form of code review and the inevitable criticism. Having people look at and ask questions about your code is a fact of working in the open source world. Direct code review is one of the great strengths of open source development. Direct review helps people hone their coding skills and learn rapidly from others. Bugs are found quickly and fixed. The whole process is documented in source control repositories and mailing lists and made available online.
 
 Here are some ways that you can help students prepare for code review:
-
-
 
 *   Provide example mailing list threads or a list of the types of questions that are asked about code.
 *   Direct students to review coding standards that apply to your project.

@@ -12,7 +12,7 @@ As a GSoC mentor, you are in the best position to identify "red flags" and warni
 
 **Missing student**:  Missing a predefined meeting is a serious warning sign that your student is not taking the process seriously and this should be remedied as early as possible.  If your student was in such a deep "coding zone" that they forget the meeting, and you have it later on, that might be acceptable.
 
-**"My village was invaded by aliens"**: What is a valid excuse? Students have been known to come up with outlandish excuses as to why they are not meeting their milestones. *(You did agree on milestones beforehand, right?) *If you think that your student is lying to you, that is a huge warning that things are going sour. Make sure to remind them that "real life just got in the way, I will redouble my efforts next week" is always better than "my village was invaded by aliens."
+**"My village was invaded by aliens"**: What is a valid excuse? Students have been known to come up with outlandish excuses as to why they are not meeting their milestones. *(You did agree on milestones beforehand, right?)* If you think that your student is lying to you, that is a huge warning that things are going sour. Make sure to remind them that "real life just got in the way, I will redouble my efforts next week" is always better than "my village was invaded by aliens."
 
 **Bad students happen to good mentors**: One thing to keep in mind: *Sometimes bad students happen to good mentors.* Don't take it personally. If a mentor tries their hardest and their student fails, this does not reflect badly on the mentor.
 
