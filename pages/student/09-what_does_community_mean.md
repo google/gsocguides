@@ -33,8 +33,6 @@ Decisions are often made based on who has working code, rather than on a theoret
 
 As groups grow in size, some kind of organization becomes necessary. The type of formal organization varies widely across social, cultural and political boundaries.  Some ways of organizing include:
 
-
-
 *   Electing a steering committee by a vote of developers.
 *   Forming a non-profit organization or foundation.
 *   Creating a for-profit business.

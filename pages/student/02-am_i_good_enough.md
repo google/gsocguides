@@ -17,7 +17,7 @@ Every project has a different criteria for selecting students and subsequently d
 
 ## The soft skills
 
-**You find out where to go for help with technical questions **
+**You find out where to go for help with technical questions**
 
 There are many available resources on the interwebs to go to for help with technical questions, knowing how to use a search engine to begin your search is very important.
 
@@ -33,20 +33,18 @@ Since you'll be spending significant amounts of time working alone - not being a
 
 Do think you all ready know everything about everything in the world of programming for open source programs?  Then you probably aren't good enough for GSoC!
 
- 
-
 
 ## The technical stuff
 
-**You can install and configure software packages on your own **
+**You can install and configure software packages on your own**
 
 If you don't know how to download and install packages on your own, you'll need to figure that out, stat.
 
-**You have access to a functioning computer 40 hours a week **
+**You have access to a functioning computer 40 hours a week**
 
 If your computer regularly dies, or you don't have dedicated access to a computer you'll need to figure that out before you start your project. Also, GSoC should be considered a full-time commitment. Don't expect an hour or two a day in an internet cafe to be enough!
 
-**You've got experience using the programming language and operating system of the project **
+**You've got experience using the programming language and operating system of the project**
 
 Depending on the project, the skills necessary will range from beginner to expert, but you do need some experience.  One of the great things about GSoC is that there is a large variety of organizations and projects to chose from. Chances are very good that you can find a project that meets you at your level.  Even if you are a beginner!** **If the project primarily uses Linux for development and distribution, then you need to be comfortable with basic Linux usage. Sometimes, you'll see projects looking to expand onto other platforms, in which case you may be able to bring in new expertise.
 

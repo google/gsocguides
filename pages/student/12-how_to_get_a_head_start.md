@@ -13,8 +13,6 @@ The last thing you want is for the coding period to start and then realize that 
 
 Each project has a unique set of tools and packages required to work with developers. These often include:
 
-
-
 *   Compiler
 *   Language interpreter
 *   Text editor
@@ -45,23 +43,23 @@ Take advantage of the community bonding period to connect with your mentor, and 
 
 GSoC is not only about working with your mentor. There's this amazing group of outstanding and motivated students too.  
 
-**Student mailing list **
+**Student mailing list**
 
 Google has a private mailing list for the GSoC students. Go ahead and introduce yourself on the student mailing list. Talk about your project ideas, get feedback on your proposal. The mailing list also has GSoC participants from earlier lists. Use the student mailing list as an additional resource. Your questions can be technical or non-technical. Of course, remember not to be a bullhorn and be mindful of the mailing list etiquette.  
 
-**They're just like me! **
+**They're just like me!**
 
 There are many students who have faced or are facing the problems like you. Don't be scared to ask your questions. This is more true for the students who have been accepted to the same organizations as yours. You can ask them about how they got their dev setup working. Help each other out on the irc and mailing lists. Don't be afraid to ask and don't be afraid to answer! 
 
-**Make friends around the world **
+**Make friends around the world**
 
 GSoC is a great opportunity that helps people and communities collaborate across boundaries. Use this opportunity to learn more about diverse technologies and cultures and be respectful of the cultural differences.   
 
-**Meetup and discussion groups **
+**Meetup and discussion groups**
 
 You can always find students who are excited by the same ideas as yours. Use your GSoC contacts to organize meetups and discussion groups. You can meet up with people who are. It's always good to put a face on the names that you've been friends with. Help each other out with coding problems.
 
-**Organize Student Chapters **
+**Organize Student Chapters**
 
 You can even consider starting a local student chapter for your community if you can find enough interested people. It's a great way of socializing, making and keeping new friends and also spreading word about your community, open source and GSoC. 
 

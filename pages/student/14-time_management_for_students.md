@@ -26,17 +26,15 @@ You should absolutely, absolutely make sure you're interacting often with your m
 
 It always helps to set short-term goals that you can discuss with your mentor. Breaking down your project in smaller tasks helps in many ways:
 
-
-
 *   It gets you started!! You have a smaller, well-defined task to work on which is easier to manage.
 *   Mini-goals help create a road map to get to the final output you're trying to produce. 
 *   Smaller goals are less daunting, and completing a small goal gives you the confidence to tackle the next one.
 
-**Regular code reviews **
+**Regular code reviews**
 
 Regular code reviews are extremely important for staying on track. Don't be afraid to ask for them as frequently as you need them. It is much better to ask for a code review after 10 or 20 lines instead of hundreds of lines. If your mentor tells you that you are going about something the wrong way, you don't want to find out *after* writing a ton of useless code.
 
-**Maintain a log to keep track of your progress **
+**Maintain a log to keep track of your progress**
 
 Keeping a log of your progress is a great way to monitor progress both for yourself, your mentor and anyone else. It also turns out to be valuable in cases when you need to go reconsider a decision and figure out why you made that choice in the first place. Blogging is a good way to achieve this, since you may get good advice in the way of comments from people that you normally wouldn't communicate with, and it gives you a bit of limelight as well.
 

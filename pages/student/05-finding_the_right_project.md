@@ -8,21 +8,15 @@ sidebar: student_sidebar
 
 Each organization will have a project Ideas Page linked to from the official Google list of accepted organizations. Browse the list of project ideas for each of the organizations for which you are interested. The ideas should give you a clear sense of the range and depth of projects being targeted and the expectations in terms of prior experience and programming skills. In addition to the list of project ideas, many organizations encourage original ideas proposed by students.
 
- 
-
 
 ## Shortlist 
 
 There's a big sea of projects out there for GSoC. Start by compiling a list of potential project ideas that catch your interest. For each idea, take some time to carefully consider what is being proposed, how its scope might be better defined, and how it might fit in with the larger picture.  
 
- 
-
 
 ## Ask questions 
 
 Consider any questions you might have about the project, how it might be implemented, and what it would entail. Read the FAQs. If there's still anything unclear about the project and requirements, get your doubts cleared. Formulate your questions and suggestions regarding each idea into a clear and concise communication.
-
- 
 
 
 ## Evaluate your options 

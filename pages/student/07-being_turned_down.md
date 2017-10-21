@@ -13,15 +13,13 @@ Don't despair! The beauty of engaging in the GSoC process is that you're learnin
 
 ## What to do now?
 
-First, don't take it personally.** **Just like when you apply for a job, there are reasons why you might not get in, some that have nothing to do with you. Mentors may not be available, the organization may not have enough space for your project or it may just not be the right time for your proposal. 
+First, don't take it personally. Just like when you apply for a job, there are reasons why you might not get in, some that have nothing to do with you. Mentors may not be available, the organization may not have enough space for your project or it may just not be the right time for your proposal. 
 
 So, where to go from here? There are several strategies you can consider to go forward positively. 
 
 **Ask for feedback on your proposal **
 
 Just like in job interviews, gathering information about why your proposal wasn't accepted is a great thing to do to improve your next application. Some example questions to politely ask if your proposal is turned down include: 
-
-
 
 *   Was there a mismatch with my skills and the project requirements? If so, what skill areas can I work on to be better qualified next year?
 *   Did I engage enough with the community during the application process? 
@@ -30,7 +28,7 @@ Just like in job interviews, gathering information about why your proposal wasn'
 
 Following up and getting more information about what you might be able to do differently next time is a great pathway to success.
 
-**Approach an organization about doing the project anyway **
+**Approach an organization about doing the project anyway**
 
 For those students with the drive to forge ahead without GSoC financial support, you may find that a community really is interested in your project anyway. Don't be afraid to approach your community, GSoC org admin or mentors you communicated with about future contribution.
 
@@ -42,13 +40,13 @@ Some successful students have even found business sponsorship of their work late
 
 Gustavo Padovan, BlueZ, GSoC Studnet 2009, 2010 
 
-**Stay connected **
+**Stay connected**
 
 If you've already invested time and energy getting to know a community, stay involved! Subscribe to relevant mailing lists, participate in IRC or fix small bugs that you have time for.
 
 There are also many non-code ways you can contribute to software. If you're interested in documentation, graphic design, release testing, public relations or marketing, most projects welcome contributions in these areas. Taking on small non-code projects can be a great way to stay connected and build a reputation in a community.
 
-**Try a new organization **
+**Try a new organization**
 
 Maybe that project wasn't the right fit! Part of selecting a project is selecting a community that works with you. (Also see the chapter on "What does community mean")
 
