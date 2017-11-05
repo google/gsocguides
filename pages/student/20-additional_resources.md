@@ -11,7 +11,7 @@ We've collected our favorite and most useful resources specific to GSoC here.
 
 ## General Resources
 
-You want to take a look at the Program Rules and Frequently Asked Questions each year to make sure you have a good idea of the rules for the program. There's a wealth of information included in the Program Rules and FAQs (and this manual), even for experienced participants. You can always find the latest information on the site: https://g.co/gsoc
+You have to take a look at the Program Rules and Frequently Asked Questions each year to make sure to have a good idea of the rules for the program. There's a wealth of information included in the Program Rules and FAQs (and this manual), even for experienced participants. You can always find the latest information on the site: https://g.co/gsoc
 
 Additionally, these resources are quite helpful:
 
