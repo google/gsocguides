@@ -44,7 +44,7 @@ Many people feel that they're not qualified to do a full review of a patch. But 
 
 If you can apply a patch and you can use the new feature, you're already qualified to start reviewing it.
 
-A reviewer does not need to guarantee some level of quality, but they do need to report any problems they find. The review is done if you think the patch is ready for in-depth review from a committer. See this patch review at http://archives.postgresql.org/pgsql-hackers/2009-07/msg01103.php as one example of the output a thorough review might produce. Reviews for other patches might, of course, contain different sections or for that matter, look completely different.
+A reviewer does not need to guarantee some level of quality, but they do need to report any problems they find. The review is done if you think the patch is ready for in-depth review from a committer. See this patch review at <http://archives.postgresql.org/pgsql-hackers/2009-07/msg01103.php> as one example of the output a thorough review might produce. Reviews for other patches might, of course, contain different sections or for that matter, look completely different.
 
 Questions a patch reviewer might ask include:
 
@@ -53,7 +53,7 @@ Questions a patch reviewer might ask include:
 *   Does it follow a relevant specification, RFC or the community-agreed behavior?
 *   Are there corner cases or failure situations the author has failed to consider?
 *   Does the patch slow down simple tests or other features?
-*   Does it follow the project coding guidelines? For an example, see http://developer.postgresql.org/pgdocs/postgres/source.html
+*   Does it follow the project coding guidelines? For an example, see <http://developer.postgresql.org/pgdocs/postgres/source.html>
 *   Will it work on all supported operating system and hardware platforms?
 *   Are the comments sufficient and accurate? Are there any comments at all?
 *   Does it produce compiler warnings?

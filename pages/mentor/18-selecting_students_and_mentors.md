@@ -55,7 +55,7 @@ If you (or the mentor) are insecure about their qualifications having them join 
 
 Avoid spending time on proposals that were not tailored to your project by using the "ignore" feature for student proposals.
 
-Occasionally a student does not understand the importance of attribution when drawing on material from outside sources. Make sure she understands, early on, that plagiarism is not tolerated. In blatant cases, a good response is to reject the proposal and consider informing the administration at the academic institution the student is affiliated with. The article http://tesl-ej.org/ej10/a2.html has some context to avoid surprises.
+Occasionally a student does not understand the importance of attribution when drawing on material from outside sources. Make sure she understands, early on, that plagiarism is not tolerated. In blatant cases, a good response is to reject the proposal and consider informing the administration at the academic institution the student is affiliated with. The article <http://tesl-ej.org/ej10/a2.html> has some context to avoid surprises.
 
 
 ## Selection Strategies

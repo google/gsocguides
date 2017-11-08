@@ -114,7 +114,7 @@ Test Driven Development
 
 ## Use Case
 
-A use case describes what a user can do with a particular software system. http://en.wikipedia.org/wiki/Use_case
+A use case describes what a user can do with a particular software system. <http://en.wikipedia.org/wiki/Use_case>
 
 
 ## Waterfall Model

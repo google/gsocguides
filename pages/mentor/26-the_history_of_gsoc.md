@@ -20,6 +20,6 @@ In 2015, the eleventh Google Summer of Code wrapped up with more than 88% of the
 
 Best of all, most of the 515 organizations participating over the past eleven years reported that the program helped them find new community members and active committers.
 
-You can find more information about each year of Google Summer of Code on the program statistics page on the History tab of the GSoC website: https://developers.google.com/open-source/gsoc/resources/stats
+You can find more information about each year of Google Summer of Code on the program statistics page on the History tab of the GSoC website: <https://developers.google.com/open-source/gsoc/resources/stats>
 
 

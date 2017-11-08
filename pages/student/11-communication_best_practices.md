@@ -48,7 +48,7 @@ Many projects use IRC for real-time conversations. Often these IRC conversations
 
 The Fedora Project has a great FAQ on how to use IRC. Read it!
 
-http://fedoraproject.org/wiki/Fedora_Channel_FAQ
+<http://fedoraproject.org/wiki/Fedora_Channel_FAQ>
 
 Some additional guidelines:
 

@@ -39,10 +39,10 @@ People come up with abbreviations and slang that are meaningful inside the group
 
 Here are a few useful resources for teasing out meaning from initialisms, acronyms and abbreviations:
 
-*   Urban Dictionary (http://www.urbandictionary.com)  
-*   Webster's Online Dictionary (http://www.websters-online-dictionary.org/)  
-*   Acronym Finder (http://www.acronymfinder.com/)
-*   A to Z word finder (http://www.a2zwordfinder.com/)
+*   Urban Dictionary (<http://www.urbandictionary.com>)  
+*   Webster's Online Dictionary (<http://www.websters-online-dictionary.org/>)  
+*   Acronym Finder (<http://www.acronymfinder.com/>)
+*   A to Z word finder (<http://www.a2zwordfinder.com/>)
 
 
 ## Volunteerism and Gift Economies

@@ -18,7 +18,7 @@ It is important for mentors and org admins to have a communication channel that 
 
 Org admins should have a list of mentors and students along with their timezones and preferred contact information and availability. This is essential for umbrella organizations, which sometimes have so many people spread across so many countries and time zones that it is impossible for an org admin to keep track.
 
-GSoC is often the first time people ever have to collaboratively work with others across many timezones, so it is worth taking time in the beginning of the summer to figure out these details. The fact that Daylight Savings Time is different depending on where people are complicates things even more. Usually it is best to set times in UTC so that DST will not complicate things. The World Clock website (http://www.timeanddate.com/worldclock/) is also a good resource for determining the time in a certain location. 
+GSoC is often the first time people ever have to collaboratively work with others across many timezones, so it is worth taking time in the beginning of the summer to figure out these details. The fact that Daylight Savings Time is different depending on where people are complicates things even more. Usually it is best to set times in UTC so that DST will not complicate things. The World Clock website (<http://www.timeanddate.com/worldclock/>) is also a good resource for determining the time in a certain location. 
 
 
 ## Setting Expectations

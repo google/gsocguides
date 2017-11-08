@@ -11,7 +11,7 @@ We've collected our favorite and most useful resources specific to GSoC here.
 
 ## General Resources
 
-You want to take a look at the Program Rules and Frequently Asked Questions each year to make sure you have a good idea of the rules for the program. There's a wealth of information included in the Program Rules and FAQs (and this manual), even for experienced participants. You can always find the latest information on the site: https://g.co/gsoc
+You want to take a look at the Program Rules and Frequently Asked Questions each year to make sure you have a good idea of the rules for the program. There's a wealth of information included in the Program Rules and FAQs (and this manual), even for experienced participants. You can always find the latest information on the site: <https://g.co/gsoc>
 
 Additionally, these resources are quite helpful:
 
@@ -21,15 +21,15 @@ Several knowledgeable folks (mentors, org admins, former students, current stude
 
 **Blog Posts** 
 
-You can find material related to GSoC on the Google Open Source Blog at https://opensource.googleblog.com. Your project may have a blog or newsletter where GSoC information was published in the past, as well.
+You can find material related to GSoC on the Google Open Source Blog at <https://opensource.googleblog.com.> Your project may have a blog or newsletter where GSoC information was published in the past, as well.
 
 **Knowledge Base** 
 
-If you're looking for advice for mentors or students, program promotional materials, presentations about GSoC, etc., start with the program site https://g.co/gsoc, particularly the Resources section.
+If you're looking for advice for mentors or students, program promotional materials, presentations about GSoC, etc., start with the program site <https://g.co/gsoc>, particularly the Resources section.
 
 **List of Organizations** 
 
-You can see a list of the mentoring organizations that participated in previous years of the program by going to the program site and looking at the Archive site: https://developers.google.com/open-source/gsoc/past-summers
+You can see a list of the mentoring organizations that participated in previous years of the program by going to the program site and looking at the Archive site: <https://developers.google.com/open-source/gsoc/past-summers>
 
 
 ## Mailing Lists
@@ -40,13 +40,13 @@ There are two program mailing lists.
 
 For announcements from Google's program administrators only. Used infrequently. 
 
-http://groups.google.com/group/google-summer-of-code-announce
+<http://groups.google.com/group/google-summer-of-code-announce>
 
 **Program Discussion List** 
 
 Open subscription list for the program. General talk about the program, light traffic except during the launch phase of the program each year. It is always excellent for you to stop by and encourage a newbie, though, so please don't totally ignore this list.  
 
-http://groups.google.com/group/google-summer-of-code-discuss
+<http://groups.google.com/group/google-summer-of-code-discuss>
 
 
 ## Books
@@ -55,24 +55,24 @@ http://groups.google.com/group/google-summer-of-code-discuss
 
 Written by Karl Fogel. Excellent guide to Open Source development. Its available free online.  
 
-http://producingoss.com/
+<http://producingoss.com/>
 
 **Google Summer of Code Mentors Guide** 
 
-https://google.github.io/gsocguides/mentor
+<https://google.github.io/gsocguides/mentor>
 
 **Teaching Open Source** 
 
 by Karsten Wade 
 
-http://teachingopensource.org
+<http://teachingopensource.org>
 
 
 ## Associated Projects
 
 **Teaching Open Source**  
 
-http://teachingopensource.org 
+<http://teachingopensource.org> 
 
 irc : freenode #teachingopensource
 
