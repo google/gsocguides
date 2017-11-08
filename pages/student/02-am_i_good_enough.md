@@ -8,7 +8,7 @@ sidebar: student_sidebar
 
 Do you have *some* programming experience at the university level? Then, yes, you are good enough! No, you don't need to be a Computer Science or IT major. Students from all subject areas are successful GSoC students. Have work experience programming but spend your time studying philosophy full-time? Yes, you are good enough to be a GSoC student!
 
-"Although at first I was a little inexperienced in the world of mobile applications and a bit overwhelmed by the challenge, I can positively say that four months later I've gradually overcome all the obstacles. I had a great mentor, that's for sure!" 
+"Although at first I was a little inexperienced in the world of mobile applications and a bit overwhelmed by the challenge, I can positively say that four months later I've gradually overcome all the obstacles. I had a great mentor, that's for sure!"
 
 Evelina Vrabie, Romania, Android Project - GSoC 2010
 
@@ -21,15 +21,15 @@ Every project has a different criteria for selecting students and subsequently d
 
 There are many available resources on the interwebs to go to for help with technical questions, knowing how to use a search engine to begin your search is very important.
 
-**You take and respond well to feedback** 
+**You take and respond well to feedback**
 
 The community developed software model relies heavily on constructive feedback and the willingness for each contributor to take that criticism and make the code better.   You are going to be getting regular feedback from your mentor -- not all of it is going to be "this is great" "you are awesome." Learning from and graciously accepting feedback is a very important trait for a successful GSoC student.
 
-**You can work independently** 
+**You can work independently**
 
 Since you'll be spending significant amounts of time working alone - not being afraid to face the unknown and start breaking down what may initially seem like insurmountable problems independently is important.
 
-**You know when to ask questions** 
+**You know when to ask questions**
 
 Do think you all ready know everything about everything in the world of programming for open source programs?  Then you probably aren't good enough for GSoC!
 

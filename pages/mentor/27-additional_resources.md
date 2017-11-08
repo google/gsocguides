@@ -32,40 +32,40 @@ Additionally, these resources are quite helpful:
 
 There are three program mailing lists.
 
-**Announcement Only List**: For announcements from Google's program administrators only. Used infrequently. 
+**Announcement Only List**: For announcements from Google's program administrators only. Used infrequently.
 
 <http://groups.google.com/group/google-summer-of-code-announce>
 
-**Program Discussion List**: Open subscription list for the program. General talk about the program, light traffic except during the launch phase of the program each year. It is always excellent for you to stop by and encourage a newbie, though, so please don't totally ignore this list. 
+**Program Discussion List**: Open subscription list for the program. General talk about the program, light traffic except during the launch phase of the program each year. It is always excellent for you to stop by and encourage a newbie, though, so please don't totally ignore this list.
 
 <http://groups.google.com/group/google-summer-of-code-discuss>
 
-**Mentors List**: Private, invite-only list; mentors are subscribed to the list after their organization is accepted into the program and they opt in to the list during registration. This list is higher traffic at the beginning of the program and around the times of evaluations. Some great advice can be found on this list and in the archives, but it can also be noisy at times. 
+**Mentors List**: Private, invite-only list; mentors are subscribed to the list after their organization is accepted into the program and they opt in to the list during registration. This list is higher traffic at the beginning of the program and around the times of evaluations. Some great advice can be found on this list and in the archives, but it can also be noisy at times.
 
 
 ## Books
 
-**Producing Open Source** 
+**Producing Open Source**
 
-Written by Karl Fogel. Excellent guide to Open Source development. Its available free online. 
+Written by Karl Fogel. Excellent guide to Open Source development. Its available free online.
 
 <http://producingoss.com/>
 
-**Google Summer of Code Students Guide** 
+**Google Summer of Code Students Guide**
 
 <https://google.github.io/gsocguides/student/>
 
 
 ## Associated Projects
 
-**Teaching Open Source** 
+**Teaching Open Source**
 
-<http://teachingopensource.org> 
+<http://teachingopensource.org>
 
 irc : freenode #teachingopensource
 
 
-## What to Do When the Unexpected Happens? 
+## What to Do When the Unexpected Happens?
 
 **Contact your Organization Administrator**: He or she can help you figure out what to do next or contact Google for more help.
 

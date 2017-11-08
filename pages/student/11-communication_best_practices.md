@@ -11,7 +11,7 @@ One of the best things about GSoC is the group of individuals from diverse cultu
 *   Always read the Program Rules, FAQ and manual first! One of the best ways to destroy your reputation early is to repeatedly ask questions on IRC or the mailing list that are covered in a FAQ or other types of documentation.
 *   Don't expect instant answers. Remember you are working with volunteers.
 *   Avoid humor when communicating with the entire GSoC community. It does not translate well to large groups and is likely to be misconstrued by someone.
-*   Remember that other peoples' time is just as valuable as your own.  
+*   Remember that other peoples' time is just as valuable as your own.
 
 
 ## How to Use a Mailing List
@@ -21,7 +21,7 @@ Every community uses mailing lists differently. It is extremely important that y
 Some specific guidelines that should apply across communities:
 
 *   Follow the mailing list posting style. Do people top or bottom post? Follow the norm.
-*   Keep your posts on-topic. Avoid tangents and posting "I know this is off-topic but..." type posts. If you have any doubt, email the moderator *before* you post. 
+*   Keep your posts on-topic. Avoid tangents and posting "I know this is off-topic but..." type posts. If you have any doubt, email the moderator *before* you post.
 *   Don't cross-post to multiple lists. Communicating well on mailing lists means knowing where and when to post items, if you have any doubts regarding what is appropriate, ask the moderator.
 *   Never send community members unsolicited personal messages. Especially, if your content is along the lines of "the way you talk about code really turns me on." Inappropriate!
 *   If you are offended by a response or post, walk-away. Do not respond when you are angry.
@@ -31,15 +31,15 @@ Some specific guidelines that should apply across communities:
 *   Always check the archives before re-posting your message. Lots of mail clients don't send you duplicates of your mailing lists posts. Check the archives before you re-send!
 *   Always read the entire thread before replying. Seriously, read every message in a thread first!
 *   Don't use the mailing list as your own personal Google. Take the time to research the question first. Check the archives, search the project documentation first, Google it yourself.
-*   Don't begin or get involved in religious or political arguments.  
-*   Never proselytize on the mailing list. 
+*   Don't begin or get involved in religious or political arguments.
+*   Never proselytize on the mailing list.
 *   Do your best to always assume the best of the poster. We all have bad days. Sometimes, a non-native speaker may appear to have an offensive "tone" in the post where no offense is meant.
 *   Avoid unintentional "tone" in your postings. If you have any doubt read your message out loud or have someone else read your message before you post.
 
 
-## Like a bullhorn 
+## Like a bullhorn
 
-When you post to the GSoC student list you are essentially using a bullhorn to broadcast your words to 7,000 people across time zones and international boundaries. Use your bullhorn wisely, or it might be ripped from your hands by an unruly and angry mob, or by a responsible moderator. 
+When you post to the GSoC student list you are essentially using a bullhorn to broadcast your words to 7,000 people across time zones and international boundaries. Use your bullhorn wisely, or it might be ripped from your hands by an unruly and angry mob, or by a responsible moderator.
 
 
 ## How to Use IRC

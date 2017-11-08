@@ -62,9 +62,9 @@ Internet Relay Chat
 Just Fabulously Do It. Use your imagination. Ask for forgiveness, not for permission. :)
 
 
-## Lurk  
+## Lurk
 
-To spend some time watching. Often used in reference to a mailing list where you will read the posts but not make any posts yourself or an IRC channel where you watch how people interact but don't say anything. 
+To spend some time watching. Often used in reference to a mailing list where you will read the posts but not make any posts yourself or an IRC channel where you watch how people interact but don't say anything.
 
 
 ## Mentor
@@ -119,7 +119,7 @@ A use case describes what a user can do with a particular software system.
 
 ## UTC
 
-Coordinated Universal Time. 
+Coordinated Universal Time.
 
 
 ## Waterfall Model

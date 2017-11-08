@@ -26,7 +26,7 @@ Students, mentors, and slots:
 
 * Students are not experienced project members and will take longer to write code than the core team. Plan accordingly.
 
-* Mentors should expect to spend about 4-5 hours a week for each student. Some weeks may be more, some weeks less. More time spent during the community bonding period and the first few weeks of the program have led to more successful and engaged students. 
+* Mentors should expect to spend about 4-5 hours a week for each student. Some weeks may be more, some weeks less. More time spent during the community bonding period and the first few weeks of the program have led to more successful and engaged students.
 
 * The mentor/student process is:
 

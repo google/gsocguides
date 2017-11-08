@@ -24,7 +24,7 @@ This program is the Google Summer of *Code.*  If you are less than fluent in the
 
 Most organizations have their own proposal guidelines or templates. You should be extraordinarily careful to conform to these. Most organizations have many, many proposals to review. Failure to follow simple instructions is highly likely to land you at the bottom of the heap.
 
-There are certain elements of the proposal that should apply to every organization. Proper attention to these elements will greatly improve your chances of a successful proposal. 
+There are certain elements of the proposal that should apply to every organization. Proper attention to these elements will greatly improve your chances of a successful proposal.
 
 **Name and Contact Information**
 
@@ -67,7 +67,7 @@ Remember, thousands of students are submitting proposals so it can take organiza
 
 Follow the instructions from the organizations on the content and format of your proposal and use the GSoC program site instructions on successfully submitting and sharing a draft to the organization. You must create the draft and write an abstract before sharing the draft with the organization.
 
-You can edit the draft as many times as you wish before the application deadline. 
+You can edit the draft as many times as you wish before the application deadline.
 
 
 ## Submitting a Final PDF Proposal
@@ -77,7 +77,7 @@ You can edit the draft as many times as you wish before the application deadline
 Follow the instructions on the GSoC site and the process is quite straightforward.
 
 
-## Outside the Project List 
+## Outside the Project List
 
 Some organizations allow students to propose work that is not on their official Ideas Page. This can be a great opportunity to get your proposal on the top of the stack. Reviewers tend to get excited about a student that goes beyond a direct response and enthusiastically proposes work that is novel and creative.
 

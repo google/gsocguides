@@ -19,7 +19,7 @@ Amazingly, the ways in which people actually share code are as varied as the ind
 
 One aspect of "open culture" is that people are informal. People address each other by first name. They tend to speak directly to one another, regardless of social status or formal title. Disagreements about code, whether as profound as which algorithm is most appropriate, or as seemingly mundane as how many spaces are used for indentation, are aired in public. This process is very intimidating to newcomers, who might be concerned about having their words immortalized on the Internet, and worse, saying something wrong or embarrassing. The only way to get over this fear is to practice and participate publicly.
 
-Although "open culture" is generally informal, it is important to remember that you still need to mind your manners when participating in conversations. 
+Although "open culture" is generally informal, it is important to remember that you still need to mind your manners when participating in conversations.
 
 
 ## Remote Communication
@@ -39,8 +39,8 @@ People come up with abbreviations and slang that are meaningful inside the group
 
 Here are a few useful resources for teasing out meaning from initialisms, acronyms and abbreviations:
 
-*   Urban Dictionary (<http://www.urbandictionary.com>)  
-*   Webster's Online Dictionary (<http://www.websters-online-dictionary.org/>)  
+*   Urban Dictionary (<http://www.urbandictionary.com>)
+*   Webster's Online Dictionary (<http://www.websters-online-dictionary.org/>)
 *   Acronym Finder (<http://www.acronymfinder.com/>)
 *   A to Z word finder (<http://www.a2zwordfinder.com/>)
 

@@ -38,7 +38,7 @@ Thus, mapping existing schemas of the Systers database to an object oriented par
 
 *   To do self coding with Storm to improve my further understanding and ease of use with this ORM and database(PostgreSQL)
 *   During this period I will remain in constant touch with my mentor and the Mailman community. I will remain active on IRC and Mailling lists to discuss and finalize on the modifications (if any) that needs to be on existing schemas and design of new schemas (if needed to fit cleanly with Mailman3's Architecture)
-*   Thus with the help of my mentor I will become absolutely clear about my future goals,the final database implementations that need to be done as well as the approach that I will follow to map the schemas to the Object Oriented Paradigm. 
+*   Thus with the help of my mentor I will become absolutely clear about my future goals,the final database implementations that need to be done as well as the approach that I will follow to map the schemas to the Object Oriented Paradigm.
 
 **May 23 – June 18 (Official coding period starts):**
 
@@ -63,7 +63,7 @@ JULY 6th MID TERM EVALUATION
 **July 15 – July 25:**
 
 *   To be in constant touch with the Mailman3's developers and to let them know about our progress.
-*   Most of the time will be consumed for rigorous testing and bug fixes. 
+*   Most of the time will be consumed for rigorous testing and bug fixes.
 
 **July 25 – July 31:**
 

@@ -23,7 +23,7 @@ The program has several goals:
 *   Provide students the opportunity to do work related to their academic pursuits during the summer: "flip bits, not burgers."
 *   Give students more exposure to real-world software development (for example, distributed development and version control, software licensing issues, and mailing list etiquette).
 
- 
+
 ## A Brief History of Google Summer of Code
 
 Google Summer of Code began in 2005 as a complex experiment with a simple goal: helping students find work related to their academic pursuits during their school holidays. In GSoC's first year, 40 projects and 400 students participated. By the conclusion of the twelfth Google Summer of Code in 2016, over 12,000 students have been accepted into the program. Best of all, most of the organizations participating over the past seven years reported that the program helped them find new community members and active committers.
@@ -60,7 +60,7 @@ All of the program rules are enumerated in the GSoC Program Rules and Term docum
 
 Following the student application deadline, organizations begin reviewing the proposals they received. During the review phase, organizations maintain an open dialogue with their student applicants, asking them to refine their proposals. They may also conduct further interviews to determine which students are most likely to be a good fit for the community and work required. Over the course of several weeks, each organization prioritizes its list of proposals. Google lets each organization know how many student proposals it will fund, and organizations select their top proposals.
 
-Sometimes a student has proposals accepted by more than one organization. Google leaves it to the organizations to decide which organization the student will work with during the course of the program. 
+Sometimes a student has proposals accepted by more than one organization. Google leaves it to the organizations to decide which organization the student will work with during the course of the program.
 
 **Community Bonding Period**: Before students are expected to start working, there is a four week period built into the program to allow them to get up to speed without the pressure to execute on their proposals. During this time, students are expected to get to know their project communities and participate in project discussion. During this time, students should also set up their development environments, learn how their project's source control works, refine their project plans, read any necessary documentation, and otherwise prepare to complete their project proposals. Mentors should spend this time helping their students understand which resources will be most useful to them, introducing them to the members of the community who will be most helpful with their projects, and generally acculturating them.
 

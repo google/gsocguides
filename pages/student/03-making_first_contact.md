@@ -31,7 +31,7 @@ At the end of your "listening and research" phase you'll understand how, where a
 *   Introduce yourself! If you are new to the community you need to let people know who you are and why you are interested in contributing to the project.
 *   Ask questions. You should be able to come up with a least a few legitimate questions before offering your opinion on the right way to do things.
 *   Be humble. Until you've engaged with community, for at least a few months, assume that those people talking about things probably are privy to community nuances you might not yet see.
-*   Don't be intimidated. Don't let a bad experience stop you from getting involved. Just relax and think about why you were snubbed and if there's anything that you should be careful about before participating in another conversation. 
+*   Don't be intimidated. Don't let a bad experience stop you from getting involved. Just relax and think about why you were snubbed and if there's anything that you should be careful about before participating in another conversation.
 
 No matter what, don't wait until you apply to initiate contact! Engage with multiple communities once the participating organizations are chosen to get a feel for how different groups work.
 

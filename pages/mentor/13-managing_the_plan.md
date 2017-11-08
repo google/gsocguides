@@ -39,9 +39,9 @@ After you create a strategic plan, you actually need to follow it. Some ways you
 
 ## Delivering Feedback
 
-Throughout the project you should be delivering effective feedback to your student about their code, communication, and documentation. 
+Throughout the project you should be delivering effective feedback to your student about their code, communication, and documentation.
 
-**Deliver feedback early**: Don't wait until several issues have come up, or until your student has impressed you multiple times with their efficiency. Let them know right away what you think about their work. 
+**Deliver feedback early**: Don't wait until several issues have come up, or until your student has impressed you multiple times with their efficiency. Let them know right away what you think about their work.
 
 **Make a point to give positive feedback**: The open source community parcels out compliments all too frugally. When a student completes a task on time, and especially when they exceed your expectations, let them know! Early praise is a far better motivator than late criticism.
 

@@ -34,7 +34,7 @@ When delivering reviews of student performance, be specific about both positive 
 
 This is harsh-sounding advice. However, GSoC stats show that more than 80% of the students who are reported as marginal at or before the first evaluation eventually fail GSoC.  Whatever problems your student is currently having, they are likely to be worse than you currently appreciate, and to get worse rather than better over time.  You are not doing your student, much less yourself, a service by prolonging the agony.  Most GSoC students and their mentors have a great time and get a lot done.  If you are having the other kind of experience, cut your losses and try again next year. Remember there are hundreds of students diligently working on their projects and if you give a student a pass simply because you feel guilty failing them (even though they are not meeting deadlines or communicating) then you are doing a disservice to all of the other hardworking students.
 
-Note that GSoC gives mentoring orgs quite a bit of flexibility and cuts them a lot of slack. Students need to understand that they are being evaluated from before they are accepted to the end of the program, and that you take the GSoC experience seriously and expect them to do likewise. 
+Note that GSoC gives mentoring orgs quite a bit of flexibility and cuts them a lot of slack. Students need to understand that they are being evaluated from before they are accepted to the end of the program, and that you take the GSoC experience seriously and expect them to do likewise.
 
 
 ## It's Not *Impossible* to Turn Things Around

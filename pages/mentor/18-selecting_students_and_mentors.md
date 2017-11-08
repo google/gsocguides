@@ -38,7 +38,7 @@ Students are allowed to submit up to 5 proposals each year, and they can be to m
 This process involves interaction with peer open source organizations. It is critically important that you are polite and cordial, and put the needs of the student first.  Whenever possible, student preferences should be honored. Keep in mind that you may have to work with these organizations outside GSoC; generating ill will here is not worth it. Also keep in mind that Google's program admins emphatically do not want to have to deal with hostility and conflict here. Don't endanger your future participation in GSoC just because some other organization wants some student as much as you do.  Be nice and get out of the way.
 
 
-## Acquiring and Assigning Mentors 
+## Acquiring and Assigning Mentors
 
 Building a mentor pool and matching mentors with projects and students is one of the most challenging tasks for the org admin. For many organizations, the mentor will be selected by project when the ideas page is constructed. For others, mentors will be assigned once students have been selected and matched to projects.
 
@@ -46,7 +46,7 @@ Look critically at mentor volunteers. Wanting the job is not a sufficient qualif
 
 Do not be afraid to reach out to folks in the organization who have not volunteered. The ideal mentor for a project may not have heard of GSoC, or may not have considered herself a candidate for mentoring.  She may be flattered to be asked.
 
-Make sure you have enough mentors, including quite a few spares. Folks who would be capable of mentoring a variety of projects are especially welcome. Strongly consider having enough backup or secondary mentors that every project has an alternate of some sort. 
+Make sure you have enough mentors, including quite a few spares. Folks who would be capable of mentoring a variety of projects are especially welcome. Strongly consider having enough backup or secondary mentors that every project has an alternate of some sort.
 
 If you (or the mentor) are insecure about their qualifications having them join the project as a back-up mentor is a great strategy to encourage future participation.
 

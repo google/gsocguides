@@ -22,11 +22,11 @@ Recent development of Reactome introduced a new proprietary graphical XML format
 
 The project consists of three components:
 
-**GPML to Reactome XML layout converter** 
+**GPML to Reactome XML layout converter**
 
 Unlike the Reactome XML format, GPML mainly describes the graphical representation of pathways and does not contain semantics of the reactions. To produce Reactome XML, therefore, the converter must employ certain heuristics to infer semantic relations from graphical representation and eliminate ambiguities. The heuristics will follow SBGN as close as possible while still retaining compatibility on other formatting conventions.
 
-**Reactome XML layout to GPML converter** 
+**Reactome XML layout to GPML converter**
 
 The Reactome XML layout contains further pathways data that are not viewable in GPML. Therefore, the resulting GPML after conversion will contain additional comments containing the Reactome data or at least their identifiers, so that when a back-conversion (from the GPML to Reactome XML) occurs, data will be preserved.
 
@@ -34,7 +34,7 @@ During the conversion, SBGN semantics will be employed to provide unambiguous ba
 
 During the development of this converter a schema for Reactome XML will also be made so that converted test files can be easily validated.
 
-**Automatic update mechanism between WikiPathways and Reactome** 
+**Automatic update mechanism between WikiPathways and Reactome**
 
 A separate script will be made that periodically pulls updates from WikiPathways and convert it to Reactome XML layout. The script can be set to automatically update the pathways in Reactome if correct credentials are provided. This will mainly be done for pathways that are already tagged to be high quality.
 
