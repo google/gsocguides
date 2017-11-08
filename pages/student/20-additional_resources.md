@@ -11,7 +11,7 @@ We've collected our favorite and most useful resources specific to GSoC here.
 
 ## General Resources
 
-You want to take a look at the Program Rules and Frequently Asked Questions each year to make sure you have a good idea of the rules for the program. There's a wealth of information included in the Program Rules and FAQs (and this manual), even for experienced participants. You can always find the latest information on the site: <https://g.co/gsoc>
+Take a look at the Program Rules and Frequently Asked Questions to make sure you understand the rules of the program. There's also a wealth of information included in the FAQs and this guide, even for experienced participants. You can always find the latest information on the program site: <https://g.co/gsoc>
 
 Additionally, these resources are quite helpful:
 
@@ -21,7 +21,7 @@ Several knowledgeable folks (mentors, org admins, former students, current stude
 
 **Blog Posts**
 
-You can find material related to GSoC on the Google Open Source Blog at <https://opensource.googleblog.com.> Your project may have a blog or newsletter where GSoC information was published in the past, as well.
+You can find material related to GSoC on the Google Open Source Blog at <https://opensource.googleblog.com> Your project may have a blog or newsletter where GSoC information was published in the past, as well.
 
 **Knowledge Base**
 
