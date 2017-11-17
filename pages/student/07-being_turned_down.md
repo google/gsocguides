@@ -17,7 +17,7 @@ First, don't take it personally. Just like when you apply for a job, there are r
 
 So, where to go from here? There are several strategies you can consider to go forward positively.
 
-**Ask for feedback on your proposal **
+**Ask for feedback on your proposal**
 
 Just like in job interviews, gathering information about why your proposal wasn't accepted is a great thing to do to improve your next application. Some example questions to politely ask if your proposal is turned down include:
 

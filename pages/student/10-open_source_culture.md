@@ -41,6 +41,7 @@ Here are a few useful resources for teasing out meaning from initialisms, acrony
 
 *   Urban Dictionary (<http://www.urbandictionary.com>)
 *   Webster's Online Dictionary (<http://www.websters-online-dictionary.org/>)
+*   The Jargon File (<http://www.catb.org/jargon/html/>)
 *   Acronym Finder (<http://www.acronymfinder.com/>)
 *   A to Z word finder (<http://www.a2zwordfinder.com/>)
 
