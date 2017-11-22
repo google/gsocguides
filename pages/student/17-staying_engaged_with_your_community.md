@@ -6,7 +6,7 @@ permalink: student/staying-engaged-with-your-community.html
 sidebar: student_sidebar
 ---
 
-A glorious summer has ended. GSoC is now over—but only officially. Your obligation to the program has been met, but your opportunities still abound. Make the "summer" last by staying involved in your community. Yes, it's now *your*community. Make the most of it. We have a couple of suggestions that can help you make your experience last beyond the summer.
+A glorious summer has ended. GSoC is now over—but only officially. Your obligation to the program has been met, but your opportunities still abound. Make the "summer" last by staying involved in your community. Yes, it's now *your* community. Make the most of it. We have a couple of suggestions that can help you make your experience last beyond the summer.
 
 
 ## Maintaining Your Project
