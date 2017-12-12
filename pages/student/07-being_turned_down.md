@@ -38,7 +38,7 @@ Some successful students have even found business sponsorship of their work late
 
 "This story is about how after about one year and half I became a Linux Kernel Maintainer [of] the Bluetooth Subsystem. On the 2009's GSoC, I worked in important new feature in the kernel side of the Bluetooth stack. The work was too big and I wasn't able to finish it, then after some months a big company hired the company I worked with to have me finish that work. [Now] all work is merged in the Linux tree."
 
-Gustavo Padovan, BlueZ, GSoC Studnet 2009, 2010
+Gustavo Padovan, BlueZ, GSoC Student 2009, 2010
 
 **Stay connected**
 
