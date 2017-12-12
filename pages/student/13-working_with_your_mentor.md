@@ -43,7 +43,7 @@ During the community bonding period you and your mentor should have established 
 
 **My mentor is wrong! My project is going great! What do I do?**
 
-First, take a deep breathe. OK, now take another. Chances are your mentor is not wrong and you need to listen to their advice. This is a great opportunity to start asking questions. Try not to be defensive but rather, "I really don't understand what you mean, would you please explain?". Remember that the open culture surrounding most open source projects encourages and thrives on discourse. Don't view the feedback as negative criticism, but rather an opportunity to explore how to do something different and make your project better. Do your best to listen, learn and incorporate feedback into how you work.
+First, take a deep breath. OK, now take another. Chances are your mentor is not wrong and you need to listen to their advice. This is a great opportunity to start asking questions. Try not to be defensive but rather, "I really don't understand what you mean, would you please explain?". Remember that the open culture surrounding most open source projects encourages and thrives on discourse. Don't view the feedback as negative criticism, but rather an opportunity to explore how to do something different and make your project better. Do your best to listen, learn and incorporate feedback into how you work.
 
 
 ## Dealing with Problems
