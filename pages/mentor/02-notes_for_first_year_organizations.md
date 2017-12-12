@@ -8,7 +8,7 @@ sidebar: mentor_sidebar
 
 Dear First Year Organization,
 
-Congrats! We know you're excited to participate in GSoC. We also know you're overwhelmed, so we have some advice: DON'T PANIC. The GSoC team has done this before and knows what it's doing. The program is well documented, but to get you started, here are a few tips.
+Congrats! We know you're excited to participate in GSoC. We also know it can be overwhelming, but remember the GSoC team has done this before and knows what it's doing. The program is well documented - here are a few tips to get your started.
 
 General:
 
