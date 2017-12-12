@@ -18,7 +18,7 @@ Payment is in three pieces. The first payment is sent shortly after you pass the
 
 **T-shirt and Certificate**
 
-You get a t-shirt, notebook, pen, sticker and a digital certificate of completion at the end of the program if you successfully pass GSoC, unless you are in a Restricted Country. If you are in a Restricted Country you will receive a digital certificate of completion. The program administrators again have to ship each individual package to your home, so please be patient. Mail systems are particularly hard to navigate in some parts of the world and can take almost a month to reach some locations.
+You may receive a t-shirt, sticker and a digital certificate of completion at the end of the program if you successfully pass GSoC, unless you are in a Restricted Country. If you are in a Restricted Country you will receive a digital certificate of completion. The fulfillment company has to ship each individual package to your home, so please be patient. Mail systems are particularly hard to navigate in some parts of the world and can take over a month to reach some locations.
 
 The rest of your experience with the program will be determined by your interactions with the community within your mentoring organization. Most students consider the interactions with their mentor and the rest of the open source community they're involved with to be the most important part of the Google Summer of Code experience.
 
@@ -41,7 +41,7 @@ Mentors are people from the community who volunteer to work with a student. Ment
 
 **Program Administrator**
 
-Program administrators are employees of Google's Open Source Programs Office who run the program. These folks do a variety of tasks: select the participating open source projects each year, create and analyze the program evaluations, administer the program mailing lists, ensure that participants are paid, and send out the all-important program t-shirt. Program administrators do not select which student proposals are accepted into Google Summer of Code.
+Program administrators are employees of Google's Open Source Programs Office who run the program. These folks do a variety of tasks: select the participating open source projects each year, create and analyze the program evaluations, administer the program mailing lists, ensure that participants are paid, respond to inquiries about the program. Program administrators do not select which student proposals are accepted into Google Summer of Code.
 
 
 ## Afterward
