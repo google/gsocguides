@@ -69,6 +69,6 @@ JULY 6th MID TERM EVALUATION
 
 *   For Documentation
 
-A Buffer of two weeks has been kept for any unpredictable delay.
+A buffer of two weeks has been kept for any unpredictable delay.
 
 
