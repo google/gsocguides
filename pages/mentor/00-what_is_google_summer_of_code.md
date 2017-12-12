@@ -26,7 +26,7 @@ The program has several goals:
 
 ## A Brief History of Google Summer of Code
 
-Google Summer of Code began in 2005 as a complex experiment with a simple goal: helping students find work related to their academic pursuits during their school holidays. In GSoC's first year, 40 projects and 400 students participated. By the conclusion of the twelfth Google Summer of Code in 2016, over 12,000 students have been accepted into the program. Best of all, most of the organizations participating over the past seven years reported that the program helped them find new community members and active committers.
+Google Summer of Code began in 2005 as a complex experiment with a simple goal: helping students find work related to their academic pursuits during their school holidays. In GSoC's first year, 40 projects and 400 students participated. By the conclusion of the twelfth Google Summer of Code in 2017, over 13,000 students have been accepted into the program. Best of all, most of the organizations participating have reported that the program helped them find new community members and active committers.
 
 See the appendix for a more extensive history of the program.
 
@@ -54,7 +54,7 @@ Students submit project proposals to the various organizations participating in 
 
 All of the program rules are enumerated in the GSoC Program Rules and Term documents each year. Provided all of the rules regarding eligibility for the program are followed, Google takes a fairly hands-off approach to GSoC. Each organization structures its participation in GSoC in whichever way makes the most sense for its technical and community needs.
 
-**Organization Applications**: The GSoC program is announced each year on the Google Open Source Blog (<http://google-opensource.blogspot.com/>) among other places, and this announcement provides application deadlines for projects. Each organization must apply to participate. The questions asked in the organization application are published in advance and linked from the Program FAQ. Organizations usually have about 2 weeks to apply for the program. Google's program administrators then select which organizations will participate in that year's Google Summer of Code.
+**Organization Applications**: The GSoC program is announced each year on the [Google Open Source Blog](https://opensource.googleblog.com/)among other places, and this announcement provides application deadlines for projects. Each organization must apply to participate. The questions asked in the organization application are published in advance and linked from the Program FAQ. Organizations usually have about 2 weeks to apply for the program. Google's program administrators then select which organizations will participate in that year's Google Summer of Code.
 
 **Student Applications**: Students are encouraged to begin talking to the participating organizations as soon as the list of accepted organizations is published. Prior to the opening of applications, it is important to take some time to talk to potential student applicants. This helps them refine their ideas so that they will produce a better quality proposal. Each organization is asked to provide a proposal template, but the best student applications go far beyond the template and an organization's ideas list. Students are given about 2 weeks to complete their applications.
 
