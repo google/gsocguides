@@ -13,7 +13,7 @@ contribute. A second sprint occurred in 2010 to update the manual (adding the
 Org Admin section) and to write the Students Guide ("Flipping Bits not
 Burgers").
 
-An update of the manual was done in January 2017 and what was quite impressive
+An update of the manual was done in December 2017 and what was quite impressive
 is how few changes had to be made as all of the advice the original authors of
 this manual still stand today.
 
