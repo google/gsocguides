@@ -14,7 +14,7 @@ The perfect answer came from encouraging students to participate in open source 
 
 A cash stipend from Google allowed students to focus on their development work rather than getting a job unrelated to their academic pursuits. The final part of the puzzle was finding projects who were excited to find new contributors and to provide helpers to get these new folks up to speed both technically and socially. The first year 40 projects participated; 400 students began the experiment.
 
-In 2016, the twelfth Google Summer of Code wrapped up with more than 85% of the 1206 student participants in the program successfully completing their projects. Best of all, most of the organizations participating over the past eleven years reported that the program helped them find new community members and active committers.
+In 2017, the thirteeth Google Summer of Code wrapped up with more than 86% of the 1318 student participants in the program successfully completing their projects. Best of all, most of the organizations participating over the past eleven years reported that the program helped them find new community members and active committers.
 
 You can find more information about each year of Google Summer of Code on the program statistics page on the History tab of the GSoC website: <https://developers.google.com/open-source/gsoc/resources/stats>
 
