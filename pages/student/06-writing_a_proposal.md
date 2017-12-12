@@ -116,12 +116,12 @@ Even given this list, there's plenty of room for cool work. Given the opportunit
 
 ## General Notes
 
-While there is an official limit of five submitted proposals, it is okay to submit more than one high-quality proposal. If you have several strong possibilities for the same organization, consider submitting several proposals. Organizations will figure out which one they like best. But avoid sending many medium-quality proposals and concentrate on fewer high-quality proposals.
+While there is an official limit of three submitted proposals, it is okay to submit more than one high-quality proposal. If you have several strong possibilities for the same organization, consider submitting several proposals. Organizations will figure out which one they like best. But avoid sending many medium-quality proposals and concentrate on fewer high-quality proposals.
 
 Most organizations are risk averse. It is better for everyone if your project is under-scoped and sure to complete; as opposed to a large-ish project which may not get done. Under-scoping is an annoyance. Incomplete is a disaster.
 
 Integrate and leverage existing open source code in your project. Only propose to write something yourself if you cannot get it any other way.
 
 The "Pencils Down" deadline for your project to be complete is usually sometime in mid-August. This will come sooner than you think.
-s
+
 
