@@ -18,7 +18,7 @@ One strategy is to leave an opening for students to propose their own original p
 
 **Writing a Good Ideas List**
 
-Note that the quality of the project descriptions on an organization's "Ideas list" is one of the main criterion for the organization's admittance into GSoC. It is worth spending some extra effort to ensure that the projects you propose are worthy of the GSoC banner.
+Note that the quality of the project descriptions on an organization's "Ideas list" is the main criterion for the organization's admittance into GSoC. It is worth spending some extra effort to ensure that the projects you propose are worthy of the GSoC banner.
 
 When Google Administrators review the hundreds of organization applications one of the main things they look at is the quality of the Ideas list. An Ideas list should follow these guidelines:
 
