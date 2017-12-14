@@ -14,6 +14,11 @@
       {% if page.last_updated %}
       <span>Page last updated:</span> {{page.last_updated}}<br/>
       {% endif %}
+      {% if site.github_editme_path %}
+        <a target="_blank" href="https://github.com/{{site.github_editme_path}}/{{ page.path }}" class="githubEditButton no_icon" role="button">Edit page <i class="fa fa-pencil" aria-hidden="true"></i></a>
+      <i class="fa fa-ellipsis-h"></i>
+      {% endif %}
+
       Site last generated: {{ site.time | date: "%b %-d, %Y"  }} <br />
       "Google Summer of Code" (GSoC) is a trademark of Google Inc.  <br />
 
