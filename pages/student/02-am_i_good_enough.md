@@ -31,7 +31,7 @@ Since you'll be spending significant amounts of time working alone - not being a
 
 **You know when to ask questions**
 
-Do think you all ready know everything about everything in the world of programming for open source programs?  Then you probably aren't good enough for GSoC!
+Do you think you already know everything about everything in the world of open source programming?  Then you probably aren't good enough for GSoC!
 
 
 ## The technical stuff
