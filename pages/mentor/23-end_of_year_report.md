@@ -12,5 +12,5 @@ The report should be written for a general audience, so include an introduction 
 
 In the end, the report is all about the students. Be sure to mention any blogs that were maintained by your students, and any public references to their work. Links to screenshots or video demonstrations are quite effective. Including student quotes is a fun way to represent not only their experience but also your organization, through the eyes of new contributors.
 
-You can also tailor the report to be good blog fodor for the Google Open Source blog post your organization administrators need to submit each year to Google program administrsators. That blog post should have some fun stories about the work the student did or quotes from the students or mentors to make it more interesting to the reader.
+You can also tailor the report to be good blog fodder for the Google Open Source blog post your organization administrators need to submit each year to Google program administrsators. That blog post should have some fun stories about the work the student did or quotes from the students or mentors to make it more interesting to the reader.
 
