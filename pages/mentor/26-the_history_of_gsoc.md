@@ -16,9 +16,7 @@ The Google Summer of Code program provides a cash stipend from Google to student
 
 The first year 40 projects participated--400 students began the experiment.
 
-In 2015, the eleventh Google Summer of Code wrapped up with more than 88% of the 1,051 student participants in the program successfully completing their projects. Best of all, most of the organizations participating over the past eleven years reported that the program helped them find new community members and active committers.
-
-Best of all, most of the 515 organizations participating over the past eleven years reported that the program helped them find new community members and active committers.
+In 2015, the eleventh Google Summer of Code wrapped up with more than 88% of the 1,051 student participants in the program successfully completing their projects. Best of all, most of the 515 organizations participating over the past eleven years reported that the program helped them find new community members and active committers.
 
 You can find more information about each year of Google Summer of Code on the program statistics page on the History tab of the GSoC website: <https://developers.google.com/open-source/gsoc/resources/stats>
 
