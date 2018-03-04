@@ -38,7 +38,7 @@ Some of the student applications your organization receives will be obvious winn
 
 **Inquire about the student's GSoC history.** A student who has participated in GSoC before may be easy to figure out. Past performance is usually an indicator of future GSoC success. This information could be included in your organization's student application template, or obtained from a general web search.
 
-**Find out where else the student has applied.** Does the student have other GSoC applications? Did they copy-paste the same application over and over? There are often opportunities for negotiation with other organizations around a student who has applied several places.
+**Find out where else the student has applied.** Does the student have other GSoC applications? Did they copy-paste the same application over and over? There are often opportunities for negotiation with other organizations around a student who has applied to several places.
 
 **Look at the student's other summer plans.** A student who at least claims to be solely focused on GSoC is more likely to be successful.
 
