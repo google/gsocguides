@@ -73,4 +73,4 @@ Once a fit is found, the project is ready to be elaborated. You and your student
 
 **Pro Tip**: If in doubt about a student applicant's final ranking after allocation, err on the side of rejecting. Limited program budget and mentor time can most certainly be better spent on another student in your or another organization.
 
-**Don't Be That Guy**: Don't even think about selecting a student with whom you've had no contact. You should establish an active back-and-forth prior to making a decision. If you or your student have failed to make this happen, *do not proceed*.
+**Don't Be That Person**: Don't even think about selecting a student with whom you've had no contact. You should establish an active back-and-forth prior to making a decision. If you or your student have failed to make this happen, *do not proceed*.

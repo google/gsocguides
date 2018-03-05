@@ -49,6 +49,6 @@ Throughout the project you should be delivering effective feedback to your stude
 
 **Pro Tip**: Don't let the development of your design document become your GSoC project. It's useful to set a date for completion of your strategic plan and add a "Start of Coding" milestone.
 
-**Don't Be That Guy**: Don't be overly-critical of date slippage. It happens.  Fanatical adherence to dates does not lead to successful project completion, nor does it make your student feel excited to contribute to your community long-term.
+**Don't Be That Person**: Don't be overly-critical of date slippage. It happens.  Fanatical adherence to dates does not lead to successful project completion, nor does it make your student feel excited to contribute to your community long-term.
 
 
