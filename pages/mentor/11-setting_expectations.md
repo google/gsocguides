@@ -32,6 +32,6 @@ Overall, communicate and be reasonable when it comes to your students. Be ready 
 
 **Pro Tip**: Ask about the weather and local stability of public services. Is your student using the cafe down the street for Internet access? Are there seasonal weather conditions that may lead to flooding and the subsequent inability to turn-on one's computer? Work on a plan to address these types of environmental issues that can affect both communication and output.
 
-**Don't Be That Guy**: No one likes dictators.  Work with your student on the development of expectations, rather then barking out orders.
+**Don't Be That Person**: No one likes dictators.  Work with your student on the development of expectations, rather then barking out orders.
 
 

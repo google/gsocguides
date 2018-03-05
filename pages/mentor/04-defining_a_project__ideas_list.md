@@ -46,4 +46,4 @@ The project you propose will define the tone and scope of your organization's pa
 
 **Pro Tip**: Maintain an "ideas page" with a running list of entry projects year-round. This can benefit your development effort throughout the year. It can also make your organization's GSoC application easier to put together the following summer.
 
-**Don't Be That Guy**: Don't propose projects that neither you nor anyone else wants to mentor.
+**Don't Be That Person**: Don't propose projects that neither you nor anyone else wants to mentor.
