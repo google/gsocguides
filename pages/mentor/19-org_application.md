@@ -45,3 +45,30 @@ Google's program administrators actually look quite fondly on the umbrella organ
 If your application is rejected, the following you may want to consider reaching out to an accepted umbrella org that might be able to accommodate you.
 
 
+## What's On the Application?
+
+The questions vary from year to year, but will be similar to:
+
+* Why does your org want to participate in GSoC?
+* How many potential mentors have agreed to mentor this year?
+* How will you keep mentors engaged with their students?
+* How will you help your students stay on schedule to complete their projects?
+* How will you get your students involved in your community during GSoC?
+* How will you keep students involved with your community after GSoC?
+* Has your org been accepted as a mentor org in GSoC?
+* What year was your project started?
+* Where does your source code live?
+
+You'll also be asked to complete a profile for your organization including the
+following:
+
+* Organization name
+* Short description
+* Long description
+* Logo
+* Primary open source license
+* Contact information
+* Organization website
+* Social media links
+* #Tags for technology and topics
+* Organization specific application information
