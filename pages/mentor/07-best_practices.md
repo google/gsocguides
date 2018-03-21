@@ -34,7 +34,7 @@ Here are some ways to help your student understand that her question is valuable
 
 **Introduce your student to the community's communication style**: Some groups have developed codes of conduct, such as the [Fedora IRC Helpers Code of Conduct](http://fedoraproject.org/wiki/IRC_helpers_code_of_conduct), which help initiate new members and guide the interactions of existing members. You are encouraged to read the code of conduct and think about which issues and solutions might apply to your group.
 
-**Follow mailing list etiquette**: The GSoC mentors mailing list has more than 4500 subscribers. If you have a question for the Google team, mail gsoc-support@google.com instead of the list. Please take a moment to review list [etiquette](https://www.google.com/search?q=mailing+list+ettiquete).
+**Follow mailing list etiquette**: The GSoC mentors mailing list has more than 4500 subscribers. If you have a question for the Google team, mail gsoc-support@google.com instead of the list. Please take a moment to review list [etiquette](https://www.google.com/search?q=mailing+list+etiquette).
 
 **Address communication disconnects**: When working with people for the first time, a best practice is to assume that they do not mean any harm. If your student makes a comment via email that offends another member of the community, it's appropriate and constructive to speak up and address the issue. Assuming that the comment was the result of misunderstanding, rather a result of malice, allows you to ask questions and help your student adjust to your community's communication style.
 
