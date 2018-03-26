@@ -11,7 +11,7 @@ sidebar: student_sidebar
 
 ## Abstract
 
-Systers use GNU mailing list manager Mailman2 which currently uses Python pickle files to store its data. Systers moderators have customized it to make use of PostgreSQL database. They make use of raw SQL statements and python db-api which makes the code :
+Systems use GNU mailing list manager Mailman2 which currently uses Python pickle files to store its data. Systers moderators have customized it to make use of PostgreSQL database. They make use of raw SQL statements and python db-api which makes the code :
 
 *   Dependent on the existing database
 *   Reduces the efficiency and maintainability
