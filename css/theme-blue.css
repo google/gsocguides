@@ -1,7 +1,7 @@
 .summary {
     color: #808080;
-    border-left: 5px solid #ED1951;
-    font-size:16px;
+    border-left: 10px solid #ED1951;
+    font-size:20px;
 }
 
 
@@ -14,26 +14,26 @@ h4 {color: #808080; }
 }
 
 .nav > li.active > a {
-    background-color: #347DBE;
+    background-image: linear-gradient(#f12711,#f5af19);
 }
 
 .nav > li > a:hover {
-    background-color: #248ec2;
+    background-image: linear-gradient(#108dc7,#ef8e38);
 }
 
 div.navbar-collapse .dropdown-menu > li > a:hover {
-    background-color: #347DBE;
+    background-image: linear-gradient(#1a2a6c,#b21f1f,#fdbb2d);
 }
 
 .nav li.thirdlevel > a {
     background-color: #FAFAFA !important;
     color: #248EC2;
-    font-weight: bold;
+    font-weight: italic;
 }
 
 a[data-toggle="tooltip"] {
     color: #649345;
-    font-style: italic;
+    font-style: bold;
     cursor: default;
 }
 
