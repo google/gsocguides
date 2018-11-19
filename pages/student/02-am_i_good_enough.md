@@ -46,7 +46,7 @@ If your computer regularly dies, or you don't have dedicated access to a compute
 
 **You've got experience using the programming language and operating system of the project**
 
-Depending on the project, the skills necessary will range from beginner to expert, but you do need some experience.  One of the great things about GSoC is that there is a large variety of organizations and projects to choose from. Chances are very good that you can find a project that meets you at your level.  Even if you are a beginner!** **If the project primarily uses Linux for development and distribution, then you need to be comfortable with basic Linux usage. Sometimes, you'll see projects looking to expand onto other platforms, in which case you may be able to bring in new expertise.
+Depending on the project, the skills necessary will range from beginner to expert, but you do need some experience.  One of the great things about GSoC is that there is a large variety of organizations and projects to chose from. Chances are very good that you can find a project that meets you at your level.  Even if you are a beginner!** **If the project primarily uses Linux for development and distribution, then you need to be comfortable with basic Linux usage. Sometimes, you'll see projects looking to expand onto other platforms, in which case you may be able to bring in new expertise.
 
 Every project has additional characteristics that they look for when selecting students and projects - however, if you meet the above basic criteria - chances are good that there are GSoC projects and organizations to which you can feel comfortable applying.
 
