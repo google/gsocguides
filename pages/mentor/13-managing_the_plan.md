@@ -11,7 +11,11 @@ The student and organization application process to GSoC helps all participants 
 
 ## Creating a Strategic Plan
 
-The GSoC application process assists in developing a good preliminary outline of a strategic plan for the student's accepted project. To increase the probability of program success you should spend time with your student, and your development community, refining the plan developed in the application period. This can be done during the community bonding period. A good strategic plan includes:
+The GSoC application process assists in developing a good preliminary outline of a strategic plan for the student's accepted project. To increase the probability of program success you should spend time with your student, and your development community, refining the plan developed in the application period. This can be done during the community bonding period.
+
+Please note that even though you and your student can decide to change the project from what was originally proposed, **both** of you need to agree on the change. It is important to make sure that the student has the appropriate background knowledge for the new changes. Students will be able to edit their project title and abstract until the coding officially begins.
+
+A good strategic plan includes:
 
 **A high-level design document**: Think about the architecture and design of the new feature or enhancements that you are making to your community's project. Take some time to teach your student to think about usability by writing a few quick use cases and scenarios, and consider the introduction of any new dependencies.
 
