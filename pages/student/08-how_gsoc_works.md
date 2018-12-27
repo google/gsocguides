@@ -6,7 +6,7 @@ permalink: student/how-gsoc-works.html
 sidebar: student_sidebar
 ---
 
-Google Summer of Code moves in phases after you are accepted. The first phase is the Community Bonding Period in which you get to know your community and get familiar with their code base and work style. The next phase is the initial phase of coding (Phase 1) which is evaluated with Phase 1 evaluation a month into the Google Summer of Code term. The second phase (Phase 2) is evaluated two months into the program coding period. The final phase is your time to complete your project. There will be a final evaluation at the end of the term; you will also need to submit a sample of the code you produced.
+Google Summer of Code moves in phases after you are accepted. The first phase is the Community Bonding Period in which you get to know your community and get familiar with their code base and work style. The next phase is the initial phase of coding (Phase 1) which is evaluated with Phase 1 evaluation a month into the Google Summer of Code term. The second phase (Phase 2) is evaluated two months into the program coding period. The final phase is your time to complete your project. There will be a final evaluation at the end of the term; you will also need to submit an URL to your work product.
 
 **Evaluations**
 
@@ -18,7 +18,7 @@ Payment is in three pieces. The first payment is sent shortly after you pass the
 
 **T-shirt and Certificate**
 
-You may receive a t-shirt, sticker and a digital certificate of completion at the end of the program if you successfully pass GSoC, unless you are in a Restricted Country. If you are in a Restricted Country you will receive a digital certificate of completion. The fulfillment company has to ship each individual package to your home, so please be patient. Mail systems are particularly hard to navigate in some parts of the world and can take over a month to reach some locations.
+You may receive a t-shirt, sticker and a digital certificate of completion at the end of the program if you successfully pass GSoC. The fulfillment company has to ship each individual package to your home, so please be patient. Mail systems are particularly hard to navigate in some parts of the world and can take over a month to reach some locations.
 
 The rest of your experience with the program will be determined by your interactions with the community within your mentoring organization. Most students consider the interactions with their mentor and the rest of the open source community they're involved with to be the most important part of the Google Summer of Code experience.
 
