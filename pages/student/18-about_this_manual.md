@@ -14,8 +14,8 @@ Org Admin section) and to write the Students Guide ("Flipping Bits not
 Burgers").
 
 An update of the manual was done in December 2017 and what was quite impressive
-is how few changes had to be made as all of the advice the original authors of
-this manual still stand today.
+is how few changes had to be made as all of the advice the original authors gave
+in this manual still stand today.
 
 In October 2017, the guide moved from <http://www.flossmanuals.net> to GitHub.
 
