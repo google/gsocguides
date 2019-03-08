@@ -38,7 +38,7 @@ Do you think you already know everything about everything in the world of open s
 
 **You can install and configure software packages on your own**
 
-If you don't know how to download and install packages on your own, you'll need to figure that out, stat.
+If you don't know how to download and install packages on your own, you'll need to figure that out, start.
 
 **You have access to a functioning computer 40 hours a week**
 
