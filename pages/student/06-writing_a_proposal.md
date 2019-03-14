@@ -48,7 +48,7 @@ Include a brief, clear work breakdown structure with milestones and deadlines. M
 
 **Related Work**
 
-You should understand and communicate other people's work that may be related to your own. Do your research, and make sure you understand how the project your are proposing fits into the target organization. Be sure to explain how the proposed work is different from similar related work.
+You should understand and communicate other people's work that may be related to your own. Do your research, and make sure you understand how the project you are proposing fits into the target organization. Be sure to explain how the proposed work is different from similar related work.
 
 **Biographical Information**
 
