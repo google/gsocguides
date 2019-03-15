@@ -23,7 +23,7 @@ GSoC is often the first time people ever have to collaboratively work with other
 
 ## Setting Expectations
 
-As an org admin, you need to rely on your mentors to manage the day-to-day activities related to student projects. This means you should have a discussion before students are accepted--if possible before you even apply for GSoC--about how your are going to handle some basic logistical items that are essential for a smoothly running and effective program.
+As an org admin, you need to rely on your mentors to manage the day-to-day activities related to student projects. This means you should have a discussion before students are accepted--if possible before you even apply for GSoC--about how you are going to handle some basic logistical items that are essential for a smoothly running and effective program.
 
 
 ### Set up-front guidelines on how students, projects and mentors are selected
