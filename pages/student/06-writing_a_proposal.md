@@ -56,7 +56,7 @@ Keep your personal info brief. Be sure to communicate personal experiences and s
 
 **Follow the Rules**
 
-Most organizations accept only plain text applications. Most organizations have a required application format. Many organizations have application length limits. In general, organizations *will *throw out your proposal if you fail to conform to these guidelines. If you feel you *must *have graphical or interactive content associated with your application, put just this content (not a copy of your proposal) on the web and provide an easy-to-type URL. Do not expect reviewers to follow this link.
+Most organizations accept only plain text applications. Most organizations have a required application format. Many organizations have application length limits. In general, organizations *will* throw out your proposal if you fail to conform to these guidelines. If you feel you *must* have graphical or interactive content associated with your application, put just this content (not a copy of your proposal) on the web and provide an easy-to-type URL. Do not expect reviewers to follow this link.
 
 
 ## Submit a Draft Proposal early
