@@ -11,7 +11,7 @@ facilitated by FLOSS Manuals. The manual was written in two days but the
 maintenance of the manual is an ongoing process to which you may wish to
 contribute. A second sprint occurred in 2010 to update the manual (adding the
 Org Admin section) and write the Students Guide ("Flipping Bits not
-Burgers"). Another brief edit occured February 2017 to update and reflect the
+Burgers"). Another brief edit occurred February 2017 to update and reflect the
 new website and program changes.
 
 
@@ -38,7 +38,7 @@ Bart Massey graduated Reed College in 1987 and spent two years as a software eng
 
 **Jonathan "Duke" Leto**
 
-Jonathan is an open source hacker who currently focuses on the Parrot Virtual Machine and Rakudo, Perl 6 on Parrot, as well as being the maintainer of many CPAN modules, many with a focus on scientifc computing and cryptography. He first was a mentor for Math::GSL in GSoC 2008 and then became organization administrator for The Perl Foundation's involvement in GSoC 2009 as well as being the mentor for Math::Primality. Jonathan received a masters in mathematics from University of Central Florida and has published several papers in the field of differential equations. Currently he works in the Bioinformatics sector and consults for Git migrations and training. He enjoys discovering wheels within wheels.
+Jonathan is an open source hacker who currently focuses on the Parrot Virtual Machine and Rakudo, Perl 6 on Parrot, as well as being the maintainer of many CPAN modules, many with a focus on scientific computing and cryptography. He first was a mentor for Math::GSL in GSoC 2008 and then became organization administrator for The Perl Foundation's involvement in GSoC 2009 as well as being the mentor for Math::Primality. Jonathan received a masters in mathematics from University of Central Florida and has published several papers in the field of differential equations. Currently he works in the Bioinformatics sector and consults for Git migrations and training. He enjoys discovering wheels within wheels.
 
 <http://leto.net>
 

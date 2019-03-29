@@ -13,7 +13,7 @@ if [ $# -ge $CMDLINEPARAM ]
 then
   tags=$@
 else
-  echo "Atleast ${CMDLINEPARAM} tag name is required."
+  echo "At least ${CMDLINEPARAM} tag name is required."
   exit 1
 fi
 
