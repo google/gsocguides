@@ -28,7 +28,7 @@ There are certain elements of the proposal that should apply to every organizati
 
 **Name and Contact Information**
 
-Putting your full name on the proposal is not enough. Provide full contact information, including email addresses, websites, IRC nick, postal address and telephone number. Also provide full contact information for a friend or relative that the organization can contact to find you in case of emergency.
+Putting your full name on the proposal is not enough. Provide full contact information, including email addresses, websites, IRC nick, postal address and telephone number. 
 
 **Title**
 
