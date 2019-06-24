@@ -21,9 +21,9 @@ A good strategic plan includes:
 
 **Progressive milestones that build on the previous work**: At the completion of each milestone you and your student should take the opportunity to celebrate the accomplishment and reflect upon it. Using progressive milestones also gives you a good measure of how far you have come, which can be very useful during periods of frustration. Additionally, if you don't reach all of the final goals of the project, you will have tangible achievements to point to when reviewing progress with your student. Reinforcement of a student's tangible accomplishments encourages them to stick around and helps to create life-time contributors.
 
-**Target completion dates for each milestone**: In reality, completion dates are going to move. Nonetheless, a target date gives you a time frame for closure and helps control "scope creep". Coach your students in how to recognize that a milestone is going to be missed,  and to notify the project participants before the dates passes.
+**Target completion dates for each milestone**: In reality, completion dates are going to move. Nonetheless, a target date gives you a time frame for closure and helps control "scope creep". Coach your students in how to recognize that a milestone is going to be missed, and to notify the project participants before the dates passes.
 
-**Tasks associated with each milestone**: Because your milestones are most likely going to be chunks of of code, each milestone needs to include both testing and documentation around that particular "chunk." This approach helps guarantee that you and your student don't end up with a pile of code that hasn't been tested or documented at the end of GSoC.
+**Tasks associated with each milestone**: Because your milestones are most likely going to be chunks of code, each milestone needs to include both testing and documentation around that particular "chunk." This approach helps guarantee that you and your student don't end up with a pile of code that hasn't been tested or documented at the end of GSoC.
 
 
 ## Following the Plan
