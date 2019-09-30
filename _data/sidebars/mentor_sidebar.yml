@@ -59,6 +59,9 @@ entries:
     - title: Evaluations
       url: evaluations
       output: web
+    - title: Special Circumstances
+      url: special_circumstances
+      output: web
   - title: Wrapping Up
     output: web
     folderitems:
