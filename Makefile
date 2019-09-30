@@ -1,5 +1,8 @@
 PORT=4000
 
+help:
+	@echo "Use 'make build-image' or 'make serve'"
+
 # Build a docker image to serve the gsocguides locally.
 build-image:
 	docker build -t gsocguides:latest .
