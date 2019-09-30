@@ -1,7 +1,7 @@
 ---
 title: The History of GSoC
 section: Org Admin
-order: 26
+order: 27
 permalink: mentor/the-history-of-gsoc.html
 sidebar: mentor_sidebar
 ---

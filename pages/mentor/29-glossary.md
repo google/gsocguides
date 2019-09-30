@@ -1,7 +1,7 @@
 ---
 title: Glossary
 section: Org Admin
-order: 28
+order: 29
 permalink: mentor/glossary.html
 sidebar: mentor_sidebar
 ---

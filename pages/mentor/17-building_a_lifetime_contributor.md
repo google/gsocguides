@@ -1,7 +1,7 @@
 ---
 title: Building a Lifetime Contributor
 section: Wrapping Up
-order: 16
+order: 17
 permalink: mentor/building-a-lifetime-contributor.html
 sidebar: mentor_sidebar
 ---

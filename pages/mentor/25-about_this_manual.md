@@ -1,7 +1,7 @@
 ---
 title: About This Guide
 section: Introduction
-order: 24
+order: 25
 permalink: mentor/about-this-guide
 sidebar: mentor_sidebar
 ---

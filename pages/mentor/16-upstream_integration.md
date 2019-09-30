@@ -1,7 +1,7 @@
 ---
 title: Upstream Integration
 section: Wrapping Up
-order: 15
+order: 16
 permalink: mentor/upstream-integration.html
 sidebar: mentor_sidebar
 ---

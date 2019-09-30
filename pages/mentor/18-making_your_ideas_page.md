@@ -1,7 +1,7 @@
 ---
 title: Making Your Ideas Page
 section: Org Admin
-order: 17
+order: 18
 permalink: mentor/making-your-ideas-page.html
 sidebar: mentor_sidebar
 ---
