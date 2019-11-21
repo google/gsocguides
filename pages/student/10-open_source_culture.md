@@ -21,6 +21,8 @@ One aspect of "open culture" is that people are informal. People address each ot
 
 Although "open culture" is generally informal, it is important to remember that you still need to mind your manners when participating in conversations.
 
+Most open source communities have their own Code of Conduct (formally or informally). Be sure you are aware of the Code of Conduct and are treating everyone with respect.
+
 
 ## Remote Communication
 
