@@ -19,7 +19,7 @@ However, if you're more likely to hang back and watch people for a while, spend 
 
 *   Join both the development and user mailing lists and spend a few days just reading the conversations.
 *   Read the mailing list archives.
-*   Join the projects IRC channel and lurk for a bit.
+*   Join the project's discussion forums/chat channel (IRC, Discourse) and lurk for a bit.
 *   Read all the available information on past GSoC projects.
 *   Take a stab at going through the project documentation, at least to the point where you feel like you can ask questions that are not already extensively covered in the docs.
 
