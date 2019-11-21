@@ -60,8 +60,8 @@ Kunal Bhalla, WordPress, GSoC Student 2010
 
 If you enjoy coding and feel passionate about writing good quality code and building great software, GSoC is THE place for you give way to your passion. After all, what better way is there to celebrate your love for the code by participating in a summer of code.
 
-**The stipend, the fame and the t-shirt**
+**The stipend and the fame**
 
-One very tangible and obvious advantage of participating in GSoC is the stipend that you make while working with amazing people on a great project. Being a successful GSoC student is in fact a prestigious achievement. It's another way to make your resume more impressive. And of course you get a really cool t-shirt too!
+One very tangible and obvious advantage of participating in GSoC is the stipend that you make while working with amazing people on a great project. Being a successful GSoC student is in fact a prestigious achievement. It's another way to make your resume more impressive. 
 
 
