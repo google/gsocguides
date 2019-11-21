@@ -58,6 +58,8 @@ If you didn't get an immediate response outside of scheduled meeting times eithe
 
 If your mentor missed a meeting, then a gentle email along the lines of "did I mix up our meeting time" to your mentor is a great idea. Chances are you'll hear back shortly and things will continue on as planned. If you don't hear back, then try contacting your secondary mentor and if there is still no response, then contact your org admin.
 
+Do not wait until the end of the evaluation period to let the org admin know that your mentor was not communicating with you. If for some reason your mentor hasn't responded to you within 5 days (and the mentor didn't tell you they were going to be unavailable for a few days) then contact the org admin or backup mentor (if there is one).
+
 **Why is my mentor so mean?**
 
 Remember that everyone has different communication styles and you might both be communicating in a second language. Providing project critique is part of a mentor's job. That being said, if you feel like your mentor is being unduly harsh and it is effecting your project success the best approach is to talk with your mentor about his communication style in a non-confrontational manner. If you still feel like your mentor is being unduly harsh -- after your conversation -- talk to your org admin.
