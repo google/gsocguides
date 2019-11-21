@@ -16,9 +16,9 @@ Evaluations are not as daunting as they may sound. This is an opportunity for yo
 
 Payment is in three pieces. The first payment is sent shortly after you pass the Phase 1 evaluation. The second payment is sent after you have passed the Phase 2 evaluation; the final payment is sent once you pass your final evaluation. All of these payments take a few business days to become active on your card or in your bank account if you choose direct deposit.
 
-**T-shirt and Certificate**
+**Certificate of Completion**
 
-You may receive a t-shirt, sticker and a digital certificate of completion at the end of the program if you successfully pass GSoC. The fulfillment company has to ship each individual package to your home, so please be patient. Mail systems are particularly hard to navigate in some parts of the world and can take over a month to reach some locations.
+You may receive a digital certificate of completion at the end of the program if you successfully pass GSoC. 
 
 The rest of your experience with the program will be determined by your interactions with the community within your mentoring organization. Most students consider the interactions with their mentor and the rest of the open source community they're involved with to be the most important part of the Google Summer of Code experience.
 
