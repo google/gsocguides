@@ -19,8 +19,6 @@ A helpful starting point for finding, evaluating and selecting students is to lo
 
 **"I want to learn."** Students may want to learn various things as part of their GSoC experience, such as how to work in the organization's project, how to do open source development in general. It is important as a mentor that you are cognizant of the basic skill set required for the project.
 
-**"I want a t-shirt."** Some motivations are simple, and easy to accommodate.
-
 Students should want to participate because they have something to contribute to the organization's project. This is obviously an exciting and promising kind of GSoC applicant to receive. Assuming that the student has good technical skills and can interact well, a good result is almost inevitable.
 
 
