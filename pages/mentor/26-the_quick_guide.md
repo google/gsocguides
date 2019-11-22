@@ -6,7 +6,7 @@ permalink: mentor/the-quick-guide.html
 sidebar: mentor_sidebar
 ---
 
-The process begins with proposing projects and selecting students over about a four week period. This is followed by 4-5 weeks of community bonding. The coding phase runs for twelve weeks.
+The process begins with proposing projects and selecting students over about a four week period. This is followed by 3-4 weeks of community bonding. The coding phase runs for twelve weeks.
 
 *   During the student selection phase the mentor will be responsible for helping find a fit between project, student proposal and mentor. This will include defining the proposal process, assisting in the evaluation of proposals, querying the students, providing them feedback about their proposals and ultimately finding a student proposal to mentor.
 *   During the community bonding phase, the mentor and student will further define the student's project and prepare for development. An important part of this phase, as the name implies, is to get the student connected with both the mentoring organization and the larger open source community.
