@@ -10,7 +10,7 @@ Google Summer of Code (GSoC) is a program that matches mentoring organizations w
 
 GSoC pairs accepted student applicants with mentors from participating projects. Accepted students gain exposure to real-world software development and an opportunity for employment in areas related to their academic pursuits. In turn, participating organizations are able to identify and bring in new developers more easily. Best of all, more source code is created and released for the use and benefit of all; all code produced as part of the program is released under an open source license.
 
-This program has brought together thousands of students and mentors from over 118 countries worldwide. Over 600 open source projects, from areas as diverse as operating systems and community services, have participated as mentor organizations for the program. Successful students have widely reported that their participation in GSoC made them more attractive to potential employers and that the program has helped greatly when embarking on their technical careers.
+This program has brought together thousands of students and mentors from over 118 countries worldwide. Over 680 open source projects, from areas as diverse as operating systems and community services, have participated as mentor organizations for the program. Successful students have widely reported that their participation in GSoC made them more attractive to potential employers and that the program has helped greatly when embarking on their technical careers.
 
 
 ## Goals of the Program
@@ -26,7 +26,7 @@ The program has several goals:
 
 ## A Brief History of Google Summer of Code
 
-Google Summer of Code began in 2005 as a complex experiment with a simple goal: helping students find work related to their academic pursuits during their school holidays. In GSoC's first year, 40 projects and 400 students participated. By the conclusion of the twelfth Google Summer of Code in 2017, over 13,000 students have been accepted into the program. Best of all, most of the organizations participating have reported that the program helped them find new community members and active committers.
+Google Summer of Code began in 2005 as a complex experiment with a simple goal: helping students find work related to their academic pursuits during their school holidays. In GSoC's first year, 40 projects and 400 students participated. By the conclusion of the fifteenth Google Summer of Code in 2019, over 15,000 students have been accepted into the program. Best of all, most of the organizations participating have reported that the program helped them find new community members and active committers.
 
 See the appendix for a more extensive history of the program.
 
@@ -54,7 +54,7 @@ Students submit project proposals to the various organizations participating in 
 
 All of the program rules are enumerated in the GSoC Program Rules and Term documents each year. Provided all of the rules regarding eligibility for the program are followed, Google takes a fairly hands-off approach to GSoC. Each organization structures its participation in GSoC in whichever way makes the most sense for its technical and community needs.
 
-**Organization Applications**: The GSoC program is announced each year on the [Google Open Source Blog](https://opensource.googleblog.com/) among other places, and this announcement provides application deadlines for projects. Each organization must apply to participate. The questions asked in the organization application are published in advance and linked from the Program FAQ. Organizations usually have about 2 weeks to apply for the program. Google's program administrators then select which organizations will participate in that year's Google Summer of Code.
+**Organization Applications**: The GSoC program is announced each year on the [Google Open Source Blog](https://opensource.googleblog.com/) among other places, and this announcement provides application deadlines for projects. Each organization must apply to participate. Organizations usually have about 2 weeks to apply for the program. Google's program administrators then select which organizations will participate in that year's Google Summer of Code.
 
 **Student Applications**: Students are encouraged to begin talking to the participating organizations as soon as the list of accepted organizations is published. Prior to the opening of applications, it is important to take some time to talk to potential student applicants. This helps them refine their ideas so that they will produce a better quality proposal. Each organization is asked to provide a proposal template, but the best student applications go far beyond the template and an organization's ideas list. Students are given about 2 weeks to complete their applications.
 
@@ -64,7 +64,7 @@ Organizations may also conduct further interviews to determine which students ar
 
 Sometimes a student has proposals accepted by more than one organization. Google leaves it to the organizations to decide which organization the student will work with during the course of the program.
 
-**Community Bonding Period**: Before students are expected to start working, there is a four week period built into the program to allow them to get up to speed without the pressure to execute on their proposals. During this time, students are expected to get to know their project communities and participate in project discussion. During this time, students should also set up their development environments, learn how their project's source control works, refine their project plans, read any necessary documentation, and otherwise prepare to complete their project proposals. Mentors should spend this time helping their students understand which resources will be most useful to them, introducing them to the members of the community who will be most helpful with their projects, and generally acculturating them.
+**Community Bonding Period**: Before students are expected to start working, there is a three-four week period built into the program to allow them to get up to speed without the pressure to execute on their proposals. During this time, students are expected to get to know their project communities and participate in project discussion. During this time, students should also set up their development environments, learn how their project's source control works, refine their project plans, read any necessary documentation, and otherwise prepare to complete their project proposals. Mentors should spend this time helping their students understand which resources will be most useful to them, introducing them to the members of the community who will be most helpful with their projects, and generally acculturating them.
 
 **Start of Coding**: Start of coding is the date the program officially begins; students are expected to start executing on their project proposals. At this point, students should begin regular check-ins and regular patch submissions.
 
