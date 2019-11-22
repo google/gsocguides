@@ -18,7 +18,7 @@ The ideas page is the most important part of the organization application. Pleas
 
 ## Past Success
 
-One question Google consistently asks of an organization on the application is whether they have participated in previous years, and if so, what their students' pass/fail ratio was. While pass/fail ratio is but one indicator of the success of the previous year, it does weigh against other components of the application.
+One question Google consistently asks of an organization on the application is whether they have participated in previous years, and if so, what their students' pass/fail ratio was. While pass/fail ratio is but one indicator of the success of the previous year, it does weigh against other components of the application. Orgs who never fail a student are also red flags as that can indicate being too lenient on student evaluations. There is a healthy balance.
 
 
 ## New Orgs vs. Returning Orgs
@@ -28,14 +28,12 @@ Every year Google tries to make room for new organizations in the open source wo
 
 ## What Not to Do
 
-Incomplete applications are common and hard for us to review. Not answering questions on the form, not taking time with the quality of your Ideas Page, and not executing well on your application can all be avenues to rejection. For example, don't submit an ideas page in the form of a document our administrators don't have access to. Google doesn't have the time or capacity to iterate with you on your application, unfortunately. Take the time to create a thoughtful proposal.
+Incomplete applications are common and result in an automatic rejection by Google. Don't submit an Ideas List or a document Google administrators don't have access to. Do not make your Ideas list a link to a list of bug tracker issues, that will be a rejection. Google doesn't have the time or capacity to iterate with you on your application. Take the time to create a thoughtful proposal.
 
 
 ## Just Because You Did Everything Right...
 
-...doesn't mean you'll be accepted. Every year Google receives many more applications for organizations that want to participate in GSoC than it has capacity to accommodate. Some of the decisions about which organizations are accepted and which aren't come down entirely to space available in the program. Google receives 500+ applications from open source organizations each year that wish to be a part of GSoC and usually only accept between 150-180 organization applications. Thus more than 60% of the organizations that apply each year will be rejected.
-
-Every year, Google offers an opportunity for rejected orgs to receive feedback via email. Most often the feedback is simply: "We can't accommodate everyone; please try again next year" as that is the most common reason for rejection of an application.
+...doesn't mean you'll be accepted. Every year Google receives many more applications for organizations that want to participate in GSoC than it has capacity to accommodate. Some of the decisions about which organizations are accepted and which aren't come down entirely to space available in the program. Google receives 475+ applications from open source organizations each year that wish to be a part of GSoC and usually only accept between 180-200 organization applications. Thus more than 50% of the organizations that apply each year will be rejected.
 
 
 ## A Note on Umbrella Orgs
@@ -58,6 +56,7 @@ The questions vary from year to year, but will be similar to:
 * Has your org been accepted as a mentor org in GSoC?
 * What year was your project started?
 * Where does your source code live?
+* Link to your Ideas List (this is the most important part of the application!)
 
 You'll also be asked to complete a profile for your organization including the
 following:
