@@ -17,13 +17,13 @@ No matter what, you want to take a look at the Program Rules each year to make s
 
 Additionally, these resources are quite helpful:
 
-**Program IRC Channel**: Several knowledgeable folks (mentors, org admins, former students, current students and Google Program Admins) hang out in #gsoc on Freenode and would be happy to give you a pointer in the right direction.
+**Program IRC Channel**: Several knowledgeable folks (mentors, org admins, former students, current students) hang out in #gsoc on Freenode and would be happy to give you a pointer in the right direction.
 
 **Blog Posts**: You can find material related to GSoC on the Google Open Source Blog at <http://google-opensource.blogspot.com>. Your project may have a blog or newsletter where GSoC information was published in the past, as well.
 
 **Knowledge Base**: If you're looking for advice for mentors or students, program promotional materials, presentations about GSoC, etc., start with the program site <https://g.co/gsoc>, particularly the Resources section.
 
-**Mentor Summit Wiki**: Google has traditionally held an annual mentor summit after GSoC wraps up each year. During the summit, many great discussions are held on all sorts of topics regarding the program and open source overall. Check out the summit wiki for session notes and to do some further collaboration. Instructions for getting a login account on the wiki are available on the private mentors list, or ping the program administrators for help. Anyone can view the wiki's contents at <http://gsoc-wiki.osuosl.org/>.
+**Mentor Summit Wiki**: Google has traditionally held an annual mentor summit after GSoC wraps up each year. During the summit, many great discussions are held on all sorts of topics regarding the program and open source overall. 
 
 **List of Organizations**: You can see a list of the mentoring organizations that participated in previous years of the program by going to the program site and looking at the Archive site: <https://developers.google.com/open-source/gsoc/past-summers>
 
@@ -69,6 +69,6 @@ irc : freenode #teachingopensource
 
 **Contact your Organization Administrator**: He or she can help you figure out what to do next or contact Google for more help.
 
-**Talk to Google's Program Administrators**: They have plenty of experience with all the corner cases and strange issues that can arise during GSoC. Email gsoc-support@google.com for help. You can also chat with Program Administrators on IRC during posted Office Hours as indicated on the Program website contact page.
+**Talk to Google's Program Administrators**: They have plenty of experience with all the corner cases and strange issues that can arise during GSoC. Email gsoc-support@google.com for help.
 
 
