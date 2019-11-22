@@ -11,7 +11,7 @@ facilitated by FLOSS Manuals. The manual was written in two days but the
 maintenance of the manual is an ongoing process to which you may wish to
 contribute. A second sprint occurred in 2010 to update the manual (adding the
 Org Admin section) and write the Students Guide ("Flipping Bits not
-Burgers"). Another brief edit occurred February 2017 to update and reflect the
+Burgers"). Additional brief edits occurred February 2017 and November 2019 to update and reflect the
 new website and program changes.
 
 
