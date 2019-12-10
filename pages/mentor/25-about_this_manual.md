@@ -22,7 +22,7 @@ Read the CONTRIBUTING file in the source repository.
 
 ## About the Authors
 
-Except where noted, the following individuals were part of both the 2009 and 2010 GSoCBook Sprint. We thank them for their tireless efforts to create this first-of-its-kind volume.
+Except where noted, the following individuals were part of both the 2009 and 2010 GSoC Book Sprint. We thank them for their tireless efforts to create this first-of-its-kind volume.
 
 **Alexander Pico**
 
@@ -32,7 +32,7 @@ Alex works at the Gladstone Institutes in San Francisco as a Bioinformatics Soft
 
 **Bart Massey**
 
-Bart Massey graduated Reed College in 1987 and spent two years as a software engineer at Tektronix, Inc.  He received his this MSc in Computer Science from University of Oregon in 1992 and his PhD in 1999 for work with the Computational Intelligence Research Laboratory there.  Since then, Bart has taught at Portland State University, where he is currently an Associate Professor, and for the Oregon Master of Software Engineering program. Bart is Secretary of the X.Org Foundation Board; his current research interests include open tech, software engineering, desktop interfaces and state space search.
+Bart Massey graduated Reed College in 1987 and spent two years as a software engineer at Tektronix, Inc. He received his MSc in Computer Science from University of Oregon in 1992 and his PhD in 1999 for work with the Computational Intelligence Research Laboratory there. Since then, Bart has taught at Portland State University, where he is currently an Associate Professor, and for the Oregon Master of Software Engineering program. Bart is Secretary of the X.Org Foundation Board; his current research interests include open tech, software engineering, desktop interfaces and state space search.
 
 <http://www.cs.pdx.edu/~bart>
 
@@ -56,22 +56,22 @@ Selena is a major contributor to the PostgreSQL project. She founded Open Source
 
 **Carol Smith** (2010)
 
-Carol works for the Open Source Programs Office at Google administering the Google Summer of Code program.  She has worked at Google for 5 years in a variety of positions. She has a degree in photojournalism from California State University, Northridge and is an avid cyclist.
+Carol works for the Open Source Programs Office at Google administering the Google Summer of Code program. She has worked at Google for 5 years in a variety of positions. She has a degree in photojournalism from California State University, Northridge and is an avid cyclist.
 
 <http://www.fossygirl.com>
 
-**Malveeka Tewari**  (2010)
+**Malveeka Tewari** (2010)
 
-Malveeka is currently a graduate student in the CS dept at UC, San Diego. She participated in GSoC 2009 as a student for Systers and again as a mentor for Systers in GSoC 2010.  She is also a member of Systers and WIC (Women in Computing) group at UC, San Diego and has helped in organizing events in her school for engaging and encouraging women in computing. Her favorite past times including hiking, cooking and reading books. She is a big fan of P.G. Wodehouse and Agatha Christie.
+Malveeka is currently a graduate student in the CS dept at UC, San Diego. She participated in GSoC 2009 as a student for Systers and again as a mentor for Systers in GSoC 2010. She is also a member of Systers and WIC (Women in Computing) group at UC, San Diego and has helped in organizing events in her school for engaging and encouraging women in computing. Her favorite past times including hiking, cooking and reading books. She is a big fan of P.G. Wodehouse and Agatha Christie.
 
 <http://cseweb.ucsd.edu/~mtewari/>
 
 
-## 2009 Particpants
+## 2009 Participants
 
 **Olly Betts**
 
-Olly is the lead developer of the Xapian search engine library. He's been working on Xapian for 10 years, and makes a living as a freelance developer and consultant on Xapian-related projects. In GSoC, he's represented SWIG as a mentor in 2008, and a mentor and co-admin in 2009.  Olly is originally from the UK where he studied mathematics and then computer science at Cambridge University, but now lives near Wellington in New Zealand. He once broke a toe falling off a cliff in Majorca.
+Olly is the lead developer of the Xapian search engine library. He's been working on Xapian for 10 years, and makes a living as a freelance developer and consultant on Xapian-related projects. In GSoC, he's represented SWIG as a mentor in 2008, and a mentor and co-admin in 2009. Olly is originally from the UK where he studied mathematics and then computer science at Cambridge University, but now lives near Wellington in New Zealand. He once broke a toe falling off a cliff in Majorca.
 
 <http://survex.com/~olly/>
 
@@ -84,7 +84,7 @@ Leslie held various roles at Google before joining the Open Source Programs Offi
 
 ## Facilitation (2009 & 2010)
 
-The Book Sprints were facilitated by :
+The Book Sprints were facilitated by:
 
 **Adam Hyde**
 
