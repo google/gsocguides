@@ -24,19 +24,20 @@ In October 2017, the guide moved from <http://www.flossmanuals.net> to GitHub.
 
 See the CONTRIBUTING file in the source repository.
 
+
 ## About the Authors
 
-Except were noted the following individuals were part of both the 2009 and 2010 GSoC Book Sprint. We thank them for their tireless efforts to create this first-of-its-kind volume.
+Except where noted, the following individuals were part of both the 2009 and 2010 GSoC Book Sprint. We thank them for their tireless efforts to create this first-of-its-kind volume.
 
 **Alexander Pico**
 
 Alex works at the Gladstone Institutes in San Francisco as a Bioinformatics Software Engineer. He holds a PhD in Molecular Neurobiology and Biophysics and has over 10 years of bioinformatics experience in data mining, analysis, visualization and integration. Over the past 5 years he has led the GenMAPP pathway analysis project, managing software development and coordinating research projects involving wet lab biologists and senior programmers. Alex is a member of the Cytoscape core development team, a creator of SNPLogic.org, and a founder of WikiPathways.org. He has also administered GenMAPP's participation in the Google Summer of Code program for the last 4 consecutive years.
 
-<http://nextnucleus.org>
+<https://gladstone.org/our-science/people/alexander-pico>
 
 **Bart Massey**
 
-Bart Massey graduated Reed College in 1987 and spent two years as a software engineer at Tektronix, Inc.  He received his MSc in Computer Science from University of Oregon in 1992 and his PhD in 1999 for work with the Computational Intelligence Research Laboratory there.  Since then, Bart has taught at Portland State University, where he is currently an Associate Professor, and for the Oregon Master of Software Engineering program. Bart is Secretary of the X.Org Foundation Board; his current research interests include open tech, software engineering, desktop interfaces and state space search.
+Bart Massey graduated Reed College in 1987 and spent two years as a software engineer at Tektronix, Inc. He received his MSc in Computer Science from University of Oregon in 1992 and his PhD in 1999 for work with the Computational Intelligence Research Laboratory there. Since then, Bart has taught at Portland State University, where he is currently an Associate Professor, and for the Oregon Master of Software Engineering program. Bart is Secretary of the X.Org Foundation Board; his current research interests include open tech, software engineering, desktop interfaces and state space search.
 
 <http://www.cs.pdx.edu/~bart>
 
@@ -52,7 +53,7 @@ Jennifer is the founder and CEO of Buunabet, a technical consulting company that
 
 <http://buunabet.com>
 
-**Selena Deckelmann**  (2010)
+**Selena Deckelmann** (2010)
 
 Selena is a major contributor to the PostgreSQL project. She founded Open Source Bridge conference, a conference for open source citizens. She helps run PDXPUG, a PostgreSQL Users Group, and is part of Code n Splode, a programming group whose goal is to get more women involved in open source. In her spare time, she likes to mix drinks for her local user groups, and fetch eggs from her chickens.
 
@@ -64,14 +65,14 @@ Carol works for the Open Source Programs Office at Google administering the Goog
 
 <http://www.fossygirl.com>
 
-**Malveeka Tewari**  (2010)
+**Malveeka Tewari** (2010)
 
 Malveeka is currently a graduate student in the CS dept at UC, San Diego. She participated in GSoC 2009 as a student for Systers and again as a mentor for Systers in GSoC 2010. She is also a member of Systers and WIC (Women in Computing) group at UC, San Diego and has helped in organizing events in her school for engaging and encouraging women in computing. Her favorite past times including hiking, cooking and reading books. She is a big fan of P.G. Wodehouse and Agatha Christie.
 
 <http://cseweb.ucsd.edu/~mtewari/>
 
 
-## 2009 Particpants
+## 2009 Participants
 
 **Olly Betts**
 
@@ -88,7 +89,7 @@ Leslie held various roles at Google before joining the Open Source Programs Offi
 
 ## Facilitation (2009 & 2010)
 
-The Book Sprints were facilitated by :
+The Book Sprints were facilitated by:
 
 **Adam Hyde**
 
