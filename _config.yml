@@ -14,7 +14,7 @@ site_title: "Google Summer of Code Guides"
 company_name: The Google Summer of Code Guides Authors
 # this appears in the footer
 
-copyright_year: 2009-2017
+copyright_year: 2009
 
 github_editme_path: google/gsocguides/edit/master
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
