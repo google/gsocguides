@@ -62,7 +62,7 @@ Do not wait until the end of the evaluation period to let the org admin know tha
 
 **Why is my mentor so mean?**
 
-Remember that everyone has different communication styles and you might both be communicating in a second language. Providing project critique is part of a mentor's job. That being said, if you feel like your mentor is being unduly harsh and it is effecting your project success the best approach is to talk with your mentor about his communication style in a non-confrontational manner. If you still feel like your mentor is being unduly harsh -- after your conversation -- talk to your org admin.
+Remember that everyone has different communication styles and you might both be communicating in a second language. Providing project critique is part of a mentor's job. That being said, if you feel like your mentor is being unduly harsh and it is affecting your project success the best approach is to talk with your mentor about his communication style in a non-confrontational manner. If you still feel like your mentor is being unduly harsh -- after your conversation -- talk to your org admin.
 
 **Why is my mentor so friendly?**
 
