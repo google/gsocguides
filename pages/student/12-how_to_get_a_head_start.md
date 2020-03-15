@@ -21,7 +21,7 @@ Each project has a unique set of tools and packages required to work with develo
 *   Database, mail or web server
 *   Real-time communication tool (e.g. irc client, instant messaging)
 
-Some organizations require testing on multiple operating systems and/or platforms. Make sure you know what is expected of you as early as possible. Read the available development documentation and contact your mentor to figure out exactly what tools you need to succeed. Also learn the the bug-reporting process that your organization uses and also understand the project's release management strategy.
+Some organizations require testing on multiple operating systems and/or platforms. Make sure you know what is expected of you as early as possible. Read the available development documentation and contact your mentor to figure out exactly what tools you need to succeed. Also learn the bug-reporting process that your organization uses and understand the project's release management strategy.
 
 
 ## Practice
