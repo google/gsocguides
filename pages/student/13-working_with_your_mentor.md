@@ -23,7 +23,7 @@ Your mentors are busy people too. They are juggling many tasks and GSoC is one m
 
 ## Be Respectful of Your Mentor's Time
 
-Your mentor is volunteering her time to help you with your GSoC project. Regularly missing scheduled meetings without prior notice and failing to come prepared to meetings is likely to cause your mentor to not want to continue helping you with your project. Remember your mentor is your most valuable resource to help you complete your project successfully, treat them accordingly.
+Your mentor is volunteering their time to help you with your GSoC project. Regularly missing scheduled meetings without prior notice and failing to come prepared to meetings is likely to cause your mentor to not want to continue helping you with your project. Remember your mentor is your most valuable resource to help you complete your project successfully, treat them accordingly.
 
 
 ## Using Your Mentor
@@ -52,7 +52,7 @@ One of the best things you can do when working to solve real or perceived proble
 
 **Where did my mentor go?**
 
-So you haven't heard from your mentor in a while, what do you do? First, did your mentor miss a scheduled meeting or did he just not respond immediately on IRC or to an email?
+So you haven't heard from your mentor in a while, what do you do? First, did your mentor miss a scheduled meeting or did they just not respond immediately on IRC or to an email?
 
 If you didn't get an immediate response outside of scheduled meeting times either on IRC or email, be patient.
 
@@ -62,7 +62,7 @@ Do not wait until the end of the evaluation period to let the org admin know tha
 
 **Why is my mentor so mean?**
 
-Remember that everyone has different communication styles and you might both be communicating in a second language. Providing project critique is part of a mentor's job. That being said, if you feel like your mentor is being unduly harsh and it is affecting your project success the best approach is to talk with your mentor about his communication style in a non-confrontational manner. If you still feel like your mentor is being unduly harsh -- after your conversation -- talk to your org admin.
+Remember that everyone has different communication styles and you might both be communicating in a second language. Providing project critique is part of a mentor's job. That being said, if you feel like your mentor is being unduly harsh and it is affecting your project success the best approach is to talk with your mentor about their communication style in a non-confrontational manner. If you still feel like your mentor is being unduly harsh -- after your conversation -- talk to your org admin.
 
 **Why is my mentor so friendly?**
 
