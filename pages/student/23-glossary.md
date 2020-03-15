@@ -24,7 +24,7 @@ An individual who has special rights in an open source project. While the scope 
 
 ## Community Bonding Period
 
-The period of time between when accepted students are announced for a particular year of GSoC and the time these students are expected to start coding. This time is an excellent one to introduce students to the community, get them on the right mailing lists, etc. See the "Mind the Gap" section for more details.
+The period of time between when accepted students are announced for a particular year of GSoC and the time these students are expected to start coding. This time is an excellent one to introduce students to the community, get them on the right mailing lists, etc. See the "Community Bonding Period" section for more details.
 
 
 ## DVCS
@@ -69,7 +69,7 @@ To spend some time watching. Often used in reference to a mailing list where you
 
 ## Mentor
 
-Someone who helps a student with their project proposal. See the What is GSoC section for more details.
+Someone who helps a student with their project proposal. See the "How GSoC Works" section for more details.
 
 
 ## Organization
@@ -79,12 +79,12 @@ An open source, free software or technology-related project that mentors student
 
 ## Organization Admin (Org Admin)
 
-Cat herders for each open source project participating in the program. Often abbreviated to org admin. See the What is GSoC section for more details.
+Cat herders for each open source project participating in the program. Often abbreviated to org admin. See the "How GSoC Works" section for more details.
 
 
 ## Program Administrator
 
-Google employees who run the program. See the What is GSoC section for more details.
+Google employees who run the program. See the "How GSoC Works" section for more details.
 
 
 ## RTFM
@@ -104,7 +104,7 @@ Simple Matter of Programming
 
 ## Summer
 
-Not so much a season as a state of being. While the program is run during the Northern Hemisphere's Spring and Summer, the "Summer" in Google Summer of Code is actually a play on the "Summer of Love.
+Not so much a season as a state of being. While the program is run during the Northern Hemisphere's Spring and Summer, the "Summer" in Google Summer of Code is actually a play on the "Summer of Love".
 
 
 ## TDD
@@ -119,7 +119,7 @@ A use case describes what a user can do with a particular software system.
 
 ## UTC
 
-Coordinated Universal Time.
+Coordinated Universal Time
 
 
 ## Waterfall Model
