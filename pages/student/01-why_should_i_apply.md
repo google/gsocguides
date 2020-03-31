@@ -52,7 +52,7 @@ Kamran Khan, Ubuntu, GSoC Student 2010
 
 GSoC is a great place to get you jump started and up to speed on the basics of the open source community. This paves your way forward for making big contributions. It's a great way to make your first entrance on the open source stage and get noticed.
 
-"GSoC2010 was my first real foray into the Open Source World -- I had been teetering at just the edge of actual contribution for a few years, having tried out WordPress, etc. but had never actually ever submitted a patch, or released a project. "
+"GSoC 2010 was my first real foray into the Open Source World -- I had been teetering at just the edge of actual contribution for a few years, having tried out WordPress, etc. but had never actually ever submitted a patch, or released a project. "
 
 Kunal Bhalla, WordPress, GSoC Student 2010
 
