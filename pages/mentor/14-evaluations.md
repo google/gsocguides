@@ -56,6 +56,6 @@ It is possible to rescue a failing student, but you need to really consider the 
 
 This is also an important time for self-evaluation. Are you managing your time adequately? Do you know where the project is at and where it is going? Are you enforcing the deadlines you set? Are you integrating your student into your community?
 
-Take the evaluation period as an opportunity to get feedback from students. Is there any way that you could have helped the student more? How does the student think you be more effective as a mentor? Ask your student directly for feedback.
+Take the evaluation period as an opportunity to get feedback from students. Is there any way that you could have helped the student more? How does the student think you might be more effective as a mentor? Ask your student directly for feedback.
 
 
