@@ -8,7 +8,7 @@ sidebar: student_sidebar
 
 One of the best things about GSoC is the group of individuals from diverse cultures and different open source organizations that participate each year. This also means that you cannot make any assumptions about communication. Specifically:
 
-*   Always read the [Program Rules](https://developers.google.com/open-source/gsoc/rules), [FAQ](https://developers.google.com/open-source/gsoc/faq) and this manual first! One of the best ways to destroy your reputation early is to repeatedly ask questions on IRC or the mailing list that are covered in a FAQ or other types of documentation.
+*   Always read the [Program Rules](https://developers.google.com/open-source/gsoc/rules), [FAQ](https://developers.google.com/open-source/gsoc/faq) and this guide first! One of the best ways to destroy your reputation early is to repeatedly ask questions on the chat channel or the mailing list that are covered in a FAQ or other types of documentation.
 *   Don't expect instant answers. Remember you are working with volunteers.
 *   Avoid humor when communicating with the entire GSoC community. It does not translate well to large groups and is likely to be misconstrued by someone.
 *   Remember that other peoples' time is just as valuable as your own.
@@ -39,7 +39,7 @@ Some specific guidelines that should apply across communities:
 
 ## Like a bullhorn
 
-When you post to the GSoC student list you are essentially using a bullhorn to broadcast your words to 7,000 people across time zones and international boundaries. Use your bullhorn wisely, or it might be ripped from your hands by an unruly and angry mob, or by a responsible moderator.
+When you post to the GSoC student list you are essentially using a bullhorn to broadcast your words to 8,500 people across time zones and international boundaries. Use your bullhorn wisely, or it might be ripped from your hands by an unruly and angry mob, or by a responsible moderator.
 
 
 ## How to Use IRC
