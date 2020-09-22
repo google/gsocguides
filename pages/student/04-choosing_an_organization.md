@@ -26,8 +26,8 @@ The very first requirement for a successful GSoC experience is finding a project
 
 ## Who Are They?
 
-After the GSoC program is announced each year, a list of accepted organizations is published on the GSoC website. Compile a list of organizations based on your answers above. The projects are also tagged with categories of programming language, platforms, topics and applications. Use the tags to filter organizations based on your skills and interests.
+After the GSoC program is announced each year, a list of accepted organizations is published on the GSoC website (usually in February). Compile a list of organizations based on your answers above. The projects are also tagged with categories of programming language, platforms, topics and applications. Use the tags to filter organizations based on your skills and interests.
 
-For each organization, take some time to learn more about what they do (i.e., Google them!). The organization's mission, it's size and range of applications may all influence your interest in working with them. Realize that through GSoC you will be joining an open source community. Ideally, you'll find an organization that you are enthusiastic to be a part of.
+For each organization, take some time to learn more about what they do (i.e., Google them!). The organization's mission, it's size and range of applications may all influence your interest in working with them. Realize that through GSoC you will be joining an open source community. Ideally, you'll find an organization that you are enthusiastic to be a part of for many years to come!
 
 
