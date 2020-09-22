@@ -6,7 +6,7 @@ permalink: student/open-source-culture.html
 sidebar: student_sidebar
 ---
 
-When you encounter an open source group for the first time, it may be a bewildering experience. Whether posting to a mailing list for the first time, blogging about the project you're taking on or hanging out on an IRC channel - the way people interact, and what they expect from each other is pretty different than in classroom or with friends and family.
+When you encounter an open source group for the first time, it may be a bewildering experience. Whether posting to a mailing list for the first time, blogging about the project you're taking on or hanging out on a chat channel - the way people interact, and what they expect from each other is pretty different than in classroom or with friends and family.
 
 
 ## Openness and Sharing
