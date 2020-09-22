@@ -31,4 +31,4 @@ Evaluate the big picture. Students should only be passed for work they've
 already done, not work they might do. Failing a student who has a special
 circumstance isn't easy, but might be the right thing to do.
 
-Note: Students must still complete their evaluation in order to be passed.
+Note: Students must still complete their final evaluation in order to be passed.
