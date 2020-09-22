@@ -6,7 +6,7 @@ permalink: student/finding-the-right-project.html
 sidebar: student_sidebar
 ---
 
-Each organization will have a project Ideas Page linked to from the official Google list of accepted organizations. Browse the list of project ideas for each of the organizations for which you are interested. The ideas should give you a clear sense of the range and depth of projects being targeted and the expectations in terms of prior experience and programming skills. In addition to the list of project ideas, many organizations encourage original ideas proposed by students.
+Each organization will have a Project Ideas Page linked to from the official Google list of accepted organizations. Browse the list of project ideas for each of the organizations for which you are interested. The ideas should give you a clear sense of the range and depth of projects being targeted and the expectations in terms of prior experience and programming skills. In addition to the list of project ideas, many organizations encourage original ideas proposed by students.
 
 
 ## Shortlist
