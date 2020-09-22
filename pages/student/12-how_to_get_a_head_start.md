@@ -45,7 +45,7 @@ GSoC is not only about working with your mentor. There's this amazing group of o
 
 **Student mailing list**
 
-Google has a private mailing list for the GSoC students. Go ahead and introduce yourself on the student mailing list. Talk about your project ideas, get feedback on your proposal. The mailing list also has GSoC participants from earlier lists. Use the student mailing list as an additional resource. Your questions can be technical or non-technical. Of course, remember not to be a bullhorn and be mindful of the mailing list etiquette.
+Google has a private mailing list for the GSoC students. The mailing list also has GSoC participants from earlier lists. Use the student mailing list as an additional resource. Your questions can be technical or non-technical. Of course, remember not to be a bullhorn and be mindful of the mailing list etiquette.
 
 **They're just like me!**
 
