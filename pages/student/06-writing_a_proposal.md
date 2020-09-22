@@ -28,7 +28,7 @@ There are certain elements of the proposal that should apply to every organizati
 
 **Name and Contact Information**
 
-Putting your full name on the proposal is not enough. Provide full contact information, including email addresses, websites, IRC nick, postal address and telephone number. 
+Putting your full name on the proposal is not enough. Provide full contact information, including email addresses, websites, IRC nick, and telephone number. 
 
 **Title**
 
@@ -89,7 +89,7 @@ Try to make sure that someone in the organization would be competent to work wit
 
 **Projects that better belong with other Summer of Code organizations**
 
-Open source organizations try hard to avoid stepping on each other's turf. Try to find your best customer.
+Open source organizations try hard to avoid stepping on each other's turf. Try to find your best fit.
 
 **Projects that represent too large a scope**
 
