@@ -10,7 +10,7 @@ Do you have *some* programming experience at the university level? Then, yes, yo
 
 "Although at first I was a little inexperienced in the world of mobile applications and a bit overwhelmed by the challenge, I can positively say that four months later I've gradually overcome all the obstacles. I had a great mentor, that's for sure!"
 
-Evelina Vrabie, Romania, Android Project - GSoC 2010
+Evelina Vrabie, Romania, Android Project - GSoC student
 
 Every project has a different criteria for selecting students and subsequently different skill level requirements. If you meet the below list of general skills you are likely to find a GSoC project to which you can feel comfortable applying:
 
