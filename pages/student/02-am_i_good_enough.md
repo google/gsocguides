@@ -40,9 +40,9 @@ Do you think you already know everything about everything in the world of open s
 
 If you don't know how to download and install packages on your own, you'll need to figure that out, stat.
 
-**You have access to a functioning computer 30 hours a week**
+**You have access to a functioning computer ~18 hours a week**
 
-If your computer regularly dies, or you don't have dedicated access to a computer you'll need to figure that out before you start your project. Also, GSoC should be considered a full-time commitment. Don't expect an hour or two a day in an internet cafe to be enough!
+If your computer regularly dies, or you don't have dedicated access to a computer you'll need to figure that out before you start your project. GSoC is a significant time commitment, don't expect an hour or two a day in an internet cafe to be enough!
 
 **You've got experience using the programming language and operating system of the project**
 
