@@ -6,17 +6,17 @@ permalink: student/time-management-for-students.html
 sidebar: student_sidebar
 ---
 
-Well, 12 weeks isn't a lot of time to write all the code and have all the fun that you're supposed to have during GSoC. Efficient time management goes a long way in helping you make the most of your GSoC experience. Even though Google puts out a timeline for making sure that things do happen on time, you and your mentor should come up with a custom time line that fits in well with your project requirements and also with your plans for the summer.
+Well, 10 weeks isn't a lot of time to write all the code and have all the fun that you're supposed to have during GSoC. Efficient time management goes a long way in helping you make the most of your GSoC experience. Even though Google puts out a timeline for making sure that things do happen on time, you and your mentor should come up with a custom time line that fits in well with your project requirements and also with your plans for the summer.
 
 The following are some suggestions that can help you to manage your time well:
 
 **Community Bonding Period**
 
-There's already a complete section in the manual on this. (It is *that *important.) Use this time to get familiar with your community, setup your development environment and get an early start on the code development. This is time where you're getting to know your mentor and other students. Chat with them on IRC, ask questions and share ideas on projects and get ready to begin the fun ride ahead.
+There's already a complete section in the guide on this. (It is *that* important.) Use this time to get familiar with your community, setup your development environment and get an early start on the code development. This is time where you're getting to know your mentor and other students. Chat with them on IRC, ask questions and share ideas on projects and get ready to begin the fun ride ahead.
 
 **Be upfront about your time commitment**
 
-GSoC needs an investment of about 30 hours a week. If you know in advance that you'll need to take a couple of days of vacation/break during the Summer of Code, you should communicate that with your mentor beforehand and plan to make up for lost days.
+GSoC needs an investment of about 18 hours a week. If you know in advance that you'll need to take a few days of vacation/break during the Summer of Code, you should communicate that with your mentor beforehand and plan to make up for lost days. You and your mentor have the opportunity to add some flexibility into your 10 week schedule, you both will need to agree on any planned breaks, etc.
 
 **Regular meetings with your mentor**
 
