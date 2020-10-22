@@ -6,14 +6,14 @@ permalink: mentor/mind-the-gap.html
 sidebar: mentor_sidebar
 ---
 
-The community bonding period is the 3-4 weeks between GSoC student acceptance and the start of coding date. Here are some of the goals of this period:
+The community bonding period is the 3 weeks between GSoC student acceptance and the start of coding date. Here are some of the goals of this period:
 
 *   Prepare students to immediately start writing code at the official start of coding.
 *   Get students engaged socially in the project.
 *   Provide time for students to learn about the development practices of the organization.
 *   Ensure that students have a development environment set up. This includes getting set up with the project version control system and reading up on necessary documentation.
-*   Further refine the strategic plan for project completion. Be sure to have solid requirements for all phases particularly the end of the first phase so there is no confusion between your expectations and the student's. Other milestones for phase 2 and the final phase can be adjusted by discussing with the student as needed.
-*   Get required forms filled out, such as the tax forms required by Google, any contributor license agreements, and any paperwork that your project requires.
+*   Further refine the strategic plan for project completion. Be sure to have solid requirements for both phases particularly the end of the first phase so there is no confusion between your expectations and the student's. Other milestones for the final phase can be adjusted by discussing with the student as needed.
+*   This is a time for the student to get required forms filled out, such as the tax forms required by Google, any contributor license agreements, and any paperwork that your project requires.
 
 This period was added in 2007 to help students integrate with their development community and so encourage them to become lifetime contributors. New contributors to a project outside of GSoC often lurk in a project's IRC channel and/or mailing lists for weeks or months before submitting their first patch. The community bonding period is an attempt to improve that experience.
 
