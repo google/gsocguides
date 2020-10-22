@@ -6,7 +6,7 @@ permalink: student/evaluations.html
 sidebar: student_sidebar
 ---
 
-Evaluations occur three times (after the first, second and third months of coding). They are your opportunity to evaluate your mentor and your mentoring organization's performance. This is also your mentor's opportunity to evaluate you.
+Evaluations occur two times (after 5 weeks and at the end of the 10th week of the coding period). They are your opportunity to evaluate your mentor and your mentoring organization's performance. This is also your mentor's opportunity to evaluate you.
 
 The pass or fail decision from an evaluation should not come as a surprise. You and your mentor will already be communicating, and you should be discussing the quality of your code, your participation in the community and your progress on your project to that point. If you aren't getting this feedback, ask for it.
 
@@ -19,7 +19,7 @@ Evaluations are administered via the webapp you used to submit your project prop
 
 Your evaluations are only visible to your mentoring org admins and program administrators from Google. In some cases, Google's program administrators may need to share some details of evaluations with you and your mentor. This may happen, for example, when evaluations indicate a payment should not be made.
 
-If you do not submit an evaluation, you fail and will be removed from the program. Similarly, failing an evaluation means you are immediately removed from the GSoC program.
+You are encouraged to complete both evaluations but you are only required to complete the final evaluation, if you do not complete the final evaluation which also includes your link to your work product you will fail the program. Failing an evaluation means you are immediately removed from the GSoC program.
 
 
 ## Final Evaluations and Work Product Submission
