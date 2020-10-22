@@ -11,11 +11,11 @@ This is a competitive program, each year Google turns down many more students th
 
 ## The Basics
 
-First and foremost, make sure you meet Google's formal requirements for participation in Summer of Code. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
+First and foremost, make sure you meet Google's formal requirements for participation in Summer of Code. Also we sure you are eligible to participate in a program like GSoC with your visa, etc. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
 
-Inventory your time. Figure out how many hours per week are already spoken for outside of your GSoC commitment, including time spent volunteering for other projects and activities, and counting credit-hours of University instruction. GSoC should be treated as a full-time job.  If you have more than a few hours a week of extra commitments, you probably should skip GSoC; it is unlikely that you will be successful. In any case, be completely clear about outside time commitments as part of your proposal. Do not surprise an organization with your time commitments later on.
+Inventory your time. Figure out how many hours per week are already spoken for outside of your GSoC commitment, including time spent volunteering for other projects and activities, a part-time job or counting credit-hours of academic instruction. In any case, be completely clear about outside time commitments as part of your proposal. If you know you need to take a week off because of finals or a wedding, etc. be upfront with the mentors, we have added some flexibility into the 2021 program so this should be fine, you just need to let your mentor know as soon as you know the details. Do not surprise an organization with your time commitments later on.
 
-Make sure that you are able to be in regular close contact with organization mentors via the usual open source means (email, chat, etc) for the duration of the Summer. It is not necessary that you be geographically near your mentor. However, if you are not sure you will have good Internet connectivity continuously over the summer, GSoC is not for you.
+Make sure that you are able to be in regular close contact with organization mentors via the usual open source means (email, chat, etc) for the duration of the summer. It is not necessary (or likely possible) that you be geographically near your mentor. However, if you are not sure you will have good Internet connectivity continuously over the summer, GSoC is not for you.
 
 This program is the Google Summer of *Code.*  If you are less than fluent in the programming languages that your target organization uses, you might want to skip the work of writing an application. If you do decide to proceed, be clear about your level of ability, so that the organization can make an informed decision.
 
