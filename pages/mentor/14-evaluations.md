@@ -12,11 +12,11 @@ Unlike code critique, which happens openly on mailing lists or other public foru
 
 There are four types of evaluations:
 
-**Student evaluations**: Each student fills out three evaluations (after 4 weeks of coding, 8 weeks of coding, and at the end of the 12 week program) pertaining to their experience and their interaction with mentors.
+**Student evaluations**: Each student fills out two evaluations: after 5 weeks of coding and at the end of the 10 week program, pertaining to their experience and their interaction with mentors.
 
-**Mentor evaluations**: Mentor fills out three evaluations after 4 weeks of coding, 8 weeks of coding, and at the end of the 12 week program) covering their participation and their student's performance. If there are multiple mentors, only one mentor will complete the evaluation (decide amongst yourselves who that will be beforehand).
+**Mentor evaluations**: Mentor fills out two evaluations: after 5 weeks of coding and at the end of the 10 week coding period, covering their participation and their student's performance. If there are multiple mentors, only one mentor will complete the evaluation (decide amongst yourselves who that will be beforehand).
 
-These are provided online by Google at specified times with deadlines. The deadlines are important for organizing the payments to students based on the pass/fail decisions by their mentors, so you must ensure that you complete your evaluations on time. Remember, if a student fails any evaluation, they will no longer be part of the program and will not receive any more payments from Google.
+These are provided online by Google at specified times with deadlines. The deadlines are important for organizing the payments to students based on the pass/fail decisions by their mentors, so you must ensure that you complete your evaluations on time. Remember, if a student fails to any evaluation, they will no longer be part of the program and will not receive any more payments from Google.
 
 
 ## They Won't Know Unless You Tell Them
