@@ -11,7 +11,7 @@ This is a competitive program, each year Google turns down many more students th
 
 ## The Basics
 
-First and foremost, make sure you meet Google's formal requirements for participation in Summer of Code. Also we sure you are eligible to participate in a program like GSoC with your visa, etc. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
+First and foremost, make sure you meet Google's formal requirements for participation in Summer of Code. Also be sure you are eligible to participate in a program like GSoC with your visa, etc. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
 
 Inventory your time. Figure out how many hours per week are already spoken for outside of your GSoC commitment, including time spent volunteering for other projects and activities, a part-time job or counting credit-hours of academic instruction. In any case, be completely clear about outside time commitments as part of your proposal. If you know you need to take a week off because of finals or a wedding, etc. be upfront with the mentors, we have added some flexibility into the 2021 program so this should be fine, you just need to let your mentor know as soon as you know the details. Do not surprise an organization with your time commitments later on.
 
