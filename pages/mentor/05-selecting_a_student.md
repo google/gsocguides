@@ -26,7 +26,9 @@ Students should want to participate because they have something to contribute to
 
 There are some student qualifications that are important for any successful GSoC experience. The student needs to be technically skilled, needs to have good communication skills, and needs to be a hard worker with sufficient available time to succeed. Given only a brief application document and some tiny amount of remote interaction, determining whether a student has the necessary qualifications is exceedingly difficult. Hopefully the organization has an application process in place that helps. However, as a mentor you will normally be expected to assist in the evaluation that will ultimately decide who gets accept to GSoC from your organization.
 
-You have several techniques at your disposal for helping your organization evaluate students. First and foremost, your expertise is key in evaluating student proposals. Is a given proposal technically realistic? Is it useful to the organization? Does it meet the organization's overall goals for GSoC?
+You have several techniques at your disposal for helping your organization evaluate students. First and foremost, your expertise is key in evaluating student proposals. Is a given proposal technically realistic? Is it useful to the organization? Does it meet the organization's overall goals for GSoC? 
+
+Check out [Tips for finding the 'right' GSoC student for your org](https://docs.google.com/document/d/1HrCuijYNfDZGaQ9Eyp0HQ6iXuELRmDSimrSkrJRtwug/edit?usp=sharing), compiled by mentors and org admins.
 
 Some of the student applications your organization receives will be obvious winners, about which little discussion is needed. Many more will be obvious losers that need no discussion at all. Applications that fail to conform to the organization submission rules, are extremely short, or are difficult to read or understand almost inevitably come from students who would fail miserably if accepted. The middle ground in student applications is where the action is. There are several techniques for assessing these promising but troubled applications:
 
