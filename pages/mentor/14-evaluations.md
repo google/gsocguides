@@ -10,7 +10,7 @@ Evaluations are a critical component of the GSoC program. Throughout the program
 
 Unlike code critique, which happens openly on mailing lists or other public forums, performance evaluations are personal in nature. Delivering the mentor-student evaluations should be done privately. And more generally, remember the maxim: criticize in private, praise in public.
 
-There are four types of evaluations:
+There are two types of evaluations:
 
 **Student evaluations**: Each student fills out two evaluations: after 5 weeks of coding and at the end of the 10 week program, pertaining to their experience and their interaction with mentors.
 
@@ -18,6 +18,9 @@ There are four types of evaluations:
 
 These are provided online by Google at specified times with deadlines. The deadlines are important for organizing the payments to students based on the pass/fail decisions by their mentors, so you must ensure that you complete your evaluations on time. Remember, if a student fails to any evaluation, they will no longer be part of the program and will not receive any more payments from Google.
 
+For 2021, we have added more flexibility into the scheduling of student's work - they have 10 weeks to complete their 175 hour project. This means students can work on their project an average of 17.5 hours each week of the 10 week program or they can work more hours certain weeks and then have some days/ weeks off as their exams/personal commitments occur. The main point to consider is that the mentor and student need to discuss the planned breaks and expectations early on - during the community bonding period to make sure they are on the same page. 
+
+While there is more flexibility for scheudling for 2021, the first and final evaluation deadlines remain the same and can not be changed. What this essentially means is that students will be expected to complete 40-50% of their project by the first evaluation which is the halfway point of the program (at the end of 5 weeks of coding) if they want to pass their evaluation. Also if a student completes their project 6 weeks into the 10 week GSoC 2021 program, that's great, but they still have to log back into their GSoC dashboard during the final evaluation period (week 10) to submit their final evaluation and work product URL in order to pass the program.
 
 ## They Won't Know Unless You Tell Them
 
