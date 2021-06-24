@@ -17,5 +17,3 @@ A cash stipend from Google allowed students to focus on their development work r
 In 2020, the sixteenth Google Summer of Code wrapped up with more than 94% of the 1198 student participants in the program successfully completing the program. Best of all, most of the organizations participating over the past sixteen years reported that the program helped them find new community members and active committers.
 
 You can find more information about each year of Google Summer of Code on the program statistics page on the History tab of the GSoC website: <https://developers.google.com/open-source/gsoc/resources/stats>
-
-

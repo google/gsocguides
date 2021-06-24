@@ -8,7 +8,6 @@ sidebar: mentor_sidebar
 
 Successful participation in GSoC is based on a three-way fit between mentor, student, and project. As a mentor, your role in finding that fit is two-fold: to help the organization identify and select strong students appropriate for your projects, and to find a pairing between yourself and a student that is productive and pleasant. Fortunately, these goals are quite compatible.
 
-
 ## Understanding Student Motivations
 
 A helpful starting point for finding, evaluating and selecting students is to look at the process from their point of view. Why do students apply to GSoC?
@@ -21,12 +20,11 @@ A helpful starting point for finding, evaluating and selecting students is to lo
 
 Students should want to participate because they have something to contribute to the organization's project. This is obviously an exciting and promising kind of GSoC applicant to receive. Assuming that the student has good technical skills and can interact well, a good result is almost inevitable.
 
-
 ## Selecting a Student
 
 There are some student qualifications that are important for any successful GSoC experience. The student needs to be technically skilled, needs to have good communication skills, and needs to be a hard worker with sufficient available time to succeed. Given only a brief application document and some tiny amount of remote interaction, determining whether a student has the necessary qualifications is exceedingly difficult. Hopefully the organization has an application process in place that helps. However, as a mentor you will normally be expected to assist in the evaluation that will ultimately decide who gets accept to GSoC from your organization.
 
-You have several techniques at your disposal for helping your organization evaluate students. First and foremost, your expertise is key in evaluating student proposals. Is a given proposal technically realistic? Is it useful to the organization? Does it meet the organization's overall goals for GSoC? 
+You have several techniques at your disposal for helping your organization evaluate students. First and foremost, your expertise is key in evaluating student proposals. Is a given proposal technically realistic? Is it useful to the organization? Does it meet the organization's overall goals for GSoC?
 
 Check out [Tips for finding the 'right' GSoC student for your org](https://docs.google.com/document/d/1HrCuijYNfDZGaQ9Eyp0HQ6iXuELRmDSimrSkrJRtwug/edit?usp=sharing), compiled by mentors and org admins.
 
@@ -42,7 +40,6 @@ Some of the student applications your organization receives will be obvious winn
 
 **Look at the student's other summer plans.** A student who at least claims to be solely focused on GSoC is more likely to be successful.
 
-
 ## Finding a Match
 
 As a mentor you want to do more than just help your organization select the best students. You also want to ensure that they select a student and project that you will enjoy working with.
@@ -50,7 +47,6 @@ As a mentor you want to do more than just help your organization select the best
 This may involve more than just finding a bright student with the right area of expertise. It is worthwhile to look at the personality type and work style a student application reflects. If you are a methodical, organized person, for example, a loose and casual student style might not be an ideal fit for you. Mentoring a student geographically far from you can be a bit challenging, but also quite enlightening. Be aware of timezone differences that might require early morning or late night schedules for live meetings, which are critical for effective mentoring.
 
 For those unfortunate students that don't make the cut for logistical reasons (e.g., not enough mentors or funded slots), consider providing feedback to let them know their applications were valued.  This is a service both to the student and to the organization. These students will be more likely to stay engaged, possibly even contributing outside of the official GSoC program, and returning next year with an even stronger application.
-
 
 ## Google's Selection Process
 
@@ -61,7 +57,6 @@ Each mentoring organization will review the applications they receive (outside o
 Next, Google OSPO will allocate each organization a number of student slots. It is then up to the Org admins and mentors to decide which of their student proposals will become their organization's accepted student slots. The Org Admin will then select the student proposals on the program site.
 
 You should also understand how student selection and mentoring can affect the eligibility of an organization. In particular, note that a poor job of mentoring may lead to a poor outcome, making it less likely that your organization will be selected in future years. But failing a student does not mean that Google will consider that organization poorly for future programs, we encourage organizations to fail if the student is not doing the work, generally 12-15% of students fail their project in a given year at some point in the program.
-
 
 ## Starting at the Beginning
 

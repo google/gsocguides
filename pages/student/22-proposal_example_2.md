@@ -8,7 +8,6 @@ sidebar: student_sidebar
 
 "Reactome-Wikipathways Round-trip Format Converter" by Leontius Adhika Pradhana, GenMAPP, 2010
 
-
 ## Problem description
 
 Reactome is a "free, online, open-source, curated pathway database encompassing many areas of human biology". Each pathway in Reactome is manually curated -- peer-reviewed and cross-referenced with other database -- and thus has great reliability. Another pathway database website WikiPathways, by contrast, lives on the "wiki spirit" allowing anyone to edit and annotate pathways in the website. This makes WikiPathways an ideal venue for staging new pathways to be included in the official Reactome database, as well as a place for the community to review and make changes to pathways which may end up as an official amendment in Reactome.
@@ -16,7 +15,6 @@ Reactome is a "free, online, open-source, curated pathway database encompassing 
 However, the two websites use markedly different data structure to store their pathways: WikiPathways uses GenMAPP Pathway Markup Language, a vector graphics format similar to SVG; Reactome internally stores the pathways in a proprietary semantic database schema. The formats differ not only in their presentation but also in their focus of data stored, making information exchange difficult.
 
 Recent development of Reactome introduced a new proprietary graphical XML format akin to GPML. This XML format adheres to SBGN specification which semantically defines symbols representing biological systems. This project will provide the means to convert to and from GPML and the new Reactome XML format.
-
 
 ## Implementation plan
 
@@ -40,14 +38,12 @@ A separate script will be made that periodically pulls updates from WikiPathways
 
 The script will also pull updates from Reactome and push new pathways to WikiPathways. Only Reactome pathways that have XML layout will be pushed to WikiPathways.
 
-
 ## Deliverables
 
-*   an XML schema to validate the new Reactome XML format;
-*   a GPML to Reactome XML layout converter and Reactome XML layout to GPML converter, which will be available both as command line tool and a library that can be integrated with WikiPathways infrastructure;
-*   a system using the above converter, integrated to WikiPathways, that will periodically check for updates on both WikiPathways and Reactome and update the websites accordingly;
-*   proper documentation and tests for the above-mentioned components.
-
+* an XML schema to validate the new Reactome XML format;
+* a GPML to Reactome XML layout converter and Reactome XML layout to GPML converter, which will be available both as command line tool and a library that can be integrated with WikiPathways infrastructure;
+* a system using the above converter, integrated to WikiPathways, that will periodically check for updates on both WikiPathways and Reactome and update the websites accordingly;
+* proper documentation and tests for the above-mentioned components.
 
 ## Timeline
 
@@ -88,5 +84,3 @@ Test and document the periodic push/pull mechanism more thoroughly.
 2 -- 16 August
 
 Further refine tests and documentation for the whole project.
-
-

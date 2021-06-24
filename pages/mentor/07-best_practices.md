@@ -42,10 +42,9 @@ After asking questions, you can then offer an explanation to a person or a sugge
 
 **Apologize Effectively**: Making apologies is a fact of human life, and open source communities are no exception. In the event that you or a student finds themselves needing to make an apology, there are a few things that might help you apologize effectively:
 
-*   Make the apology as soon as possible
-*   Make it clear in the subject line that you're apologizing
-*   Make it an honest apology and not a defensive statement in disguise
-
+* Make the apology as soon as possible
+* Make it clear in the subject line that you're apologizing
+* Make it an honest apology and not a defensive statement in disguise
 
 ## Giving and Receiving Criticism
 
@@ -57,9 +56,9 @@ All projects engage in some form of code review and the inevitable criticism. Ha
 
 Here are some ways that you can help students prepare for code review:
 
-*   Provide example mailing list threads or a list of the types of questions that are asked about code.
-*   Direct students to review coding standards that apply to your project.
-*   Go through an example code review on the student's first code sample submission that matches as closely as possible the process that your project normally uses.
+* Provide example mailing list threads or a list of the types of questions that are asked about code.
+* Direct students to review coding standards that apply to your project.
+* Go through an example code review on the student's first code sample submission that matches as closely as possible the process that your project normally uses.
 
 People are more likely to respond positively to criticism from those that they trust and respect. Try introducing students to the people that are likely to comment on their code, and explaining the role that those people play in the group. Also, encourage students to both defend technical decisions, and be gracious in admitting mistakes.
 
@@ -70,5 +69,3 @@ Make an effort to assist a student in their first steps into your community. Off
 **Pro Tip**: A good status report should include a few items that went well during the previous period, and a few problems that were encountered and how they were addressed.
 
 **Don't Be That Person**: Don't ever give your student the impression that you think that only stupid people ask questions.  Be nice.  Remember that you were once a beginner.
-
-

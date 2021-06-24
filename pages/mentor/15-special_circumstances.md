@@ -13,15 +13,15 @@ GSoC project.
 
 Do's:
 
-+   Encourage the participant to focus on their health concerns as their priority.
-+   Provide reasonable accommodations and understanding.
++ Encourage the participant to focus on their health concerns as their priority.
++ Provide reasonable accommodations and understanding.
 
 Dont's:
 
-+   Pry into the details of the situation. It's none of your business.
-+   Ask for a doctor's note or proof.
-+   Make promises about extensions outside the normal GSoC dates.
-+   Require students to withdraw. This is their choice.
++ Pry into the details of the situation. It's none of your business.
++ Ask for a doctor's note or proof.
++ Make promises about extensions outside the normal GSoC dates.
++ Require students to withdraw. This is their choice.
 
 When evaluating students, be cognizant of the amount of time they have put in.
 A student who has produced good work for most of an evaluation period may be

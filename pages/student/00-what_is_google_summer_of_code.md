@@ -14,17 +14,15 @@ Accepted students gain exposure to real-world software development and employmen
 
 This program has brought together thousands of students and mentors from over 130 countries worldwide. As of September 2020, 715 open source projects, from areas as diverse as operating systems and community services, have participated as mentoring organizations for the program. Successful students have widely reported that their participation in GSoC made them more attractive to potential employers and that the program has helped greatly when embarking on their technical careers.
 
-
 ## Goals of the Program
 
 The GSoC program has several goals:
 
-*   Inspire young developers to begin participating in open source development.
-*   Help open source projects identify and bring in new developers.
-*   Get more open source code written and released for the benefit of all.
-*   Provide students the opportunity to do work related to their academic pursuits during the summer: "flip bits, not burgers."
-*   Give students more exposure to real-world software development (for example, distributed development and version control, software licensing issues, testing, and communication best practices).
-
+* Inspire young developers to begin participating in open source development.
+* Help open source projects identify and bring in new developers.
+* Get more open source code written and released for the benefit of all.
+* Provide students the opportunity to do work related to their academic pursuits during the summer: "flip bits, not burgers."
+* Give students more exposure to real-world software development (for example, distributed development and version control, software licensing issues, testing, and communication best practices).
 
 ## A Brief History of Google Summer of Code
 
@@ -33,5 +31,3 @@ Google Summer of Code began in 2005 as a complex experiment with a simple goal: 
 GSoC has grown immensely over the last 16 years and in the process helped students make the most of their summer by working on exciting open source projects.
 
 You can take a look at the appendix if you're interested in a more extensive history of the program.
-
-

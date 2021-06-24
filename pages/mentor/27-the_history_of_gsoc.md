@@ -19,5 +19,3 @@ The first year 40 projects participated--400 students began the experiment.
 In 2019, the 15th Google Summer of Code wrapped up with more than 89% of the 1,267 student participants in the program successfully completing their projects. Best of all, most of the 686 organizations participating over the past 15 years reported that the program helped them find new community members and active committers.
 
 You can find more information about each year of Google Summer of Code on the program statistics page on the History tab of the GSoC website: <https://developers.google.com/open-source/gsoc/resources/stats>
-
-

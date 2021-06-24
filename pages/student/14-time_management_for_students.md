@@ -26,9 +26,9 @@ You should absolutely, absolutely make sure you're interacting often with your m
 
 It always helps to set short-term goals that you can discuss with your mentor. Breaking down your project in smaller tasks helps in many ways:
 
-*   It gets you started!! You have a smaller, well-defined task to work on which is easier to manage.
-*   Mini-goals help create a road map to get to the final output you're trying to produce.
-*   Smaller goals are less daunting, and completing a small goal gives you the confidence to tackle the next one.
+* It gets you started!! You have a smaller, well-defined task to work on which is easier to manage.
+* Mini-goals help create a road map to get to the final output you're trying to produce.
+* Smaller goals are less daunting, and completing a small goal gives you the confidence to tackle the next one.
 
 **Regular code reviews**
 
@@ -47,5 +47,3 @@ It's very likely that your mentor is in a different time zone than you are. Be s
 Things usually don't go the way you plan them. Make sure you have room for the unplanned changes. It's always best to keep aside some buffer time that you can use in case you do digress from your original plan and save yourself from considerable pain and panic attacks.
 
 Of course, do remember that GSoC is not just all coding and working. It's about having fun too! If you manage your time well, you will have a great Summer of Code, meet interesting people and have lots of fun.
-
-

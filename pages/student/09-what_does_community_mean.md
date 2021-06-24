@@ -14,7 +14,6 @@ Some developers may work on only a small part of the project codebase, while oth
 
 When talking about community, it helps to focus in on political and social structure. The project participants you talk to may or may not formally represent the project. Assume, unless otherwise stated, that people represent and speak only for themselves when you interact with them. However, identifying the leaders and the project structure can help you to better interact with all members of the project team.
 
-
 ## Community leadership structure
 
 Much of the authority in a project rests with those people who control the community code. At least, it starts there. Actual organization varies widely, but there are some common structures that may help you find your bearings.
@@ -33,19 +32,16 @@ Decisions are often made based on who has working code, rather than on a theoret
 
 As groups grow in size, some kind of organization becomes necessary. The type of formal organization varies widely across social, cultural and political boundaries.  Some ways of organizing include:
 
-*   Electing a steering committee by a vote of developers.
-*   Forming a non-profit organization or foundation.
-*   Creating a for-profit business.
-*   Joining an existing non-profit organization.
-*   Formalizing the existing developer relationships by naming a group of committers the "core" decision makers.
+* Electing a steering committee by a vote of developers.
+* Forming a non-profit organization or foundation.
+* Creating a for-profit business.
+* Joining an existing non-profit organization.
+* Formalizing the existing developer relationships by naming a group of committers the "core" decision makers.
 
 These groups can have documented processes for assuming leadership roles, and may put more effort into non-code activity. Generally speaking, formal organizations have governing documents, and a clearly documented leadership group that changes from time to time.
-
 
 ## Community is people
 
 Apart from project leaders, open source projects tend to be full of independent, capable people who like to learn. Long-term collaboration tends to turn strangers into friends. Part of what people enjoy about open source development is that they have the opportunity to choose their colleagues. Developers often participate for fun, relaxation and friendship.
 
 When you're talking to a software community, realize that you're really just talking to people, albeit some of the most interesting people who create software. Enjoy the experience and be a good neighbor, and you'll almost always fit right in.
-
-

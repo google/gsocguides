@@ -8,7 +8,6 @@ sidebar: mentor_sidebar
 
 A key activity for org admins is setting up and supervising the process by which student proposals are prioritized and matched with mentors. There are many good ways to do this. There are also a few common ways to proceed that are not so good. In any case, understanding how organizations commonly approach student and mentor selection can help to ensure a better outcome from this critical step.
 
-
 ## The Formal Process
 
 Conceptually, the process of selecting students and mentors is simple. In practice, the process of prioritizing proposals and assigning mentors can be difficult and contentious.
@@ -16,7 +15,6 @@ Conceptually, the process of selecting students and mentors is simple. In practi
 During the student application period, organizations prioritize the student proposals, discard proposals unworthy of consideration and investigate proposals further. At some point, Google tells the organization how many "slots" the organization will be allowed to fund. The organization administrator will select the org's choices on the program site at the close of the student selection period and they will be funded ("slotted") by Google. Mentors must be assigned to all projects that the organization wants considered for slotting, preferably as early in the process as possible.
 
 Proposal volumes tend to be high, and the nature of the activity can lead to disagreements and bruised egos. Make the process for deciding on projects clear early, and be consistent.
-
 
 ## Slot Count
 
@@ -30,13 +28,11 @@ If you discover that you haven't received the number of slots you were hoping fo
 
 If you ask for a certain number of slots and are given that number but then realize you don't have enough mentors to cover all of the projects you have essentially wasted that slot and taken it out of the hands of another organization that didn't receive the number of slots they requested relative to their excellent proposals. There is no way to trade unused slots with other organizations.
 
-
 ## Students selected by multiple orgs
 
 Students are allowed to submit up to 3 proposals each year, and they can be to multiple organizations. When organizations have chosen their desired students based on the number of slots they were given, it is inevitably the case that a few students are sought by more than one organization. Starting in 2016, when an organization chooses their student that another organization has already chosen, the second organization's administrators will receive the contact information for the Organization Administrator with the first organization that chose the student. Then if they wish to plead their case for the first organization to release the student so the second organization can have them for a very important project they can. Ultimately it is up to the first organization that chose the student to decide if they want to release that student and let the second organization have that student. If the first organization releases that student they then can choose another student to fill that slot.
 
 This process involves interaction with peer open source organizations. It is critically important that you are polite and cordial, and put the needs of the student first.  Whenever possible, student preferences should be honored. Keep in mind that you may have to work with these organizations outside GSoC; generating ill will here is not worth it. Also keep in mind that Google's program admins emphatically do not want to have to deal with hostility and conflict here. Don't endanger your future participation in GSoC just because some other organization wants some student as much as you do.  Be nice and get out of the way.
-
 
 ## Acquiring and Assigning Mentors
 
@@ -50,13 +46,11 @@ Make sure you have enough mentors, including quite a few spares. Folks who would
 
 If you (or the mentor) are insecure about their qualifications having them join the project as a back-up mentor is a great strategy to encourage future participation.
 
-
 ## Cheating and Proposals From Outer Space
 
 Avoid spending time on proposals that were not tailored to your project by using the "ignore" feature for student proposals.
 
 Occasionally a student does not understand the importance of attribution when drawing on material from outside sources. Make sure she understands, early on, that plagiarism is not tolerated. In blatant cases, a good response is to reject the proposal and consider informing the administration at the academic institution the student is affiliated with. The article <http://tesl-ej.org/ej10/a2.html> has some context to avoid surprises.
-
 
 ## Selection Strategies
 
@@ -69,5 +63,3 @@ Probably the best that can be done in suggesting selection strategies is to prov
 **Interact with the students during the proposal period.** There should be no remaining questions by the time students are slotted. Finding out that a student will not interact, or cannot interact well, is absolutely crucial.
 
 **Don't be afraid to take charge.** At the end of the day, the org admin is responsible for the student and mentor selection decisions. If your org doesn't give you full veto power, or gives you grief about executive decisions, consider stepping down. Sometimes somebody has to make the final decision.
-
-

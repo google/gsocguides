@@ -14,7 +14,6 @@ Evelina Vrabie, Romania, Android Project - GSoC student
 
 Every project has a different criteria for selecting students and subsequently different skill level requirements. If you meet the below list of general skills you are likely to find a GSoC project to which you can feel comfortable applying:
 
-
 ## The soft skills
 
 **You find out where to go for help with technical questions**
@@ -33,7 +32,6 @@ Since you'll be spending significant amounts of time working alone - not being a
 
 Do you think you already know everything about everything in the world of open source programming?  Then you probably aren't good enough for GSoC!
 
-
 ## The technical stuff
 
 **You can install and configure software packages on your own**
@@ -51,5 +49,3 @@ Depending on the project, the skills necessary will range from beginner to exper
 Every project has additional characteristics that they look for when selecting students and projects - however, if you meet the above basic criteria - chances are good that there are GSoC projects and organizations to which you can feel comfortable applying.
 
 **Pro Tip:** Don't be afraid to apply to projects where you only meet 51% of the listed requirements.  Include a section on how you'll compensate for or learn the missing skills - and demonstrate during the application process that you are working on acquiring those new skills.
-
-
