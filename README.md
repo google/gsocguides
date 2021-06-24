@@ -43,7 +43,7 @@ We need to do this because a) we're naming pages after their order, and b) the
 Next/Prev button requires all the order numbers to be contiguous.  You can't
 skip any.
 
-# Upgrade Ruby Gems
+## Upgrade Ruby Gems
 
 ```bash
 bundle install --path vendor/bundle
@@ -52,6 +52,13 @@ rm -rf vendor/bundle
 ```
 
 Don't forget to rebuild the docker image!
+
+## Run Markdownlint locally
+
+```shell
+npm install markdownlint-cli
+./node_modules/.bin/markdownlint  pages
+```
 
 ## Want to contribute?
 
