@@ -8,6 +8,7 @@ sidebar: mentor_sidebar
 
 In addition to the great code produced, the GSoC experience is about building open source communities. By focusing on students, we are going to the source of all future open source efforts. The ultimate success of the GSoC program is thus measured by the quality of the student experience. Each organization and each mentor plays a crucial role in creating this experience through their project ideas, developer culture, and the guidance they provide. They are rewarded by new code and by adding skilled new developers to their ranks. But don't take our word for it! Heres what some of the students had to say:
 
+<!-- markdownlint-disable no-blanks-blockquote -->
 > Overall, this is the most productive summer I ever had. It increased my confidence as a developer and as a person that I can actually pull off a project like this and interact with awesome people like you. I also become a part of a growing community and hope to help it grow further.
 >
 > *—Chetan Bansal*
@@ -39,3 +40,4 @@ In addition to the great code produced, the GSoC experience is about building op
 > So, we've now gotten to the end of it all. It does feel a bit sad, I really did have a great time coding this summer and hopefully I can do it again. I don't think I've ever learned this much in a summer job and everybody working with me have been really fantastic.
 >
 > *—Anna Granudd*
+<!-- markdownlint-enable no-space-in-emphasis -->
