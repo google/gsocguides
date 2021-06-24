@@ -1,0 +1,8 @@
+
+# disable line-length
+# (we have a lot of long lines right now, remove this after a cleanup)
+MD013: false
+
+# disable no-emphasis-as-heading
+# (there's a lot of these, clean them up and remove this)
+MD036: false
