@@ -30,17 +30,17 @@ Students, mentors, and slots:
 
 * The mentor/student process is:
 
-    * OAs invite mentors to their organization.
+  * OAs invite mentors to their organization.
 
-    * Talk with students about project ideas (some orgs give students a task they need to complete, that is up to you).
+  * Talk with students about project ideas (some orgs give students a task they need to complete, that is up to you).
 
-    * Receive and review student applications.
+  * Receive and review student applications.
 
-    * Request a minimum and a maximum number of requested slots for students. (OAs submit requests)
+  * Request a minimum and a maximum number of requested slots for students. (OAs submit requests)
 
-    * Receive confirmation from Program Administrators with your organization's number of slots.
+  * Receive confirmation from Program Administrators with your organization's number of slots.
 
-    * Select students and mentors for each project.
+  * Select students and mentors for each project.
 
 * The application process is a great initial test of the student's dedication and skills, so don't offer students too much help during it. Feedback is good but if you have to hand hold them now, it will be worse during the program.
 
@@ -65,5 +65,3 @@ If you have any questions just ask. We know you'll be awesome!
 Best wishes,
 
 One time GSoC First Year Organizations
-
-

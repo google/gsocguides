@@ -8,36 +8,31 @@ sidebar: student_sidebar
 
 The last thing you want is for the coding period to start and then realize that you don't have all the tools you need installed and configured to actually begin work. Don't let this happen to you! The community bonding period is the perfect time to get these things sorted out.
 
-
 ## Get Your Development Environment in Order
 
 Each project has a unique set of tools and packages required to work with developers. These often include:
 
-*   Compiler
-*   Language interpreter
-*   Text editor
-*   Version control system
-*   Modules and libraries needed by the software
-*   Database, mail or web server
-*   Real-time communication tool (e.g. irc client, instant messaging)
+* Compiler
+* Language interpreter
+* Text editor
+* Version control system
+* Modules and libraries needed by the software
+* Database, mail or web server
+* Real-time communication tool (e.g. irc client, instant messaging)
 
 Some organizations require testing on multiple operating systems and/or platforms. Make sure you know what is expected of you as early as possible. Read the available development documentation and contact your mentor to figure out exactly what tools you need to succeed. Also learn the bug-reporting process that your organization uses and understand the project's release management strategy.
-
 
 ## Practice
 
 Once you get your development environment setup start practicing! This includes getting familiar with the coding standards, codebase, and testing and documentation policies of the open source project community. Do a few practice commits and work on understanding how source control works within your project. Brush up on any new skills and start asking questions.
 
-
 ## Do Some Background Research
 
 Look through the projects bug database and read through the user list to understand your end users. Peruse the mailing list archives and go through the project's existing documentation.
 
-
 ## Start Interacting
 
 Take advantage of the community bonding period to connect with your mentor, and other students in the program. Set up a blog, get involved on relevant forums and mailing lists and in general, start interacting with the development community. Make sure you have what you need to succeed, and if you don't, ask your mentor for help.
-
 
 ## Start Working with Your Fellow Students
 
@@ -63,9 +58,6 @@ You can always find students who are excited by the same ideas as yours. Use you
 
 You can even consider starting a local student chapter for your community if you can find enough interested people. It's a great way of socializing, making and keeping new friends and also spreading word about your community, open source and GSoC.
 
-
 ## Review Your Project Plan
 
 Do you have a good project schedule? Have you informed your mentor of any planned absences? Make any project adjustments you may now recognize as necessary based upon getting your dev environment setup and your new understanding of how the project works.
-
-

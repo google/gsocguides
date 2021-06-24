@@ -62,6 +62,4 @@ If you enjoy coding and feel passionate about writing good quality code and buil
 
 **The stipend and the fame**
 
-One very tangible and obvious advantage of participating in GSoC is the stipend that you make while working with amazing people on a great project. Being a successful GSoC student is in fact a prestigious achievement. It's another way to make your resume more impressive. 
-
-
+One very tangible and obvious advantage of participating in GSoC is the stipend that you make while working with amazing people on a great project. Being a successful GSoC student is in fact a prestigious achievement. It's another way to make your resume more impressive.

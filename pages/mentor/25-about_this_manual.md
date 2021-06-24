@@ -14,11 +14,9 @@ Org Admin section) and write the Students Guide ("Flipping Bits not
 Burgers"). Additional brief edits occurred February 2017 and November 2019 to update and reflect the
 new website and program changes.
 
-
 ## How to Contribute to This Guide
 
 Read the CONTRIBUTING file in the source repository.
-
 
 ## About the Authors
 
@@ -66,7 +64,6 @@ Malveeka is currently a graduate student in the CS dept at UC, San Diego. She pa
 
 <http://cseweb.ucsd.edu/~mtewari/>
 
-
 ## 2009 Participants
 
 **Olly Betts**
@@ -81,7 +78,6 @@ Leslie held various roles at Google before joining the Open Source Programs Offi
 
 <http://www.hawthornlandings.org>
 
-
 ## Facilitation (2009 & 2010)
 
 The Book Sprints were facilitated by:
@@ -91,6 +87,3 @@ The Book Sprints were facilitated by:
 Adam is the founder of FLOSS Manuals and project manager for Booki. FLOSS Manuals is a community of 1500 (at the time of writing) volunteers that create quality free documentation about free software. FLOSS Manuals is pioneering the Book Sprint methodology that enables the development of well written manuals on free software in 2-5 days. Adam has facilitated over 15 Book Sprints on Free Software including Inkscape, OLPC, Sugar, CiviCRM, Firefox, Introduction to the Command Line, Digital Foundations (conversion to free software examples), Ogg Theora, How to Bypass Internet Censorship, Open Translation Tools, PureData, Video Subtitling and now the Google Summer of Code Mentors Guide. Adam is also the Project Manager for the development of 'Booki' - the free software Collaborative Authoring Platform (see below).
 
 adam@flossmanuals.net
-
-
-

@@ -12,24 +12,21 @@ GSoC pairs accepted student applicants with mentors from participating projects.
 
 This program has brought together thousands of students and mentors from over 130 countries worldwide. Over 715 open source projects, from areas as diverse as operating systems and community services, have participated as mentor organizations for the program. Successful students have widely reported that their participation in GSoC made them more attractive to potential employers and that the program has helped greatly when embarking on their technical careers.
 
-
 ## Goals of the Program
 
 The program has several goals:
 
-*   Get more open source code written and released for the benefit of all.
-*   Inspire young developers to begin participating in open source development.
-*   Help open source projects identify and bring in new developers.
-*   Provide students the opportunity to do work related to their academic pursuits during the summer: "flip bits, not burgers."
-*   Give students more exposure to real-world software development (for example, distributed development and version control, software licensing issues, and mailing list etiquette).
-
+* Get more open source code written and released for the benefit of all.
+* Inspire young developers to begin participating in open source development.
+* Help open source projects identify and bring in new developers.
+* Provide students the opportunity to do work related to their academic pursuits during the summer: "flip bits, not burgers."
+* Give students more exposure to real-world software development (for example, distributed development and version control, software licensing issues, and mailing list etiquette).
 
 ## A Brief History of Google Summer of Code
 
 Google Summer of Code began in 2005 as a complex experiment with a simple goal: helping students find work related to their academic pursuits during their school holidays. In GSoC's first year, 40 projects and 400 students participated. By the conclusion of the fifteenth Google Summer of Code in 2020, over 17,000 students have been accepted into the program. Best of all, most of the organizations participating have reported that the program helped them find new community members and active committers.
 
 See the appendix for a more extensive history of the program.
-
 
 ## Participant Roles
 
@@ -49,7 +46,6 @@ Org admins are the final authority about matters such as which student projects 
 
 Students submit project proposals to the various organizations participating in GSoC. The organizations select which student proposals they would like to see funded by Google. Many student participants have gone on to become important members of the open source community. Many students have also gone on to become mentors and even org admins for the program.
 
-
 ## Program Structure
 
 All of the program rules are enumerated in the GSoC Program Rules and Term documents each year. Provided all of the rules regarding eligibility for the program are followed, Google takes a fairly hands-off approach to GSoC. Each organization structures its participation in GSoC in whichever way makes the most sense for its technical and community needs.
@@ -58,13 +54,13 @@ All of the program rules are enumerated in the GSoC Program Rules and Term docum
 
 **Student Applications**: Students are encouraged to begin talking to the participating organizations as soon as the list of accepted organizations is published. Prior to the opening of applications, it is important to take some time to talk to potential student applicants. This helps them refine their ideas so that they will produce a better quality proposal. Each organization is asked to provide a proposal template, but the best student applications go far beyond the template and an organization's ideas list. Students are given about 2 weeks to complete their applications.
 
-Following the student application deadline, organizations begin reviewing the proposals they received. During the review phase, organizations maintain an open dialogue with their student applicants. This may involve clarifying questions in regards to the final proposals to ensure students and organizations have the same understanding of the proposal. It is important to note a student's proposal can't be altered after the final submission deadline, and mentor orgnizations should not attempt to do so during the review period. 
+Following the student application deadline, organizations begin reviewing the proposals they received. During the review phase, organizations maintain an open dialogue with their student applicants. This may involve clarifying questions in regards to the final proposals to ensure students and organizations have the same understanding of the proposal. It is important to note a student's proposal can't be altered after the final submission deadline, and mentor orgnizations should not attempt to do so during the review period.
 
 Organizations may also conduct further interviews to determine which students are most likely to be a good fit for the community and work required. Over the course of several weeks, each organization prioritizes its list of proposals. Google lets each organization know how many student proposals it will fund, and organizations select their top proposals.
 
 Sometimes a student has proposals accepted by more than one organization. Google leaves it to the organizations to decide which organization the student will work with during the course of the program.
 
-**Community Bonding Period**: Before students are expected to start working, there is a three-four week period built into the program to allow them to get up to speed without the pressure to execute on their proposals. During this time, students are expected to get to know their project communities and participate in project discussion. During this time, students should also set up their development environments, learn how their project's source control works, refine their project plans, read any necessary documentation, and otherwise prepare to complete their project proposals. Mentors should spend this time helping their students understand which resources will be most useful to them, introducing them to the members of the community who will be most helpful with their projects, and generally acculturating them. 
+**Community Bonding Period**: Before students are expected to start working, there is a three-four week period built into the program to allow them to get up to speed without the pressure to execute on their proposals. During this time, students are expected to get to know their project communities and participate in project discussion. During this time, students should also set up their development environments, learn how their project's source control works, refine their project plans, read any necessary documentation, and otherwise prepare to complete their project proposals. Mentors should spend this time helping their students understand which resources will be most useful to them, introducing them to the members of the community who will be most helpful with their projects, and generally acculturating them.
 
 For 2021 there is increased flexibility in the planning for the milestones - students have 10 weeks to complete their 175 hour project. This opens it up for the student and mentor to decide together how they want to break up the project. Some folks may choose to stick to a 17-18 hour a week schedule with their students, others may factor in a couple of breaks during the program (for student and mentor) and some may have students focus 30 hours a week on their project so they wrap up in 6 weeks. This also makes it a lot easier for students with finals or other commitments (weddings, etc.) to adjust their schedules. But the most important thing to remember is that both the student and mentor should agree on a schedule and sign off on it early on during the community bonding period so there is no confusion later on.
 
@@ -73,5 +69,3 @@ For 2021 there is increased flexibility in the planning for the milestones - stu
 **Coding Ends**: At the final deadline for coding, students are welcome and encouraged to continue work on their projects, but only work done before this date can be evaluated. Google suggests that all work be complete about a week earlier to give the student time for last-minute improvements and corrections, as well as preparing their work for delivery. Students also need to submit mentor evaluations during this time and a link to their code.
 
 It's a primary goal of Google Summer of Code that the student participants stick around long after the program has ended and continue contributing to their project communities. Great mentors continue working with their students to encourage them to do so. It's also customary during this time for organizations to publish a post-GSoC wrap up report. Mentors and students take a well-deserved break, but energetic organizations begin planning for the next GSoC during this time.
-
-

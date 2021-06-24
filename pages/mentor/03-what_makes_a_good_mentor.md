@@ -18,11 +18,9 @@ There are specific skills that you can work on in order to be more effective; ev
 
 **Are you keenly interested in mentoring students?** A main goal of GSoC is mentoring students. Mentoring is important to the future of open source software, our immediate projects and the overall culture. Mentoring a student requires a combination of passion, responsibility and patience. A good mentor is willing to engage with students throughout their learning process.
 
-
 ## Be Prepared to Seek Help
 
 At all times don't forget that you have access to people, tools and resources that can make your job much easier *and* make you a better mentor. Make use of your org admin when you are not sure what is expected of you or have a difficult situation with your student. Make use of other mentors in your organization and the thousands of mentors on the mentor mailing list. Though it may be an annoying list at times *(don't feed the trolls!)*, it is a valuable resource. The GSoC admins are another important resource. They set the tone and standards for the entire program. They have heard it all, so don't hesitate to contact them when a problem arises.
-
 
 ## What To Expect From Under-Mentoring
 
@@ -35,5 +33,3 @@ At all times don't forget that you have access to people, tools and resources th
 **The student gets stuck.** The student seems to be engaged, and to be working hard, but no apparent progress is being made. Alternatively, the student's communications are infrequent and terse, and seem to always be on the same issue or milestone.
 
 **The student disappears, perhaps for days or weeks at a time.** If the student is under-mentored, it may be difficult to determine when this period began, and thus to know when to panic. Insufficient information is available for evaluation; thus it becomes impossible to fairly evaluate the student.
-
-

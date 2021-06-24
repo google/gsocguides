@@ -16,7 +16,6 @@ As a GSoC mentor, you are in the best position to identify "red flags" and warni
 
 **Bad students happen to good mentors**: One thing to keep in mind: *Sometimes bad students happen to good mentors.* Don't take it personally. If a mentor tries their hardest and their student fails, this does not reflect badly on the mentor.
 
-
 ## "Actions Speak Louder Than Words"
 
 This bit of folk wisdom is proven year after year during GSoC. A mentor will write to the mentors mailing list asking for advice about a student that has not performed or gone missing for a period of time. Mid-term evaluations are coming up and the student has reappeared, reinvigorated, with no shortage of excuses. Now the mentor must decide: "Should I pass this student?".
@@ -34,5 +33,3 @@ Here are some specific scenarios to watch out for:
 Depending on your personality type, some of these might seem harsh. You might also shoulder some of the blame because you think that if you had been a better mentor, more on top of the situation, it would have been avoided. But even if you are partly to blame, so is the student. And it is up to the student to perform when expectations are communicated and agreed upon.
 
 **Pro Tip**: In the event your student's boat is sinking, all mentors are equipped with emergency rocket-propelled jet skis.
-
-

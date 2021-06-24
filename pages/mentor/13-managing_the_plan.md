@@ -8,7 +8,6 @@ sidebar: mentor_sidebar
 
 The student and organization application process to GSoC helps all participants think about how to run the Google Summer of Code at a community level. One important tool is the creation of a strategic plan. The phrase "project plan" frequently elicits a Pavlovian response of groans, shrieks and malaise in techies. An even more severe reaction has been observed in open source communities.  So let's talk about a "strategic plan" instead, and how it can help your student be successful.
 
-
 ## Creating a Strategic Plan
 
 The GSoC application process assists in developing a good preliminary outline of a strategic plan for the student's accepted project. To increase the probability of program success you should spend time with your student, and your development community, refining the plan developed in the application period. This can be done during the community bonding period.
@@ -25,7 +24,6 @@ A good strategic plan includes:
 
 **Tasks associated with each milestone**: Because your milestones are most likely going to be chunks of code, each milestone needs to include both testing and documentation around that particular "chunk." This approach helps guarantee that you and your student don't end up with a pile of code that hasn't been tested or documented at the end of GSoC.
 
-
 ## Following the Plan
 
 After you create a strategic plan, you actually need to follow it. Some ways you can use your strategic plan to stay on track are:
@@ -40,7 +38,6 @@ After you create a strategic plan, you actually need to follow it. Some ways you
 
 **Be a good example**: If you, the mentor, need to miss a deadline, make sure you communicate this to your student well in advance.
 
-
 ## Delivering Feedback
 
 Throughout the project you should be delivering effective feedback to your student about their code, communication, and documentation.
@@ -54,5 +51,3 @@ Throughout the project you should be delivering effective feedback to your stude
 **Pro Tip**: Don't let the development of your design document become your GSoC project. It's useful to set a date for completion of your strategic plan and add a "Start of Coding" milestone.
 
 **Don't Be That Person**: Don't be overly-critical of date slippage. It happens.  Fanatical adherence to dates does not lead to successful project completion, nor does it make your student feel excited to contribute to your community long-term.
-
-

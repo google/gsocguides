@@ -8,7 +8,6 @@ sidebar: student_sidebar
 
 This is a competitive program, each year Google turns down many more students than it funds. While pre-proposal activities are key to improving your chances of success, a poorly-written proposal is an easy way to fail. There is much you can do to ensure that your project proposal catches the attention of organization reviewers *in a positive way.*
 
-
 ## The Basics
 
 First and foremost, make sure you meet Google's formal requirements for participation in Summer of Code. Also be sure you are eligible to participate in a program like GSoC with your visa, etc. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
@@ -19,7 +18,6 @@ Make sure that you are able to be in regular close contact with organization men
 
 This program is the Google Summer of *Code.*  If you are less than fluent in the programming languages that your target organization uses, you might want to skip the work of writing an application. If you do decide to proceed, be clear about your level of ability, so that the organization can make an informed decision.
 
-
 ## Elements of a Quality Proposal
 
 Most organizations have their own proposal guidelines or templates. You should be extraordinarily careful to conform to these. Most organizations have many, many proposals to review. Failure to follow simple instructions is highly likely to land you at the bottom of the heap.
@@ -28,7 +26,7 @@ There are certain elements of the proposal that should apply to every organizati
 
 **Name and Contact Information**
 
-Putting your full name on the proposal is not enough. Provide full contact information, including email addresses, websites, IRC nick, and telephone number. 
+Putting your full name on the proposal is not enough. Provide full contact information, including email addresses, websites, IRC nick, and telephone number.
 
 **Title**
 
@@ -58,7 +56,6 @@ Keep your personal info brief. Be sure to communicate personal experiences and s
 
 Most organizations accept only plain text applications. Most organizations have a required application format. Many organizations have application length limits. In general, organizations *will* throw out your proposal if you fail to conform to these guidelines. If you feel you *must* have graphical or interactive content associated with your application, put just this content (not a copy of your proposal) on the web and provide an easy-to-type URL. Do not expect reviewers to follow this link.
 
-
 ## Submit a Draft Proposal early
 
 Submit your draft proposal early during the application period so that the organization mentors can review it and ask you questions or request more detail on aspects of your proposal before the final deadline.
@@ -69,13 +66,11 @@ Follow the instructions from the organizations on the content and format of your
 
 You can edit the draft as many times as you wish before the application deadline.
 
-
 ## Submitting a Final PDF Proposal
 
 **Before the application period closes you must submit a Final PDF Proposal** - this must be done for your proposal to be considered for the GSoC program. If you only submit a draft and fail to submit the Final PDF Proposal the organizations will not be able to see your proposal and therefore will not be able to accept you - it is an automatic reject from the system.
 
 Follow the instructions on the GSoC site and the process is quite straightforward.
-
 
 ## Outside the Project List
 
@@ -113,7 +108,6 @@ Novel work should be novel. Surprise.
 
 Even given this list, there's plenty of room for cool work. Given the opportunity, you should seriously consider taking advantage and writing a proposal that differentiates you.
 
-
 ## General Notes
 
 While there is an official limit of three submitted proposals, it is okay to submit more than one high-quality proposal. If you have several strong possibilities for the same organization, consider submitting several proposals. Organizations will figure out which one they like best. But avoid sending many medium-quality proposals and concentrate on fewer high-quality proposals.
@@ -123,5 +117,3 @@ Most organizations are risk averse. It is better for everyone if your project is
 Integrate and leverage existing open source code in your project. Only propose to write something yourself if you cannot get it any other way.
 
 The "Pencils Down" deadline for your project to be complete is usually sometime in mid-August. This will come sooner than you think.
-
-

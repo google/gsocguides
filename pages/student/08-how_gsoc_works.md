@@ -18,10 +18,9 @@ Payment is in two pieces. The first payment is sent shortly after you pass the P
 
 **Certificate of Completion**
 
-You may receive a digital certificate of completion at the end of the program if you successfully pass GSoC. 
+You may receive a digital certificate of completion at the end of the program if you successfully pass GSoC.
 
 The rest of your experience with the program will be determined by your interactions with the community within your mentoring organization. Most students consider the interactions with their mentor and the rest of the open source community they're involved with to be the most important part of the Google Summer of Code experience.
-
 
 ## Participant Roles
 
@@ -43,9 +42,6 @@ Mentors are people from the community who volunteer to work with a student. Ment
 
 Program administrators are employees of Google's Open Source Programs Office who run the program. These folks do a variety of tasks: select the participating open source projects each year, create and analyze the program evaluations, administer the program mailing lists, ensure that participants are paid, respond to inquiries about the program. Program administrators do not select which student proposals are accepted into Google Summer of Code.
 
-
 ## Afterward
 
 It is a primary goal of Google Summer of Code that the student participants stick around long after the program has ended and continue contributing to their project communities. Great mentors continue working with their students and encourage them to do so. In the end, mentors and students take a well-deserved break before the GSoC cycle starts again.
-
-

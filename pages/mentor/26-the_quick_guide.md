@@ -8,11 +8,10 @@ sidebar: mentor_sidebar
 
 The process begins with proposing projects and selecting students over about a four week period. This is followed by 3-4 weeks of community bonding. The coding phase runs for twelve weeks.
 
-*   During the student selection phase the mentor will be responsible for helping find a fit between project, student proposal and mentor. This will include defining the proposal process, assisting in the evaluation of proposals, querying the students, providing them feedback about their proposals and ultimately finding a student proposal to mentor.
-*   During the community bonding phase, the mentor and student will further define the student's project and prepare for development. An important part of this phase, as the name implies, is to get the student connected with both the mentoring organization and the larger open source community.
-*   During the coding phase the student will be implementing the project. The mentor will be providing advice not just on the technical aspects of development, but on issues related to the interaction of the student's work with the organization. At midterm the mentor will evaluate the student's progress to determine whether the student will continue with the project and be issued a payment by Google.
-*   During the final phase the mentor will help the student submit their code to Google. The mentor will also perform an evaluation of the student's work to determine whether Google should issue a final payment.
-
+* During the student selection phase the mentor will be responsible for helping find a fit between project, student proposal and mentor. This will include defining the proposal process, assisting in the evaluation of proposals, querying the students, providing them feedback about their proposals and ultimately finding a student proposal to mentor.
+* During the community bonding phase, the mentor and student will further define the student's project and prepare for development. An important part of this phase, as the name implies, is to get the student connected with both the mentoring organization and the larger open source community.
+* During the coding phase the student will be implementing the project. The mentor will be providing advice not just on the technical aspects of development, but on issues related to the interaction of the student's work with the organization. At midterm the mentor will evaluate the student's progress to determine whether the student will continue with the project and be issued a payment by Google.
+* During the final phase the mentor will help the student submit their code to Google. The mentor will also perform an evaluation of the student's work to determine whether Google should issue a final payment.
 
 ## Quick Tips on Effective Mentoring
 
