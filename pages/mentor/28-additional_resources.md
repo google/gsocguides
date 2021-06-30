@@ -16,7 +16,7 @@ No matter what, you want to take a look at the Program Rules each year to make s
 
 Additionally, these resources are quite helpful:
 
-**Program IRC Channel**: Several knowledgeable folks (mentors, org admins, former students, current students) hang out in #gsoc on Freenode and would be happy to give you a pointer in the right direction.
+**Program IRC Channel**: Several knowledgeable folks (mentors, org admins, former students, current students) hang out in #gsoc on Libera.Chat and would be happy to give you a pointer in the right direction.
 
 **Blog Posts**: You can find material related to GSoC on the Google Open Source Blog at <http://google-opensource.blogspot.com>. Your project may have a blog or newsletter where GSoC information was published in the past, as well.
 
