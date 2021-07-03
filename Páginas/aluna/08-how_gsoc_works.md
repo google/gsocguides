@@ -1,11 +1,11 @@
----
+
 title: How GSoC Works
 section: Community Bonding Period
 order: 8
 permalink: student/how-gsoc-works.html
 sidebar: student_sidebar
 ---
-
+José Junior de Oliveira
 Google Summer of Code moves in phases after you are accepted. The first phase is the Community Bonding Period in which you get to know your community and get familiar with their code base and work style. The next phase is the initial phase of coding (Phase 1) which is evaluated with Phase 1 evaluation 5 weeks into the Google Summer of Code term. The final phase is your time to complete your project (the last 5 weeks of the program). There will be a final evaluation at the end of the term; you will also need to submit a URL to your work product.
 
 **Evaluations**
