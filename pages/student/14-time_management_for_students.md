@@ -24,7 +24,7 @@ You should absolutely, absolutely make sure you're interacting often with your m
 
 **Have mini-goals for each week**
 
-It always helps to set short-term goals that you can discuss with your mentor. Breaking down your project in smaller tasks helps in many ways:
+It always helps to set short-term goals that you can discuss with your mentor. Breaking down your project into smaller tasks helps in many ways:
 
 *   It gets you started!! You have a smaller, well-defined task to work on which is easier to manage.
 *   Mini-goals help create a road map to get to the final output you're trying to produce.

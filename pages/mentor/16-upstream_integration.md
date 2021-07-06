@@ -8,7 +8,7 @@ sidebar: mentor_sidebar
 
 Every project wants to get useful code. And once you get that code, you'd love to be able to commit it to your project and make use of it! The following are some helpful hints on making that process easier on both the students and the committers to your project.
 
-**Note**: We use the term 'committer' throughout this section to mean the person or people responsible for adding or merging code to your organizations authoritative source code repository. Terminology and source control methods vary so widely, that it was difficult to choose a single term. Committer seemed to cover the widest variety of situations.
+**Note**: We use the term 'committer' throughout this section to mean the person or people responsible for adding or merging code to your organization's authoritative source code repository. Terminology and source control methods vary so widely, that it was difficult to choose a single term. Committer seemed to cover the widest variety of situations.
 
 
 ## Recruit Committers Early
