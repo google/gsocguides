@@ -43,7 +43,7 @@ Here are a few useful resources for teasing out meaning from initialisms, acrony
 
 ## Volunteerism and Gift Economies
 
-Donated time are the life blood of open source projects. Many individuals contribute their time and energy without any expectation of compensation or even a simple "thank you" in return.
+Donated time is the life blood of open source projects. Many individuals contribute their time and energy without any expectation of compensation or even a simple "thank you" in return.
 
 Contributions to projects are often self-directed, with developers having a personal itch to scratch in the form of a new feature, by correcting a bug that they've encountered or by implementing something from a TODO list. Projects operating in this way may seem chaotic if you are only familiar with top-down management - where teachers, professors or bosses tell you what to do and when. Of course, some projects do have clearly defined project management, with milestones and tasks meted out carefully.
 

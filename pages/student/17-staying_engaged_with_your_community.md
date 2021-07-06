@@ -10,7 +10,7 @@ A glorious summer has ended. GSoC is now over—but only officially. Your obliga
 
 ## Maintaining Your Project
 
-You worked on a wonderful project during the summer. You can't abandon it just because the summer ended! After all it's your *baby*. One way to make sure that your project keeps on growing is by maintaining it well, adding new features to it. There might be a few loose ends that you weren't able to tie up during the coding period. If there's anything in (or not in) your code that's keeping you awake at night, you can always work on that after the coding period ends.
+You worked on a wonderful project during the summer. You can't abandon it just because the summer ended! After all, it's your *baby*. One way to make sure that your project keeps on growing is by maintaining it well, adding new features to it. There might be a few loose ends that you weren't able to tie up during the coding period. If there's anything in (or not in) your code that's keeping you awake at night, you can always work on that after the coding period ends.
 
 "Please do the communities a favour by not abandoning your projects after the GSoC results are announced, or the boogeyman will get you.[!!!] "
 
