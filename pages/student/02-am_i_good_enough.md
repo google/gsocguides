@@ -34,7 +34,7 @@ Do you think you already know everything about everything in the world of open s
 
 **You can communicate effectively**
 
-Communication is key to GSoC. We will mention this many times in this guide. Being a successful GSoC contributor requires you to communicate with your mentor and the community regularly. Much of the time the comunication is via chat or email but you may also have weekly video chats with your mentor or community. If you are behind schedule or you are stuck on implementing something but have tried to find the answer to no avail, reach out to the community and your mentor, don't stay stuck. 
+Communication is key to GSoC. We will mention this many times in this guide. Being a successful GSoC contributor requires you to communicate with your mentor and the community regularly. Much of the time the comunication is via chat or email but you may also have weekly video chats with your mentor or community. If you are behind schedule or you are stuck on implementing something but have tried to find the answer to no avail, reach out to the community and your mentor, don't stay stuck.
 
 ## The technical stuff
 
@@ -50,10 +50,10 @@ If your computer regularly dies, or you don't have dedicated access to a compute
 
 Depending on the project, the skills necessary will range from beginner to expert, but you do need some experience.  One of the great things about GSoC is that there is a large variety of organizations and projects to choose from. Chances are very good that you can find a project that meets you at your level, even if you are a beginner! If the project primarily uses Linux for development and distribution, then you need to be comfortable with basic Linux usage. Sometimes, you'll see projects looking to expand onto other platforms, in which case you may be able to bring in new expertise.
 
-Every project has additional characteristics that they look for when selecting contributors and projects - however, if you meet the above basic criteria - chances are good that there are GSoC projects and organizations to which you can feel comfortable applying. 
+Every project has additional characteristics that they look for when selecting contributors and projects - however, if you meet the above basic criteria - chances are good that there are GSoC projects and organizations to which you can feel comfortable applying.
 
 **Pro Tip: Read the organization's requirements or skills they are looking for in potential GSoC Contributors**
 
-Be aware that some requirements are likely to be firm and you must meet those requirements for the organization to consider your application. For example, many organizations require potential GSoC contributors to submit pull requests as part of their application, or they require you to have a chat with someone in the community about your idea before submitting your proposal. More complicated projects will likely require familiarity with particular programming languages, processes or techniques. It is also possible some organizations may be looking for students who are earlier in their development, while other organizations may be looking for applicants more advanced in their skills. 
+Be aware that some requirements are likely to be firm and you must meet those requirements for the organization to consider your application. For example, many organizations require potential GSoC contributors to submit pull requests as part of their application, or they require you to have a chat with someone in the community about your idea before submitting your proposal. More complicated projects will likely require familiarity with particular programming languages, processes or techniques. It is also possible some organizations may be looking for students who are earlier in their development, while other organizations may be looking for applicants more advanced in their skills.
 
-However, some of the requirements may be less stringent and could be things you can learn quickly, just be sure to mention that you are working on these skills, etc. when you are discussing your proposal with the organization. 
+However, some of the requirements may be less stringent and could be things you can learn quickly, just be sure to mention that you are working on these skills, etc. when you are discussing your proposal with the organization.
