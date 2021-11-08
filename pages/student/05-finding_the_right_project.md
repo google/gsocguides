@@ -6,7 +6,7 @@ permalink: student/finding-the-right-project.html
 sidebar: student_sidebar
 ---
 
-Each organization will have a Project Ideas Page linked to from the official Google list of accepted organizations. Browse the list of project ideas for each of the organizations for which you are interested. The ideas should give you a clear sense of the range and depth of projects being targeted and the expectations in terms of prior experience and programming skills. In addition to the list of project ideas, many organizations encourage original ideas proposed by students.
+Each organization will have a Project Ideas Page linked to from the official Google list of accepted organizations. Browse the list of project ideas for each of the organizations for which you are interested. The ideas should give you a clear sense of the range and depth of projects being targeted and the expectations in terms of prior experience and programming skills. In addition to the list of project ideas, many organizations encourage original ideas proposed by potential GSoC contributors.
 
 ## Shortlist
 
@@ -24,7 +24,7 @@ Once you've researched the shortlisted projects and got your questions answered,
 
 You've narrowed down your search of organizations and projects, you've made first contact, and you've started communicating directly with potential mentors. Now it's time for the critical process of turning a project idea into a project plan.
 
-In most cases, your potential mentor(s) will have lots of ideas and preconceptions about each project that were not included in its original description on the Project Ideas page. Discuss and research the project idea in as much detail as possible. You may even consider preparing mock-ups (illustrations, powerpoint, or websites) to help clarify your understanding and vision of the project. You will want to discuss the scope of the project idea, including which parts are critical versus optional for the summer timeline. This process will directly feed into your application and ideally distinguish it from all the others. Just think about it: if you've helped clarify the project idea and contributed to an actual plan of action, it makes it an easy process for mentors to evaluate your proposal and give it a high ranking!
+In most cases, your potential mentor(s) will have lots of ideas and preconceptions about each project that were not included in its original description on the Project Ideas page. Discuss and research the project idea in as much detail as possible. You may even consider preparing mock-ups (illustrations, powerpoint, or websites) to help clarify your understanding and vision of the project. You will want to discuss the scope of the project idea, including which parts are critical versus optional for the program timeline. This process will directly feed into your application and ideally distinguish it from all the others. Just think about it: if you've helped clarify the project idea and contributed to an actual plan of action, it makes it an easy process for mentors to evaluate your proposal and give it a high ranking!
 
 **Pro Tip:** The earlier you apply, the better. Submitting your proposal early helps you get early feedback.
 
