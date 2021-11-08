@@ -6,7 +6,7 @@ permalink: student/why-should-i-apply.html
 sidebar: student_sidebar
 ---
 
-So you've found out about this Google Summer of Code thing that requires you to submit a lengthy proposal and write a lot of code. Why bother about it at all? Well, here are some reasons why you should start writing your proposal today!
+So you've found out about this Google Summer of Code thing that requires you to reach out to an organization to talk about their project ideas, then submit a lengthy proposal and write a lot of code. Why bother about it at all? Well, here are some reasons why you should start reaching out to organizations that you are interested in today!
 
 **An absolutely amazing learning experience**
 
@@ -60,6 +60,10 @@ Kunal Bhalla, WordPress, GSoC Student
 
 If you enjoy coding and feel passionate about writing good quality code and building great software, GSoC is THE place for you to give way to your passion. After all, what better way is there to celebrate your love for the code by participating in a summer of code.
 
-**The stipend and the fame**
+**Being mentored by highly experienced developers**
 
-One very tangible and obvious advantage of participating in GSoC is the stipend that you make while working with amazing people on a great project. Being a successful GSoC student is in fact a prestigious achievement. It's another way to make your resume more impressive.
+GSoC at its heart is a mentorship program. The mentors are dedicated, passionate volunteers who want to help GSoC Contributors learn about their communities and teach them how to be great open source contributors. Having the opportunity to be guided by people who have been doing this for many years and who know the tips and tricks can only help you be a better, more confident open source developer.
+
+**The stipend and the confidence**
+
+One very tangible and obvious advantage of participating in GSoC is the stipend that you make while working with amazing people on a great project. You won't get rich participating in GSoC as a Contributor, but the money can certainly help while you are building your skills and doing meaningful contributions. Being a successful GSoC student is in fact a prestigious achievement. It's another way to make your resume more impressive.
