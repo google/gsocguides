@@ -12,7 +12,7 @@ Interacting with an open source group is sort of like walking in on a party wher
 
 If you're the type of person that would walk right up and introduce yourself at a party, then the best approach to getting started is to do what you'd do in real life. Contact the project, introduce yourself and ask questions related to your project.
 
-However, if you're more likely to hang back and watch people for a while, spend some time observing community interactions before you jump in. You can also try to contact an organization admin for guidance, or with help introducing you to a community. If in doubt, have a look at the organization's ideas page for hints on where to go for help.
+However, if you're more likely to hang back and watch people for a while, spend some time observing community interactions before you jump in. Have a look at the organization's ideas page for hints on where to go for help. GSoC Organizations have listed their preferred contact methods for GSoC contributors to use on their program homepage and they are ready to welcome you through these channels. 
 
 ## How to observe community interactions
 
