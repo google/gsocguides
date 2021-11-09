@@ -14,7 +14,7 @@ You worked on a wonderful project during the summer. You can't abandon it just b
 
 "Please do the communities a favour by not abandoning your projects after the GSoC results are announced, or the boogeyman will get you.[!!!] "
 
-Lalith Suresh P., Network Simulator 3, GSoC Student 2010
+Lalith Suresh P., Network Simulator 3, GSoC Student
 
 ## New Projects
 
@@ -34,12 +34,12 @@ You can present your project at some of the open source conferences. The open so
 
 ## Next Summer
 
-There are so many ways that you can help your organization and the open source community for the next Google Summer of Code. You can submit project ideas, apply again as a student or even become a mentor for a project. You can even contribute by just idling in the IRC channels, helping out the new students who come looking for advice.
+There are so many ways that you can help your organization and the open source community for the next Google Summer of Code. You can submit project ideas, apply again as a GSoC contributor or even become a mentor for a project. You can even contribute by just idling in the IRC channels, helping out the new folks who come looking for advice.
 
 ## Stay connected
 
-Everyone likes to hear back from friends and people they've worked with. Be sure to stay in touch with your mentors, other students and the many great friends that you've made during GSoC.
+Everyone likes to hear back from friends and people they've worked with. Be sure to stay in touch with your mentors, other GSoC contributors and the many great friends that you've made during GSoC.
 
 "GSoC may be over, but I'm really hoping my contribution to the Congress application will go beyond that. I'll be sure to stay in touch with Eric and the Sunlight Foundation. "
 
-Evelina Vrabie, SunLight Foundation, GSoC Student 2010
+Evelina Vrabie, SunLight Foundation, GSoC Student
