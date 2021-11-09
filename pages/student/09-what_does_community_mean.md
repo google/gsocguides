@@ -8,9 +8,9 @@ sidebar: student_sidebar
 
 The word "community" gets thrown around a lot in open source. So what does it mean?
 
-People involved with open source community have differing political, social, economic and ethnic backgrounds. They range from elementary school students to the elderly. They work across timezones, languages, and cultures.
+People involved with open source community have differing political, social, economic and ethnic backgrounds. They range from elementary school students to the older adults. They work across timezones, languages, and cultures.
 
-Some developers may work on only a small part of the project codebase, while others know every line from memory. Communities also include people who don't work on the source code directly, such as graphic designers or testers.
+Some developers may work on only a small part of the project codebase, while others know every line from memory. Communities also include people who may not work on the source code directly, such as graphic designers, testers, tech writers and community managers.
 
 When talking about community, it helps to focus in on political and social structure. The project participants you talk to may or may not formally represent the project. Assume, unless otherwise stated, that people represent and speak only for themselves when you interact with them. However, identifying the leaders and the project structure can help you to better interact with all members of the project team.
 
@@ -24,7 +24,7 @@ Many projects start with a single developer. As time goes on, this person, often
 
 **Many committers, rough consensus**
 
-Some projects allow almost anyone to change their codebase. These groups are likely to give commit access to GSoC students as part of a project. When deciding which features to work on or what code is committed to the master code repo, decisions may be made by the group or left to a few trusted individuals. When there's conflict, majority approval may be requested before further action is taken.
+Some projects allow almost anyone to change their codebase. These groups are likely to give commit access to GSoC contributors as part of a project. When deciding which features to work on or what code is committed to the main code repo, decisions may be made by the group or left to a few trusted individuals. When there's conflict, majority approval may be requested before further action is taken.
 
 Decisions are often made based on who has working code, rather than on a theoretical basis. Groups may not formally document how they make decisions. In this case, a little time spent with the group can help you learn the culture and how to work together. If you end up working with a group like this, your mentor will help you acclimate!
 
