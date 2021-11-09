@@ -17,6 +17,9 @@ An update of the manual was done in December 2017 and what was quite impressive
 is how few changes had to be made as all of the advice the original authors gave
 in this manual still stand today.
 
+Another update was done in November 2021 to reflect the eligibility and
+flexibility changes to the GSoC program for 2022.
+
 In October 2017, the guide moved from <http://www.flossmanuals.net> to GitHub.
 
 ## How to Contribute to This Manual
