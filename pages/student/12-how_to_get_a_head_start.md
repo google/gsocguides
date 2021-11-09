@@ -32,19 +32,19 @@ Look through the projects bug database and read through the user list to underst
 
 ## Start Interacting
 
-Take advantage of the community bonding period to connect with your mentor, and other students in the program. Set up a blog, get involved on relevant forums and mailing lists and in general, start interacting with the development community. Make sure you have what you need to succeed, and if you don't, ask your mentor for help.
+Take advantage of the community bonding period to connect with your mentor, and other GSoC contributors. Set up a blog, get involved on relevant forums and mailing lists and in general, start interacting with the development community. Make sure you have what you need to succeed, and if you don't, ask your mentor for help.
 
-## Start Working with Your Fellow Students
+## Start Working with Your Fellow GSoC contributors
 
-GSoC is not only about working with your mentor. There's this amazing group of outstanding and motivated students too.
+GSoC is not only about working with your mentor. There's this amazing group of outstanding and motivated GSoC contributors too.
 
-**Student mailing list**
+**GSoC Contributor/Student mailing list**
 
-Google has a private mailing list for the GSoC students. The mailing list also has GSoC participants from earlier lists. Use the student mailing list as an additional resource. Your questions can be technical or non-technical. Of course, remember not to be a bullhorn and be mindful of the mailing list etiquette.
+Google has a private mailing list for the GSoC contributors/students. From 2005-2021 GSoC was focused on students hence keeping the student in the list name. The mailing list also has GSoC participants from earlier lists. Use the GSoC contributor/student mailing list as an additional resource. Your questions can be technical or non-technical. Of course, remember not to be a bullhorn and be mindful of the mailing list etiquette. Please don't "+1" on the mailing list as you are spamming thousands of people and will likely have the message moderated.
 
 **They're just like me!**
 
-There are many students who have faced or are facing the problems like you. Don't be scared to ask your questions. This is more true for the students who have been accepted to the same organizations as yours. You can ask them about how they got their dev setup working. Help each other out on the irc and mailing lists. Don't be afraid to ask and don't be afraid to answer!
+There are many GSoC contributors who have faced or are facing problems like you. Don't be scared to ask your questions. This is more true for the GSoC contributors who have been accepted to the same organizations as yours. You can ask them about how they got their dev setup working. Help each other out on the chat channels and mailing lists. Don't be afraid to ask and don't be afraid to answer!
 
 **Make friends around the world**
 
@@ -52,7 +52,7 @@ GSoC is a great opportunity that helps people and communities collaborate across
 
 **Meetup and discussion groups**
 
-You can always find students who are excited by the same ideas as yours. Use your GSoC contacts to organize meetups and discussion groups. You can meet up with people who are. It's always good to put a face on the names that you've been friends with. Help each other out with coding problems.
+You can always find GSoC contributors who are excited by the same ideas as yours. Use your GSoC contacts to organize meetups and discussion groups. You can meet up with people who are interested in the same things as you. It's always good to put a face to the names that you've been friends with. Help each other out with coding problems.
 
 **Organize Student Chapters**
 
@@ -60,4 +60,4 @@ You can even consider starting a local student chapter for your community if you
 
 ## Review Your Project Plan
 
-Do you have a good project schedule? Have you informed your mentor of any planned absences? Make any project adjustments you may now recognize as necessary based upon getting your dev environment setup and your new understanding of how the project works.
+Do you have a good project schedule? Have you informed your mentor of any planned absences? Make any project adjustments you may now recognize as necessary based upon getting your dev environment setup and your new understanding of how the project works. With the flexibility in extending your program timeline that is being offered in 2022, this is a crucial time to let your mentor know if your plans changed since you first wrote your proposal and now you will have limited availability for X weeks for whatever reason. Communicate with your mentor. They want you to succeed but you have to let them know you have some varying availabilty during the summer. It's okay as long as you let them know as soon as you can so you both can work on a reasonable schedule and project milestones together.
