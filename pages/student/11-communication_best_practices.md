@@ -49,7 +49,7 @@ The Fedora Project has a great FAQ on how to use IRC. Read it!
 
 Some additional guidelines:
 
-* Include your real name in your IRC signature information.
+* Include your preferred name in your IRC signature information.
 * Never private-message (pm) someone that you don't know without first asking if it is OK in the public channel.
 * Read the topic before asking questions.
 * Stay on-topic for the channel.
