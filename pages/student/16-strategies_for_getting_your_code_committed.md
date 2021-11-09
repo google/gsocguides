@@ -19,4 +19,4 @@ A key goal of GSoC is to produce useful code that is integrated into the code ba
 
 There's something really satisfying and fulfilling about getting your code accepted and seeing it used by many others. Getting your code submitted is your first step towards achieving that accomplishment! More importantly, it helps you in honing your skills as a great developer and contributor.
 
-**Pro Tip**: You can also ask other students to review your code for you and give you feedback. Use other students in your community and the GSoC program as a resource.
+**Pro Tip**: You can also ask other GSoC contributors to review your code for you and give you feedback. Use other students in your community and the GSoC program as a resource.
