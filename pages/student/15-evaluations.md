@@ -6,7 +6,7 @@ permalink: student/evaluations.html
 sidebar: student_sidebar
 ---
 
-Evaluations occur two times (after 5 weeks and at the end of the 10th week of the coding period). They are your opportunity to evaluate your mentor and your mentoring organization's performance. This is also your mentor's opportunity to evaluate you.
+Evaluations occur two times: at the midpoint of the program and at the end of the program after you submit your final work product. For the standard 12 week project your first evaluation will be at the end of 6 weeks and the end final evaluation will be after the 12th week of the coding period. The evaluations are your opportunity to evaluate your mentor and your mentoring organization's performance. This is also your mentor's opportunity to evaluate you.
 
 The pass or fail decision from an evaluation should not come as a surprise. You and your mentor will already be communicating, and you should be discussing the quality of your code, your participation in the community and your progress on your project to that point. If you aren't getting this feedback, ask for it.
 
@@ -14,11 +14,11 @@ The pass or fail decision from an evaluation should not come as a surprise. You 
 
 Evaluations are a survey that both you and your mentor fill in during the evaluation period. Google publishes the evaluation questions for both students and mentors in advance.
 
-Evaluations are administered via the webapp you used to submit your project proposal at the start of the term. Evaluations will take about 10-15 minutes to complete. The questions focus on the scope of your project, the quality of your interactions with your mentor and your community. You, your mentor and org admins will receive an email after the evaluation window closes that tells you whether you've passed.
+Evaluations are administered via the webapp you used to submit your project proposal at the start of the term. Evaluations will take about 10-15 minutes to complete. The questions focus on the scope of your project, the quality of your interactions with your mentor and your community. You, your mentor, and org admins will receive an email after the evaluation window closes that tells you whether you've passed.
 
-Your evaluations are only visible to your mentoring org admins and program administrators from Google. In some cases, Google's program administrators may need to share some details of evaluations with you and your mentor. This may happen, for example, when evaluations indicate a payment should not be made.
+Your evaluations have multiple questions on them that are clearly marked who can view the answers. In most cases only Google program administrators can see your responses. There are a few clearly labeled questions that the organization administrators of your organization can see to help them understand if the mentors are fulfilling their roles and responsibilities to you. In very rare cases, Google's program administrators may need to share some details of evaluations with you and your mentor. This may happen, for example, when evaluations indicate a payment should not be made (a GSoC contributor should be failed).
 
-You are encouraged to complete both evaluations but you are only required to complete the final evaluation, if you do not complete the final evaluation which also includes your link to your work product you will fail the program. Failing an evaluation means you are immediately removed from the GSoC program.
+You are encouraged to complete both evaluations but you are only required to complete the final evaluation. If you do not complete the final evaluation which also includes your link to your work product you will fail the program. Failing an evaluation means you are immediately removed from the GSoC program without receiving a stipend.
 
 ## Final Evaluations and Work Product Submission
 
@@ -28,4 +28,4 @@ Depending on what portions of code are included in the scope of your project, yo
 
 ## Payments - Be Patient
 
-Successful completion of your evaluations triggers the payments to your account or your payment card. This takes a few business days to process. Please be patient.
+Successful completion of your evaluations triggers the payments to your Payoneer account. This can take a few business days to process. Please be patient.
