@@ -6,7 +6,7 @@ permalink: student/time-management-for-students.html
 sidebar: student_sidebar
 ---
 
-Well, 12 weeks isn't a lot of time to write all the code and have all the fun that you're supposed to have during GSoC. Efficient time management goes a long way in helping you make the most of your GSoC experience. Even though Google puts out a timeline for making sure that things do happen on time, you and your mentor should come up with a custom time line that fits in well with your project requirements and also with your plans for the summer. 
+Well, 12 weeks isn't a lot of time to write all the code and have all the fun that you're supposed to have during GSoC. Efficient time management goes a long way in helping you make the most of your GSoC experience. Even though Google puts out a timeline for making sure that things do happen on time, you and your mentor should come up with a custom time line that fits in well with your project requirements and also with your plans for the summer.
 
 Beginning in 2022, you and your mentor can decide together (with the organization administrator's approval) that you wish to extend the project longer than the standard 12 weeks for up to 22 weeks. Be sure you have a clear path and expectations on how the work will be divided over this new adjusted timeframe. Maybe there is a full month in the middle where you have finals or are expecting a child and know you won't be able to fully commit to GSoC during that time, that can be okay as long as you and your mentor have agreed on a plan together.
 
