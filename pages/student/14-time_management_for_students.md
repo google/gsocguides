@@ -18,7 +18,7 @@ There's already a complete section in the guide on this. (It is *that* important
 
 **Be upfront about your time commitment**
 
-GSoC needs an investment of about 175 hours for medium size projects and 350 hours for large projects. If you know in advance that you'll need to take a few days or even weeks of vacation/break during the Summer of Code, you should communicate that with your mentor beforehand and plan to make up for lost days by extending the standard 12 week program or having heavier coding weeks to accomdate the missed time. You and your mentor have the opportunity to add some flexibility into your   schedule up to a point. However, you both will need to agree on any planned breaks, an adjusted end date for your project, etc.
+GSoC needs an investment of about 175 hours for medium size projects and 350 hours for large projects. If you know in advance that you'll need to take a few days or even weeks of vacation/break during the Summer of Code, you should communicate that with your mentor beforehand and plan to make up for lost days by extending the standard 12 week program or having heavier coding weeks to accommodate the missed time. You and your mentor have the opportunity to add some flexibility into your schedule up to a point. However, you both will need to agree on any planned breaks, an adjusted end date for your project, etc.
 
 **Regular meetings with your mentor**
 

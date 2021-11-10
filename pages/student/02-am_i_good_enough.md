@@ -6,7 +6,7 @@ permalink: student/am-i-good-enough.html
 sidebar: student_sidebar
 ---
 
-Do you have *some* programming experience and are comfortable in at least one or two programming langauges? Then, yes, you are good enough! No, you don't need to be a Computer Science or IT major or have been coding for 5 years. Have work experience programming but spend your time studying philosophy? Yes, you are good enough to be a GSoC contributor!
+Do you have *some* programming experience and are comfortable in at least one or two programming languages? Then, yes, you are good enough! No, you don't need to be a Computer Science or IT major or have been coding for 5 years. Have work experience programming but spend your time studying philosophy? Yes, you are good enough to be a GSoC contributor!
 
 "Although at first I was a little inexperienced in the world of mobile applications and a bit overwhelmed by the challenge, I can positively say that four months later I've gradually overcome all the obstacles. I had a great mentor, that's for sure!"
 
@@ -34,7 +34,7 @@ Do you think you already know everything about everything in the world of open s
 
 **You can communicate effectively**
 
-Communication is key to GSoC. We will mention this many times in this guide. Being a successful GSoC contributor requires you to communicate with your mentor and the community regularly. Much of the time the comunication is via chat or email but you may also have weekly video chats with your mentor or community. If you are behind schedule or you are stuck on implementing something but have tried to find the answer to no avail, reach out to the community and your mentor, don't stay stuck.
+Communication is key to GSoC. We will mention this many times in this guide. Being a successful GSoC contributor requires you to communicate with your mentor and the community regularly. Much of the time the communication is via chat or email but you may also have weekly video chats with your mentor or community. If you are behind schedule or you are stuck on implementing something but have tried to find the answer to no avail, reach out to the community and your mentor, don't stay stuck.
 
 ## The technical stuff
 
