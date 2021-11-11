@@ -44,7 +44,7 @@ GSoC contributors, mentors, and slots:
 
   * Receive confirmation from Program Administrators with your organization's number of slots.
 
-  * The number of slots will determine which ranked proposals are automatically selected. If your org asks for 7 slots but is given 5, ranked proposals #1-#5 will automatically be selected as your org's GSoC contributor projects. 
+  * The number of slots will determine which ranked proposals are automatically selected. If your org asks for 7 slots but is given 5, ranked proposals #1-#5 will automatically be selected as your org's GSoC contributor projects.
 
 * The application process is a great initial test of the GSoC contributor's dedication and skills, so don't offer too much help during it. Feedback is good but if you have to hand hold them now, it will be worse during the program.
 
