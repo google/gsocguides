@@ -22,7 +22,7 @@ GSoC contributors should want to participate because they have something to cont
 
 ## Selecting a GSoC contributor
 
-There are some GSoC contributor qualifications that are important for any successful GSoC experience. The GSoC contributor needs to be technically skilled, needs to have good communication skills, and needs to be a hard worker with sufficient available time to succeed. Given only a brief application document and some tiny amount of remote interaction, determining whether a GSoC contributor has the necessary qualifications is exceedingly difficult. Hopefully the organization has an application process in place that helps. However, as a mentor you will normally be expected to assist in the evaluation that will ultimately decide who gets accept to GSoC from your organization.
+There are some GSoC contributor qualifications that are important for any successful GSoC experience. The GSoC contributor needs to be technically skilled, needs to have good communication skills, and needs to be a hard worker with sufficient available time to succeed. Given only a brief application document and some tiny amount of remote interaction, determining whether a GSoC contributor has the necessary qualifications is exceedingly difficult. Hopefully the organization has an application process in place that helps. However, as a mentor you will normally be expected to assist in the evaluation that will ultimately decide who gets accepted to GSoC from your organization.
 
 You have several techniques at your disposal for helping your organization evaluate applicants. First and foremost, your expertise is key in evaluating proposals. Is a given proposal technically realistic? Is it useful to the organization? Does it meet the organization's overall goals for GSoC?
 
@@ -52,13 +52,13 @@ For those unfortunate applicants that don't make the cut for logistical reasons 
 
 The Google Open Source Program Office (OSPO) has an internal process to select mentoring organizations and allocate GSoC contributor slots; understanding it may help you make better GSoC contributor selections.
 
-Each mentoring organization will review the applications they receive (outside of the program site) and determine the best projects using the criteria agreed upon by their organization. Next the Org Admins will make sure those "best projects" have at least one mentor confirmed to mentor that project. Then the Org Admin will rank the proposals with cofnirmed mentors using the organization's agreed upon criteria. ((Note: Google is looking for a mixture of medium and large projects, not just large projects from an org when possible). Next the Org Admin will submit the ranked GSoC contributor "slots" they wish to receive.
+Each mentoring organization will review the applications they receive (outside of the program site) and determine the best projects using the criteria agreed upon by their organization. Next the Org Admins will make sure those "best projects" have at least one mentor confirmed to mentor that project. Then the Org Admin will rank the proposals with confirmed mentors using the organization's agreed upon criteria. (Note: Google is looking for a mixture of medium and large projects, not just large projects from an org when possible). Next the Org Admin will submit the ranked GSoC contributor "slots" they wish to receive.
 
 Next, Google OSPO will allocate each organization a number of slots. The number of slots will lock in the top ranked proposals for the organization. If an organization received 5 slots then their #1-#5 ranked proposals will automatically become GSoC contributor projects.
 
 Google will let organizations know how many slots they receive a day or two before we announce the accepted projects publicly so organizations and mentors can prepare.
 
-You should also understand how GSoC contributor selection and mentoring can affect the eligibility of an organization. In particular, note that a poor job of mentoring may lead to a poor outcome, making it less likely that your organization will be selected in future years. But failing a GSoC contributor does not mean that Google will consider that organization poorly for future programs, we encourage organizations to fail if the GSoC contributor is not doing the work, historicaly 8-15% of students fail or withdraw from the program in a given year.
+You should also understand how GSoC contributor selection and mentoring can affect the eligibility of an organization. In particular, note that a poor job of mentoring may lead to a poor outcome, making it less likely that your organization will be selected in future years. But failing a GSoC contributor does not mean that Google will consider that organization poorly for future programs, we encourage organizations to fail if the GSoC contributor is not doing the work, historically 8-15% of students fail or withdraw from the program in a given year.
 
 ## Starting at the Beginning
 
