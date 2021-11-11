@@ -12,7 +12,7 @@ Successful participation in GSoC is based on a three-way fit between mentor, GSo
 
 A helpful starting point for finding, evaluating and selecting GSoC contributors is to look at the process from their point of view. Why do developers apply to GSoC?
 
-**"I want to be rich."** The stipend that GSoC contributors can earn for the summer is an important motivator for many. 
+**"I want to be rich."** The stipend that GSoC contributors can earn for the summer is an important motivator for many.
 
 **"I want to be famous."** Being a GSoC contributor carries a certain amount of prestige. However, the desire for fame is not always a sustaining long-term motivation. Be aware of the difference between a GSoC contributor who wants to be "accepted" versus "successful".
 
@@ -54,7 +54,7 @@ The Google Open Source Program Office (OSPO) has an internal process to select m
 
 Each mentoring organization will review the applications they receive (outside of the program site) and determine the best projects using the criteria agreed upon by their organization. Next the Org Admins will make sure those "best projects" have at least one mentor confirmed to mentor that project. Then the Org Admin will rank the proposals with cofnirmed mentors using the organization's agreed upon criteria. ((Note: Google is looking for a mixture of medium and large projects, not just large projects from an org when possible). Next the Org Admin will submit the ranked GSoC contributor "slots" they wish to receive.
 
-Next, Google OSPO will allocate each organization a number of slots. The number of slots will lock in the top ranked proposals for the organization. If an organization received 5 slots then their #1-#5 ranked proposals will automatically become GSoC contributor projects. 
+Next, Google OSPO will allocate each organization a number of slots. The number of slots will lock in the top ranked proposals for the organization. If an organization received 5 slots then their #1-#5 ranked proposals will automatically become GSoC contributor projects.
 
 Google will let organizations know how many slots they receive a day or two before we announce the accepted projects publicly so organizations and mentors can prepare.
 
