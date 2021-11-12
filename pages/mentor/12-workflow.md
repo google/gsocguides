@@ -6,7 +6,7 @@ permalink: mentor/workflow.html
 sidebar: mentor_sidebar
 ---
 
-Make sure that your student is familiar with the workflow of your community as early as possible. Learning the toolchain a project uses, such as libraries, version control systems and bugtrackers, is high priority. Workflow also encompasses code review, talking with other developers about which algorithm is best for the problem at hand and other meta-questions about how to best get from specification to implemented solution.
+Make sure that your GSoC contributor is familiar with the workflow of your community as early as possible. Learning the toolchain a project uses, such as libraries, version control systems and bugtrackers, is high priority. Workflow also encompasses code review, talking with other developers about which algorithm is best for the problem at hand and other meta-questions about how to best get from specification to implemented solution.
 
 The best kind of workflows for the GSoC projects are iterative. That means that small, quantifiable goals are defined and then acted upon. For instance, an example of an iterative workflow is:
 
@@ -25,7 +25,7 @@ This iterative workflow is known as Test Driven Development (TDD). This workflow
 * Write tests the next 1/3rd of the summer
 * Write documentation for the last 1/3rd of the summer
 
-This is almost always doomed to failure, since people are always optimistic about time estimates for completing something. Sometimes you must debug a weird issue. You can't predict how long it might take to resolve the issue. What usually happens in this workflow is that the code gets written, but takes longer, half the tests get written and no documentation is written because the students have run out of time.
+This is almost always doomed to failure, since people are always optimistic about time estimates for completing something. Sometimes you must debug a weird issue. You can't predict how long it might take to resolve the issue. What usually happens in this workflow is that the code gets written, but takes longer, half the tests get written and no documentation is written because the GSoC contributors have run out of time.
 
 Take an approach which produces usable code even if parts of your plan fail, or are never attempted. Be humble and flexible about your development model. The student may teach you something!
 
