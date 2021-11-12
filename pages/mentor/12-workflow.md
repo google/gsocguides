@@ -27,6 +27,6 @@ This iterative workflow is known as Test Driven Development (TDD). This workflow
 
 This is almost always doomed to failure, since people are always optimistic about time estimates for completing something. Sometimes you must debug a weird issue. You can't predict how long it might take to resolve the issue. What usually happens in this workflow is that the code gets written, but takes longer, half the tests get written and no documentation is written because the GSoC contributors have run out of time.
 
-Take an approach which produces usable code even if parts of your plan fail, or are never attempted. Be humble and flexible about your development model. The student may teach you something!
+Take an approach which produces usable code even if parts of your plan fail, or are never attempted. Be humble and flexible about your development model. The GSoC contributor may teach you something!
 
 **Pro Tip**: Progressive milestones may allow code to be merged progressively.
