@@ -12,27 +12,27 @@ Every project wants to get useful code. And once you get that code, you'd love t
 
 ## Recruit Committers Early
 
-Typically, one or more committers to your project will be involved in GSoC. For very large projects, it can be helpful to alert all committers to upcoming student submissions. You can ask for them to be a second reviewer on patches from students, or simply keep them informed of your student's work schedule. This helps them know approximately when to expect code submissions.
+Typically, one or more committers to your project will be involved in GSoC. For very large projects, it can be helpful to alert all committers to upcoming GSoC contributor submissions. You can ask for them to be a second reviewer on patches from GSoC contributors, or simply keep them informed of your GSoC contributor's work schedule. This helps them know approximately when to expect code submissions.
 
 ## Get The Code
 
-It's best if you can get the code committed to your project's repository as early as possible. Whether you commit this to your project's equivalent of HEAD, to a development branch or a feature-specific branch, getting student's code into a publicly available and canonical location early is a good thing.
+It's best if you can get the code committed to your project's repository as early as possible. Whether you commit this to your project's equivalent of HEAD, to a development branch or a feature-specific branch, getting a GSoC contributor's code into a publicly available and canonical location early is a good thing.
 
-Even if your organization is unwilling to have student code drop directly into a released or releasable version of the org's project, it is a good idea to make sure that it is captured by the organization somehow. This ensures that you and your organization has a backup copy of the student's work. Getting the student's code into an unstable version or feature branch at the start of GSoC ensures that everything of value will be captured, decreases the eventual integration burden, and provides a better mechanism for community review of student code.
+Even if your organization is unwilling to have GSoC contributor code drop directly into a released or releasable version of the org's project, it is a good idea to make sure that it is captured by the organization somehow. This ensures that you and your organization has a backup copy of the GSoC contributor's work. Getting the GSoC contributor's code into an unstable version or feature branch at the start of GSoC ensures that everything of value will be captured, decreases the eventual integration burden, and provides a better mechanism for community review of GSoC contributor code.
 
 ## Dividing Up Patches
 
-Many organizations take student code submissions in the form of patches.  It is considered best practice to keep patches confined to a single feature at a time. Sometimes this is not possible, but encouraging students to submit their changes as they are working is always better than a massive "patch bomb" at the end of the program.
+Many organizations take GSoC contributor code submissions in the form of patches.  It is considered best practice to keep patches confined to a single feature at a time. Sometimes this is not possible, but encouraging GSoC contributors to submit their changes as they are working is always better than a massive "patch bomb" at the end of the program.
 
-You can help your student by talking with them about how to divide their code into reasonable submissions to the project. This should include setting time-based milestones, grouping certain features and implementation details together and requiring that tests or specifications be written first. Using pseudocode, rapid prototyping and iterative design methodologies can be helpful in structuring your student's work and keeping you in the loop.
+You can help your GSoC contributor by talking with them about how to divide their code into reasonable submissions to the project. This should include setting time-based milestones, grouping certain features and implementation details together and requiring that tests or specifications be written first. Using pseudocode, rapid prototyping and iterative design methodologies can be helpful in structuring your GSoC contributor's work and keeping you in the loop.
 
-Be sure to set aside some time to teach your students how to use your revision control system, and especially its code merge tools, during the bonding period. This is both for their benefit and to save your time. If the student already knows how to test merging their changes before submitting them, it is far more likely that less time will be spent fixing patches which don't apply.
+Be sure to set aside some time to teach your GSoC contributors how to use your revision control system, and especially its code merge tools, during the bonding period. This is both for their benefit and to save your time. If the GSoC contributor already knows how to test merging their changes before submitting them, it is far more likely that less time will be spent fixing patches which don't apply.
 
 ## Patch Review
 
-Make review of submitted patches an explicit task. By doing so, you make it easier to hand some or all of the review off to another member of your community. This kind of delegation makes the student more a part of your development community, and reduces the overall work that is required from you.
+Make review of submitted patches an explicit task. By doing so, you make it easier to hand some or all of the review off to another member of your community. This kind of delegation makes the GSoC contributor more a part of your development community, and reduces the overall work that is required from you.
 
-Ultimately, you'll be responsible for understanding and performing a final review of the code for the student's GSoC evaluation. However, there's nothing wrong with bringing other people into the process.
+Ultimately, you'll be responsible for understanding and performing a final review of the code for the GSoC contributor's GSoC evaluation. However, there's nothing wrong with bringing other people into the process.
 
 Some projects have a documented review process. A good example is on the [PostgreSQL Developers Wiki](http://wiki.postgresql.org/wiki/Reviewing_a_Patch), some of which was used as a reference for this section.
 
