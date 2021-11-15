@@ -12,6 +12,7 @@ Depending on how your organization operates, the source of material for your Ide
 
 * Brief descriptions of projects that can be completed in ~175 hours or ~350 hours of your GSoC contributor's time (and labeled appropriately).
 * For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level.
+* If your organization plans to focus on mostly student level potential GSoC contributors for all projects that is fine, but please state it explicitly on your Ideas Page. Or if a given project idea is geared more toward a student level or a more advanced developer please state it clearly in the project idea so there is no confusion for applicants.
 * A list of potential mentors.
 * It must NOT be a link to your bug tracker.
 
