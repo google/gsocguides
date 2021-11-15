@@ -20,7 +20,7 @@ Proposal volumes tend to be high, and the nature of the activity can lead to dis
 
 ## Slot Count
 
-Google asks your organization how many slots you want after you have had time to review the GSoC contributor proposals that your organization received. 
+Google asks your organization how many slots you want after you have had time to review the GSoC contributor proposals that your organization received.
 
 The actual number of slots Google assigns to each organization depends on the number of organizations and the number of GSoC contributors Google is going to fund that year. Then the slots are distributed amongst the accepted organizations by Google. Every accepted organization is allocated at least one slot. First-year organizations rarely get more than two slots. No organization ever receives more slots than they asked for.
 
@@ -34,9 +34,9 @@ You can not substitute in other proposals after you have ranked your proposals a
 
 ## GSoC contributors selected by multiple orgs
 
-GSoC contributors are allowed to submit up to 3 proposals each year, and they can be to multiple organizations. When organizations have chosen their desired GSoC contributors based on their ranked slot allocations, it is inevitably the case that a few GSoC contributors are sought by more than one organization. 
+GSoC contributors are allowed to submit up to 3 proposals each year, and they can be to multiple organizations. When organizations have chosen their desired GSoC contributors based on their ranked slot allocations, it is inevitably the case that a few GSoC contributors are sought by more than one organization.
 
-{Process for 2022 still being developed with new webapp - more details coming soon.} 
+{Process for 2022 still being developed with new webapp - more details coming soon.}
 
 ## Acquiring and Assigning Mentors
 
