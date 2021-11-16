@@ -21,7 +21,7 @@ An individual who has special rights in an open source project. While the scope 
 
 ## Community Bonding Period
 
-The period of time between when accepted students are announced for a particular year of GSoC and the time these students are expected to start coding. This time is an excellent one to introduce students to the community, get them on the right mailing lists, etc. See the "Mind the Gap" section for more details.
+The period of time between when accepted GSoC contributors are announced for a particular year of GSoC and the time these GSoC contributors are expected to start coding. This time is an excellent one to introduce students to the community, get them on the right mailing lists, etc. See the "Mind the Gap" section for more details.
 
 ## DVCS
 
@@ -61,7 +61,7 @@ Someone who helps a student with their project proposal. See the What is GSoC se
 
 ## Organization
 
-An open source, free software or technology-related project that mentors students for Google Summer of Code. Also known as a mentoring organization.
+An open source, free software or technology-related project that mentors GSoC contributors for Google Summer of Code. Also known as a mentoring organization.
 
 ## Organization Admin (Org Admin)
 
@@ -77,7 +77,7 @@ Google employees who run the program. See the What is GSoC section for more deta
 
 ## Secondary Mentor
 
-A person who helps out a student's assigned mentor. At time of writing this guide, the GSoC online system only allows one mentor to be officially assigned to a student proposal, as one person must be responsible for submitting evaluations, etc. However, it is quite common to have multiple mentors for one student.
+A person who helps out a GSoC contributor's assigned mentor. At time of writing this guide, the GSoC online system only allows one mentor to be officially assigned to a GSoC contributor proposal, as one person must be responsible for submitting evaluations, etc. However, it is quite common to have multiple mentors for one GSoC contributor.
 
 ## SMOP
 
@@ -85,7 +85,7 @@ Simple Matter of Programming
 
 ## Summer
 
-Not so much a season as a state of being. While the program is run during the Northern Hemisphere's Spring and Summer, the "Summer" in Google Summer of Code is actually a play on the "Summer of Love.
+Not so much a season as a state of being. While the program is run during the Northern Hemisphere's Spring and Summer, the "Summer" in Google Summer of Code is actually a play on the "Summer" of Love.
 
 ## TDD
 
