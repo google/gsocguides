@@ -12,7 +12,9 @@ maintenance of the manual is an ongoing process to which you may wish to
 contribute. A second sprint occurred in 2010 to update the manual (adding the
 Org Admin section) and write the Students Guide ("Flipping Bits not
 Burgers"). Additional brief edits occurred February 2017 and November 2019 to update and reflect the
-new website and program changes.
+new website and program changes. A more comprehensive edit occurred in November 2021 to reflect the
+changes for the upcoming 2022 program updates and the new webapp by the GSoC Program Administrator,
+Stephanie Taylor.
 
 ## How to Contribute to This Guide
 
