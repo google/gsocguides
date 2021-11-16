@@ -10,7 +10,7 @@ We've collected our favorite and most useful resources specific to GSoC here.
 
 ## General Resources
 
-If your organization has participated in GSoC previously, chances are there are mailing lists already set up and useful information in their archives; take a moment to look through them, especially around the launch times (February to March), community bonding period (April to May) and evaluation times (mid-July and end of August), for more details. The archives of the program mailing lists, particularly the private mentors list (below), are also quite useful.
+If your organization has participated in GSoC previously, chances are there are mailing lists already set up and useful information in their archives; take a moment to look through them, especially around the launch times (February to March), community bonding period (May) and evaluation times (mid-July and end of August), for more details. The archives of the program mailing lists, particularly the private mentors list (below), are also quite useful.
 
 No matter what, you want to take a look at the Program Rules each year to make sure you have a good idea of the rules for the program for both yourself and your students. There's a wealth of information included in the FAQs each year, even for experienced participants. You can always find the latest information, including a link to the FAQs, at <https://developers.google.com/open-source/gsoc/faq>.
 
@@ -20,9 +20,9 @@ Additionally, these resources are quite helpful:
 
 **Blog Posts**: You can find material related to GSoC on the Google Open Source Blog at <http://google-opensource.blogspot.com>. Your project may have a blog or newsletter where GSoC information was published in the past, as well.
 
-**Knowledge Base**: If you're looking for advice for mentors or students, program promotional materials, presentations about GSoC, etc., start with the program site <https://g.co/gsoc>, particularly the Resources section.
+**Knowledge Base**: If you're looking for advice for mentors or GSoC contributors, program promotional materials, presentations about GSoC, etc., start with the program site <https://g.co/gsoc>, particularly the Resources section.
 
-**Mentor Summit Wiki**: Google has traditionally held an annual mentor summit after GSoC wraps up each year. During the summit, many great discussions are held on all sorts of topics regarding the program and open source overall.
+**Mentor Summit**: Google has traditionally held an annual mentor summit after GSoC wraps up each year. During the summit, many great discussions are held on all sorts of topics regarding the program and open source overall.
 
 **List of Organizations**: You can see a list of the mentoring organizations that participated in previous years of the program by going to the program site and looking at the Archive site: <https://developers.google.com/open-source/gsoc/past-summers>
 
@@ -48,7 +48,7 @@ Written by Karl Fogel. Excellent guide to Open Source development. Its available
 
 <http://producingoss.com/>
 
-**Google Summer of Code Students Guide**
+**Google Summer of Code Contributor/Student Guide**
 
 <https://google.github.io/gsocguides/student/>
 
@@ -62,6 +62,6 @@ irc : freenode #teachingopensource
 
 ## What to Do When the Unexpected Happens?
 
-**Contact your Organization Administrator**: He or she can help you figure out what to do next or contact Google for more help.
+**Contact your Organization Administrator**: They can help you figure out what to do next or contact Google for more help.
 
 **Talk to Google's Program Administrators**: They have plenty of experience with all the corner cases and strange issues that can arise during GSoC. Email gsoc-support@google.com for help.
