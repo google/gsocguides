@@ -18,4 +18,6 @@ In 2021, the seventeenth Google Summer of Code wrapped up with more than 94% of 
 
 In 2022, we are opening the program to non-student developers as well and we are excited to see what great things our new GSoC contributors will do with our open source organizations. We also have multiple size project options available for folks, with the understanding not everyone can dedicate 350 hours to an open source project during GSoC so there will also be 175 hour projects available for GSoC contributors to work on in 2022. The final update to the program is more flexibility around the schedule for a GSoC contributor project. Instead of everyone having to complete the project in 12 weeks, GSoC contributors and their mentors can decide to extend the end date of their project to better fit the GSoC contributor’s commitments for the summer. We look forward to these updates helping even more people excited to learn about open source under the guidance of dedicated mentors participate in GSoC.
 
-You can find more information about each year of Google Summer of Code on the program statistics page on the History tab of the GSoC website: https://developers.google.com/open-source/gsoc/resources/stats
+[Past participants](https://summerofcode.withgoogle.com/archive)
+and [statistics](https://developers.google.com/open-source/gsoc/resources/stats)
+are tracked available on the program website.
