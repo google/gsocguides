@@ -62,7 +62,7 @@ Probably the best that can be done in suggesting selection strategies is to prov
 
 **Get outsider help.** Having a perspective from outside the "GSoC bubble" may help you see GSoC contributor proposals in a new light. Sometimes, even folks from outside your organization can provide useful review, especially if they have relevant technical expertise.
 
-**Use your mentors wisely.** The mentors are in the best position to select GSoC contributors and proposals for themselves. After all, it is they who will have to work with these GSoC contributors. Be careful, though, of mentors who may be less experienced in the ways that GSoC GSoC contributors and projects can go wrong. A few well-chosen war stories can be helpful in this situation.
+**Use your mentors wisely.** The mentors are in the best position to select GSoC contributors and proposals for themselves. After all, it is they who will have to work with these GSoC contributors. Be careful, though, of mentors who may be less experienced in the ways that GSoC contributors and projects can go wrong. A few well-chosen war stories can be helpful in this situation.
 
 **Interact with the GSoC contributors during the proposal period.** There should be no remaining questions by the time GSoC contributors are slotted. Finding out that a GSoC contributor will not interact, or cannot interact well, is absolutely crucial.
 
