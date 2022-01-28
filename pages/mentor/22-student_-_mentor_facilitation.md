@@ -2,7 +2,7 @@
 title: GSoC contributor - Mentor Facilitation
 section: Org Admin
 order: 22
-permalink: mentor/GSoC contributor-mentor-facilitation.html
+permalink: mentor/student-mentor-facilitation.html
 sidebar: mentor_sidebar
 ---
 

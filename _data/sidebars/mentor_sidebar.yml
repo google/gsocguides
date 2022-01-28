@@ -86,7 +86,7 @@ entries:
     - title: Managing Your Mentors
       url: managing-your-mentors
       output: web
-    - title: Student - Mentor Facilitation
+    - title: Contributor - Mentor Facilitation
       url: student-mentor-facilitation
       output: web
     - title: Other Possible Issues
