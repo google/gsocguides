@@ -1,5 +1,5 @@
 ---
-title: Time management for students
+title: Time management for contributors
 section: Let The Coding Begin
 order: 14
 permalink: student/time-management-for-students.html
