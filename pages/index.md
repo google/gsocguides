@@ -4,4 +4,4 @@ permalink: index.html
 ---
 
 * [Mentor Guide](mentor/)
-* [Student Guide](student/)
+* [Contributor Guide](student/)

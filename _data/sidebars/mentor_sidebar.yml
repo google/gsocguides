@@ -23,7 +23,7 @@ entries:
     - title: Defining a Project (Ideas List)
       url: defining-a-project-ideas-list
       output: web
-    - title: Selecting a Student
+    - title: Selecting a Contributor
       url: selecting-a-student
       output: web
   - title: Communication
@@ -77,7 +77,7 @@ entries:
     - title: Making Your Ideas Page
       url: making-your-ideas-page
       output: web
-    - title: Selecting Students and Mentors
+    - title: Selecting Contributors and Mentors
       url: selecting-students-and-mentors
       output: web
     - title: Org Application

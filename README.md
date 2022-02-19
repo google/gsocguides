@@ -1,6 +1,6 @@
 # Google Summer of Code Guides
 
-This project contains the Google Summer of Code Mentor Guide and Student Guide.
+This project contains the Google Summer of Code Mentor Guide and Contributor Guide.
 
 ## Template
 

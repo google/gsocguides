@@ -1,5 +1,5 @@
 ---
-title: Selecting Students and Mentors
+title: Selecting Contributors and Mentors
 section: Org Admin
 order: 19
 permalink: mentor/selecting-students-and-mentors.html

@@ -1,6 +1,6 @@
 entries:
 - title: sidebar
-  product: Student Guide
+  product: Contributor Guide
   folders:
   - title: Introduction
     output: web
@@ -56,7 +56,7 @@ entries:
     - title: Working With Your Mentor
       url: working-with-your-mentor
       output: web
-    - title: Time management for students
+    - title: Time management for contributors
       url: time-management-for-students
       output: web
     - title: Evaluations
