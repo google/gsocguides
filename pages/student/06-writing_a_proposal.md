@@ -6,17 +6,17 @@ permalink: student/writing-a-proposal.html
 sidebar: student_sidebar
 ---
 
-This is a competitive program, each year Google turns down many more applicants than it funds. While pre-proposal activities are key to improving your chances of success, a poorly-written proposal is an easy way to fail. There is much you can do to ensure that your project proposal catches the attention of organization reviewers *in a positive way.*
+This is a competitive program, each year Google turns down many more applicants than it funds. While pre-proposal activities are key to improving your chances of success, a poorly-written proposal is an easy way to fail. There is much you can do to ensure that your project proposal catches the attention of organization reviewers _in a positive way._
 
 ## The Basics
 
-First and foremost, make sure you meet Google's formal requirements for participation in Summer of Code. Also be sure you are eligible to participate in a program like GSoC with your visa, etc. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
+First and foremost, make sure you meet [Google's formal requirements](https://summerofcode.withgoogle.com/rules#:~:text=for%20the%20duration%20of%20the%20Program%2C%20be%20eligible%20to%20work%20in%20the%20country%20in%20which%20they%20reside%3B%20and) for participation in Summer of Code. This includes ensuring that you are **eligible to work** in the country where you reside for the duration of the program. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
 
 Inventory your time. Figure out how many hours per week are already spoken for outside of your GSoC commitment, including time spent volunteering for other projects and activities, a part-time job or counting credit-hours of academic instruction. In any case, be completely clear about outside time commitments as part of your proposal. If you know you need to take a couple of weeks off because of finals or a wedding, etc. be upfront with the mentors, we have added some flexibility into the 2022 program so this should be fine, you just need to let your mentor know as soon as you know the details. Do not surprise an organization with your time commitments later on. It may be possible to extend the end date of your project if your org will allow it. But this should be discussed early on so everyone can be on the same page.
 
 Make sure that you are able to be in regular close contact with organization mentors via the usual open source means (email, chat, etc) for the duration of the summer. It is not necessary (or likely possible) that you be geographically near your mentor. However, if you are not sure you will have good Internet connectivity continuously over the summer, GSoC is not for you.
 
-This program is the Google Summer of *Code.*  If you are less than fluent in the programming languages that your target organization uses, you might want to skip the work of writing an application. If you do decide to proceed, be clear about your level of ability, so that the organization can make an informed decision.
+This program is the Google Summer of _Code._ If you are less than fluent in the programming languages that your target organization uses, you might want to skip the work of writing an application. If you do decide to proceed, be clear about your level of ability, so that the organization can make an informed decision.
 
 ## Elements of a Quality Proposal
 
@@ -38,7 +38,7 @@ If the format allows, start your proposal with a short summary, designed to conv
 
 **Benefits to Community**
 
-Don't forget to make your case for a benefit to the organization, not just to yourself.  Why would Google and your organization be proud to sponsor this work? How would open source or society as a whole benefit? What cool things would be demonstrated?
+Don't forget to make your case for a benefit to the organization, not just to yourself. Why would Google and your organization be proud to sponsor this work? How would open source or society as a whole benefit? What cool things would be demonstrated?
 
 **Deliverables**
 
@@ -54,7 +54,7 @@ Keep your personal info brief. Be sure to communicate personal experiences and s
 
 **Follow the Rules**
 
-Most organizations accept only plain text applications. Most organizations have a required application format. Many organizations have application length limits. In general, organizations *will* throw out your proposal if you fail to conform to these guidelines. If you feel you *must* have graphical or interactive content associated with your application, put just this content (not a copy of your proposal) on the web and provide an easy-to-type URL. Do not expect reviewers to follow this link.
+Most organizations accept only plain text applications. Most organizations have a required application format. Many organizations have application length limits. In general, organizations _will_ throw out your proposal if you fail to conform to these guidelines. If you feel you _must_ have graphical or interactive content associated with your application, put just this content (not a copy of your proposal) on the web and provide an easy-to-type URL. Do not expect reviewers to follow this link.
 
 ## Submit a Proposal early
 
@@ -92,7 +92,7 @@ If your proposal is near the boundary, make sure you clear it with your target o
 
 **Boring projects**
 
-For the mentor and the organization, half the fun is helping a GSoC contributor do something novel and cool. Infrastructure *per se* isn't necessarily boring, but it should be part of a luminous vision.
+For the mentor and the organization, half the fun is helping a GSoC contributor do something novel and cool. Infrastructure _per se_ isn't necessarily boring, but it should be part of a luminous vision.
 
 **Stuff that's already been done to death**
 
