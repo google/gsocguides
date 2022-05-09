@@ -54,7 +54,7 @@ If you (or the mentor) are insecure about their qualifications having them join 
 
 ## Cheating and Proposals From Outer Space
 
-Avoid spending time on proposals that were not tailored to your project by using the "ignore" feature for GSoC contributor proposals.
+Avoid spending time on proposals that were not tailored to your project by ignoring them. Some folks use the star feature to mark their favorites or to mark the proposals they are going to ignore. Stars are only visible to the user and can not be seen by others.
 
 Occasionally a GSoC contributor does not understand the importance of attribution when drawing on material from outside sources. Make sure they understand, early on, that plagiarism is not tolerated. The article <http://tesl-ej.org/ej10/a2.html> has some context to avoid surprises.
 
