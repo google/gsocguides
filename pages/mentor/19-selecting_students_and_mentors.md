@@ -36,7 +36,9 @@ You can not substitute in other proposals after you have ranked your proposals a
 
 GSoC contributors are allowed to submit up to 3 proposals each year, and they can be to multiple organizations. When organizations have chosen their desired GSoC contributors based on their ranked slot allocations, it is inevitably the case that a few GSoC contributors are sought by more than one organization.
 
-{Process for 2022 still being developed with new webapp - more details coming soon.}
+Ranking is taken into account when slots are allocated to projects. The higher your organization ranks a proposal the more likely your organization will receive it, in the case another organization also ranks a proposal from the same contributor. If a tie breaker is necessary, then Google's AI will select which org will receive the proposal.
+
+If you "lose" the project due to another org ranking it higher, Google will contact you to see which project you would like to replace that slot with. The system will automatically select the next ranked proposal (if your org did not receive all the slots you asked for) but the OA will have a day or so to let Google Admins know if they would prefer to adjust that project slot to a different contributor.
 
 ## Acquiring and Assigning Mentors
 
