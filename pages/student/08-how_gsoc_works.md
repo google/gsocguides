@@ -18,7 +18,7 @@ Payment is in two pieces. The first payment is sent shortly after you pass the m
 
 **Certificate of Completion**
 
-You may receive a digital certificate of completion at the end of the program if you successfully pass GSoC.
+You may receive a digital certificate of completion at the end of the program, available from your GSoC profile on the webapp if you successfully pass GSoC.
 
 The rest of your experience with the program will be determined by your interactions with the community within your mentoring organization. Most GSoC contributors consider the interactions with their mentor and the rest of the open source community they're involved with to be the most important part of the Google Summer of Code experience.
 
@@ -28,11 +28,11 @@ There are four roles in the Google Summer of Code program:
 
 **GSoC contributor**
 
-This is you! A GSoC contributor is a new contributor to open source. This person could be a university student, a recent graduate, a person switching careers, a developer early in their career, person returning to the workforce, etc. GSoC Contributors come from a variety of academic backgrounds - many are university students or graduates of coding schools or programs, while others are self-taught.
+This is you! A GSoC contributor is a student or a new contributor to open source. This person could be a university student, a recent graduate, a person switching careers, a developer early in their career, person returning to the workforce, etc. GSoC Contributors come from a variety of academic backgrounds - many are university students or graduates of coding schools or programs, while others are self-taught.
 
 **Organization Administrator**
 
-Org admins are the "cat herders" for GSoC open source projects. Some org admins also mentor GSoC contributors during GSoC. Org admins are the final authority about matters such as which GSoC contributor projects will be accepted and who will mentor whom. If you're having difficulties communicating with your mentor or making progress, an org admin can help.
+Org admins are the "cat herders" for GSoC open source projects. Some org admins also mentor GSoC contributors during GSoC. Org admins are the final authority about matters such as which GSoC contributor projects will be accepted and who will mentor whom. They are also responsible for approving and adjusting any project deadlines requested by the mentor and GSoC contributor. If you're having difficulties communicating with your mentor or making progress, an org admin can help.
 
 **Mentor**
 
