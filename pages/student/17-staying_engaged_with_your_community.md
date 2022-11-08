@@ -34,7 +34,7 @@ You can present your project at some of the open source conferences. The open so
 
 ## Next Summer
 
-There are so many ways that you can help your organization and the open source community for the next Google Summer of Code. You can submit project ideas, apply again as a GSoC contributor or even become a mentor for a project. You can even contribute by just idling in the IRC channels, helping out the new folks who come looking for advice.
+There are so many ways that you can help your organization and the open source community for the next Google Summer of Code. You can submit project ideas, apply again as a GSoC contributor or even become a mentor for a project. You can even contribute by just idling in the chat channels, helping out the new folks who come looking for advice.
 
 ## Stay connected
 
