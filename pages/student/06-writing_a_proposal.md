@@ -10,11 +10,11 @@ This is a competitive program, each year Google turns down many more applicants 
 
 ## The Basics
 
-First and foremost, make sure you meet [Google's formal requirements](https://summerofcode.withgoogle.com/rules#:~:text=for%20the%20duration%20of%20the%20Program%2C%20be%20eligible%20to%20work%20in%20the%20country%20in%20which%20they%20reside%3B%20and) for participation in Summer of Code. This includes ensuring that you are **eligible to work** in the country where you reside for the duration of the program. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
+First and foremost, make sure you meet [Google's formal requirements](https://summerofcode.withgoogle.com/rules#:~:text=for%20the%20duration%20of%20the%20Program%2C%20be%20eligible%20to%20work%20in%20the%20country%20in%20which%20they%20reside%3B%20and) for participation in Summer of Code. This includes ensuring that you are **eligible to work** in the country where you reside for the duration of the program. Remember, if you are in a country on a student visa or another type of visa you could have restrictions on the number of hours you can participate in a program like GSoC or you may not be eligible to participate at all. Hopefully, you have already checked this by now, but be sure to double-check before you waste time and energy on a proposal.
 
 Inventory your time. Figure out how many hours per week are already spoken for outside of your GSoC commitment, including time spent volunteering for other projects and activities, a part-time job or counting credit-hours of academic instruction. In any case, be completely clear about outside time commitments as part of your proposal. If you know you need to take a couple of weeks off because of finals or a wedding, etc. be upfront with the mentors, we have added some flexibility into the 2022 program so this should be fine, you just need to let your mentor know as soon as you know the details. Do not surprise an organization with your time commitments later on. It may be possible to extend the end date of your project if your org will allow it. But this should be discussed early on so everyone can be on the same page.
 
-Make sure that you are able to be in regular close contact with organization mentors via the usual open source means (email, chat, etc) for the duration of the summer. It is not necessary (or likely possible) that you be geographically near your mentor. However, if you are not sure you will have good Internet connectivity continuously over the summer, GSoC is not for you.
+Make sure that you are able to be in regular close contact with organization mentors via the usual open source means (email, chat, etc) for the duration of the program. It is not necessary (or likely possible) that you be geographically near your mentor. However, if you are not sure you will have good Internet connectivity continuously over the summer, GSoC is not for you.
 
 This program is the Google Summer of _Code._ If you are less than fluent in the programming languages that your target organization uses, you might want to skip the work of writing an application. If you do decide to proceed, be clear about your level of ability, so that the organization can make an informed decision.
 
@@ -26,11 +26,11 @@ There are certain elements of the proposal that should apply to every organizati
 
 **Name and Contact Information**
 
-Putting your full name on the proposal is not enough. Provide full contact information, including email addresses, websites, IRC nick, and telephone number.
+Putting your full name on the proposal is not enough. Provide full contact information, including your preferred name, email address, websites, etc.
 
 **Title**
 
-Your title should be short, clear and interesting. The job of the title is to convince the reviewer to read your synopsis.
+Your title should be short, clear and interesting. The job of the title is to convince the reviewer to read your synopsis. Do not put your name in the title.
 
 **Synopsis**
 
