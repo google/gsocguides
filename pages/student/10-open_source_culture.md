@@ -50,7 +50,7 @@ Donated time is the life blood of open source projects. Many individuals contrib
 
 Contributions to projects are often self-directed, with developers having a personal itch to scratch in the form of a new feature, by correcting a bug that they've encountered or by implementing something from a TODO list. Projects operating in this way may seem chaotic if you are only familiar with top-down management - where teachers, professors or bosses tell you what to do and when. Of course, some projects do have clearly defined project management, with milestones and tasks meted out carefully.
 
-Because many (or in some cases all) contributors are volunteering, methods of coercion available to businesses are not available. The best way to collaborate is to behave in a way that encourages others, and ultimately, makes people want to contribute. Some easy ways to encourage volunteerism include:
+Because many (or in some cases all) community members are volunteering, methods of coercion available to businesses are not available. The best way to collaborate is to behave in a way that encourages others, and ultimately, makes people want to contribute. Some easy ways to encourage volunteerism include:
 
 * Saying thank you
 * Giving compliments when they are deserved, regularly and in public
