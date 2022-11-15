@@ -22,7 +22,7 @@ General:
 
 * Spread (don't spam) the word that your organization is participating in GSoC.
 
-GSoC contributors, mentors, and slots:
+GSoC contributors, mentors, and project slot requests:
 
 * GSoC contributors are not experienced project members and will take longer to write code than the core team. Plan accordingly.
 
@@ -38,9 +38,7 @@ GSoC contributors, mentors, and slots:
 
   * Determine which mentors are fully committed to mentor a proposal.
   
-  * Rank your proposals with dedicated mentors.
-  
-  * Request slots for GSoC contributor projects. (OAs submit requests)
+  * Rank your excellent proposals with dedicated mentors. (OAs submit requests)
 
   * Receive confirmation from Program Administrators with your organization's number of slots.
 
@@ -58,7 +56,9 @@ Coding, community, and communication:
 
 * Publish weekly or daily goals. This helps to keep scope, show progress, and keep GSoC contributors active.
 
-* It's okay to fail a GSoC contributor. If a GSoC contributor doesn't meet agreed deadlines or doesn't communicate, they should be failed.
+* Communicate often and be sure to talk with your GSoC contributor about their roadblocks/delays. You may wish to extend the evaluation deadlines for your contributor by a few weeks if the contributor is behind schedule but putting in the effort.
+
+* It's okay to fail a GSoC contributor. If a GSoC contributor doesn't communicate, or they disappear for days/weeks on end, they write poor code and haven't shown signs of improvement or they aren't engaged in the community they should be failed.
 
 * Make all communication public. If it didn't happen in public, it didn't happen.
 
