@@ -66,7 +66,7 @@ A successful GSoC project begins with a successful initiation. Finding the right
 
 Once a fit is found, the project is ready to be elaborated. You and your GSoC contributor are prepared to embark upon a grand adventure. Excelsior!
 
-**Pro Tip**: One temptation to be avoided is to give a promising GSoC contributor excessive help in rewriting their proposal. It is likely that the result will be a proposal stronger than the GSoC contributor it represents. Students' communication, organization and logical thinking skills rarely improve over the course of a summer.
+**Pro Tip**: One temptation to be avoided is to give a promising GSoC contributor excessive help in rewriting their proposal. It is likely that the result will be a proposal stronger than the GSoC contributor it represents. A GSoC contributor's communication, organization and logical thinking skills rarely improve over the course of a summer.
 
 **Pro Tip**: If in doubt about an applicant's final ranking, err on the side of rejecting. Limited program budget and mentor time can most certainly be better spent on another applicant in your or another organization.
 
