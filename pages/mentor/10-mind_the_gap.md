@@ -1,5 +1,5 @@
 ---
-title: Mind the Gap
+title: Community Bonding Period
 section: Mentoring
 order: 10
 permalink: mentor/mind-the-gap.html
