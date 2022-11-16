@@ -45,7 +45,7 @@ entries:
     output: web
     folderitems:
     - title: Community Bonding Period
-      url: community-bonding-period
+      url: community_bonding_period
       output: web
     - title: Setting Expectations
       url: setting-expectations
