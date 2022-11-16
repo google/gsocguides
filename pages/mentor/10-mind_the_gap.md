@@ -2,7 +2,7 @@
 title: Community Bonding Period
 section: Mentoring
 order: 10
-permalink: mentor/mind-the-gap.html
+permalink: mentor/community-bonding-period.html
 sidebar: mentor_sidebar
 ---
 
