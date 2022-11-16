@@ -44,8 +44,8 @@ entries:
   - title: Mentoring
     output: web
     folderitems:
-    - title: Mind the Gap
-      url: mind-the-gap
+    - title: Community Bonding Period
+      url: community-bonding-period
       output: web
     - title: Setting Expectations
       url: setting-expectations
