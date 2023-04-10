@@ -28,9 +28,17 @@ host: 127.0.0.1
 port: 4000
 # the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
 
+# https://jekyllrb.com/docs/troubleshooting/
 exclude:
   - .idea/
   - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 # these are the files and directories that jekyll will exclude from the build
 
 #feedback_subject_line: Feedback Subject
