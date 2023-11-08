@@ -10,7 +10,7 @@ Google Summer of Code (GSoC) is a global, online program that brings new contrib
 
 Accepted GSoC Contributors gain exposure to real-world software development while having their mentor(s) ready to help integrate them into the community and help them become stronger developers. Best of all, more source code is created and released for the use and benefit of all; all code produced as part of the program is released under an open source license. The fact that you get to write code that people from all over the world can use - how cool is that!
 
-Since 2005, GSoC has brought together 35,000 students and mentors from over 133 countries worldwide. As of November 2022, over 800 open source projects, from areas as diverse as operating systems and community services, have participated as mentoring organizations for the program. Successful students have widely reported that their participation in GSoC made them more attractive to potential employers and that the program has helped greatly when embarking on their technical careers. Many past students continue to be involved in GSoC by becoming mentors themselves and helping new contributors learn about the exciting things their community is working on and the satisfaction that comes with being a part of a community of dedicated developers in open source.
+Since 2005, GSoC has brought together 35,000 students and mentors from over 133 countries worldwide. As of November 2023, over 800 open source projects, from areas as diverse as operating systems and community services, have participated as mentoring organizations for the program. Successful students have widely reported that their participation in GSoC made them more attractive to potential employers and that the program has helped greatly when embarking on their technical careers. Many past students continue to be involved in GSoC by becoming mentors themselves and helping new contributors learn about the exciting things their community is working on and the satisfaction that comes with being a part of a community of dedicated developers in open source.
 
 ## Goals of the Program
 
@@ -23,7 +23,7 @@ The GSoC program has several goals:
 
 ## A Brief History of Google Summer of Code
 
-Google Summer of Code began in 2005 as a complex experiment with a simple goal: helping students find work related to their academic pursuits during their school holidays. In GSoC’s first year, 40 projects and 400 students participated. By the conclusion of the 18th Google Summer of Code in 2022, over 19,000 students have been accepted into the program. Best of all, most of the organizations participating over the past 18 years reported that the program helped them find new community members and active committers.
+Google Summer of Code began in 2005 as a complex experiment with a simple goal: helping students find work related to their academic pursuits during their school holidays. In GSoC’s first year, 40 projects and 400 students participated. By the conclusion of the 19th Google Summer of Code in 2023, over 20,000 students/GSoC contributors have been accepted into the program. Best of all, most of the organizations participating over the past 18 years reported that the program helped them find new community members and active committers.
 
 GSoC has grown immensely over the last 18 years and in the process helped participants learn about real world software development while working on exciting open source projects.
 
