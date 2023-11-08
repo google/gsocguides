@@ -32,7 +32,7 @@ GSoC contributors, mentors, and project slot requests:
 
   * OAs invite mentors to their organization.
 
-  * Talk with potential GSoC contributors about project ideas (some orgs give applicants a task they need to complete, that is up to you).
+  * Talk with potential GSoC contributors about project ideas (some orgs give applicants a task they need to complete such as a PR etc., that is up to you).
 
   * Receive and review GSoC contributor applications.
 
@@ -56,7 +56,7 @@ Coding, community, and communication:
 
 * Publish weekly or daily goals. This helps to keep scope, show progress, and keep GSoC contributors active.
 
-* Communicate often and be sure to talk with your GSoC contributor about their roadblocks/delays. You may wish to extend the evaluation deadlines for your contributor by a few weeks if the contributor is behind schedule but putting in the effort.
+* Communicate often and be sure to talk with your GSoC contributor about their roadblocks/delays. You may wish to extend the evaluation deadlines for your contributor by a few weeks if the contributor is behind schedule but putting in the effort. But remember - extensions must occur before the GSoC contributor's midterm evaluation or final submission period begins.
 
 * It's okay to fail a GSoC contributor. If a GSoC contributor doesn't communicate, or they disappear for days/weeks on end, they write poor code and haven't shown signs of improvement or they aren't engaged in the community they should be failed.
 
