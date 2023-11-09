@@ -24,7 +24,7 @@ As an org admin, you need to rely on your mentors to manage the day-to-day activ
 
 ### Set up-front guidelines on how GSoC contributors, projects and mentors are selected
 
-Occasionally, you'll find yourself with mentors for projects with no GSoC contributors and good project ideas with no mentors. Figure out up front how you plan to evaluate and accept GSoC contributors, projects and mentors. Make sure that your open source community concurs and the guidelines are clearly posted in your community GSoC documentation. See the chapter on *Selecting GSoC contributors and Mentors*for details.
+Occasionally, you'll find yourself with mentors for projects with no GSoC contributors and good project ideas with no mentors. Figure out up front how you plan to evaluate and accept GSoC contributors, projects and mentors. Make sure that your open source community concurs and the guidelines are clearly posted in your community GSoC documentation. See the chapter on *Selecting GSoC contributors and Mentors* for details.
 
 ### Determine a schedule and format for regular GSoC contributor project updates
 
