@@ -72,4 +72,4 @@ Once a fit is found, the project is ready to be elaborated. You and your GSoC co
 
 **Don't Be That Person**: Don't even think about selecting a GSoC contributor with whom you've had no contact. You should establish an active back-and-forth prior to making a decision. If you or your GSoC contributor have failed to make this happen, *do not proceed*.
 
-**Don't selecr multiple people for the same project idea**: If two GSoC contributors are owrking on the exact same project then they are competing with each other. Likewise, don't make one person's project dependent on another person's project, that essentially makes it a team project which is not allowed or in the best interest of the GSoC contributors.
+**Don't select multiple people for the same project idea**: If two GSoC contributors are working on the exact same project then they are competing with each other. Likewise, don't make one person's project dependent on another person's project, that essentially makes it a team project which is not allowed or in the best interest of the GSoC contributors.
