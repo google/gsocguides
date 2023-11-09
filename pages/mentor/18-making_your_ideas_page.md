@@ -10,8 +10,8 @@ It all begins with the "Ideas Page". This is where you compile a list of possibl
 
 Depending on how your organization operates, the source of material for your Ideas Page may come from an existing list of projects maintained by your community year-round, from potential mentors as they are recruited, or from the org admin. Regardless of how it is generated, an Ideas Page should have the following:
 
-* Brief descriptions of projects that can be completed in ~175 hours or ~350 hours of your GSoC contributor's time (and labeled appropriately).
-* For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level.
+* Brief descriptions of projects that can be completed in ~90 hour, ~175 hours or ~350 hours of your GSoC contributor's time (and labeled appropriately).
+* For each project, a list of prerequisites, description of programming skills needed and estimation of difficulty level (easy, medium, hard).
 * If your organization plans to focus on mostly student level potential GSoC contributors for all projects that is fine, but please state it explicitly on your Ideas Page. Or if a given project idea is geared more toward a student level or a more advanced developer please state it clearly in the project idea so there is no confusion for applicants.
 * A list of potential mentors.
 * It must NOT be a link to your bug tracker.
