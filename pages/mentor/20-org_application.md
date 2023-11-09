@@ -12,7 +12,7 @@ The most important part of GSoC is providing the GSoC contributor an excellent e
 
 ## The Ideas Page
 
-The ideas page is the most important part of the organization application. Please see the Ideas Page chapter of this guide for more information. Be sure to adjust any project ideas from the previous year to adjust for the medium (175 hour) and large (350 hour) scope from 2022 onward.
+The ideas page is the most important part of the organization application. Please see the Ideas Page chapter of this guide for more information. Be sure to adjust any project ideas from the previous year to adjust for the small (90 hour), medium (175 hour) and large (350 hour) scope. Google strongly encourages organizations to have a mix of medium and large (and if possible, small) projects.
 
 ## Past Success
 
@@ -28,7 +28,7 @@ Incomplete applications are common and result in an automatic rejection by Googl
 
 ## Just Because You Did Everything Right
 
-...doesn't mean you'll be accepted. Every year Google receives many more applications for organizations that want to participate in GSoC than it has capacity to accommodate. Some of the decisions about which organizations are accepted and which aren't come down entirely to space available in the program. Google receives 450+ applications from open source organizations each year that wish to be a part of GSoC and usually only accept around 200 organization applications. Thus more than 50% of the organizations that apply each year will be rejected.
+...doesn't mean you'll be accepted. Every year Google receives many more applications for organizations that want to participate in GSoC than it has capacity to accommodate. Some of the decisions about which organizations are accepted and which aren't come down entirely to space available in the program. Google receives 450+ applications from open source organizations each year that wish to be a part of GSoC and usually only accept around 150-200 organization applications. Thus more than 50% of the organizations that apply each year will be rejected.
 
 ## A Note on Umbrella Orgs
 
