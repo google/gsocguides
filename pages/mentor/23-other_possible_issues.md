@@ -12,7 +12,7 @@ Here are some things that might go wrong during the program, and how you can han
 
 **Solution: Call for backup.**
 
-Sometimes "life" happens and things don't go according to plan. It is best to come up with a plan at the beginning of the summer to deal with a mentor that suddenly don't have as much free time as he thought he would, or even worse, a mentor that goes missing.
+Sometimes "life" happens and things don't go according to plan. It is best to come up with a plan at the beginning of the summer to deal with a mentor that suddenly doesn't have as much free time as they thought they would, or even worse, a mentor that goes missing.
 
 Having additional mentors assigned to each GSoC contributor is a very good idea, and helps with situations where the primary mentor is not available. Google does not have a policy on additional mentors, so this is something that an org admin needs to decide to have--the earlier the better.
 
