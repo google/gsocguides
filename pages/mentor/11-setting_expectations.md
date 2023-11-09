@@ -36,11 +36,13 @@ Overall, communicate and be reasonable when it comes to your GSoC contributors. 
 
 In 2022, Google introduced 2 new features to allow more flexibility to the program: 1) multiple project sizes and 2) multiple possible project lengths. These are very different features and aren't correlated to one another, despite what most folks think. :) A medium project (175 hours) could be a 22 week project if that is what the Mentor,  GSoC Contributor, and Org Admin agree to. And a large project (350 hours) could be 10 weeks if agreed upon by all.
 
-**Project Size**: Projects can be designed to be ~175 hour projects or ~350 hour projects. When a potential GSoC Contributor submits their proposal to an organization they indicate the size of the project: medium (~175 hours) or large (~350 hours). An Org Admin can not change the size of the project from medium to large but they can contact Google Program Admins to downsize a project from large to medium as needed.
+**Project Size**: Projects can be designed to be ~90 hour projects, ~175 hour projects or ~350 hour projects. When a potential GSoC Contributor submits their proposal to an organization they indicate the size of the project: small (~90 hours), medium (~175 hours) or large (~350 hours). A mentor or Org Admin can not increase the size of the project but they can contact Google Program Admins to downsize a project from large to medium or medium to small as needed - preferably during the community bonding period before coding begins.
 
-**Project Length**:  The Coding period of a GSoC Contributor project can be 10-22 weeks. The standard coding project length is 12 weeks regardless of the project size (medium or large).
+**Project Length**:  The Coding period of a GSoC Contributor project can be 10-22 weeks. The standard coding project length is 12 weeks regardless of the project size (small, medium or large).
 
 All projects by default are 12 week projects. If a Mentor and GSoC Contributor agree that they want a project to be a different length, for example, 16 weeks, then they ask the Org Admin to adjust the Project Timeline on the GSoC webapp. Adjustments to a project's timeline (and thus length) must be done before an evaluation phase begins. An Org Admin can not change a midterm evaluation deadline once the midterm evaluation period has begun (same with final submission period).
+
+We suggest a small project should not be longer than 12 weeks in most cases. 
 
 Sometimes a project is extended to the 18 or 20 weeks because the GSoC Contributor is unable to really get their project going until a few weeks or so later into the coding period due to other commitments (exams, graduation, wedding, etc.). This is why we have designed the program to allow a medium or large project to be anywhere in the 10-22 week period.
 
