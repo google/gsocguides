@@ -14,9 +14,12 @@ Take a look at the Program Rules and Frequently Asked Questions to make sure you
 
 Additionally, these resources are quite helpful:
 
+**Program Discord Channel**
+We have a new Google Summer of Code Discord channel (discord.gg/google-dev-community) that is a space to talk about open source and the exciting things folks are learning, tips for others, and also ask others for suggestions if you are stuck, etc. It is not a support channel. For support from a Google Program Administrator, email gsoc-support@google.com.
+
 **Program IRC Channel**
 
-Several knowledgeable folks (mentors, org admins, former students, current students and Google Program Admins) hang out in #gsoc on Freenode and would be happy to give you a pointer in the right direction. And many organizations have their own IRC channels that you can hang out in.
+Several knowledgeable folks (mentors, org admins, former students, current contributors) hang out in #gsoc on Freenode and would be happy to give you a pointer in the right direction. And many organizations have their own IRC channels that you can hang out in.
 
 **Blog Posts**
 
@@ -32,7 +35,7 @@ You can see a list of the mentoring organizations that participated in previous 
 
 ## Mailing Lists
 
-There are two program mailing lists.
+There are three program mailing lists.
 
 **Announcement Only List**
 
@@ -45,6 +48,10 @@ For announcements from Google's program administrators only. Used infrequently.
 Open subscription list for the program. General talk about the program, light traffic except during the launch phase of the program each year. It is always excellent for you to stop by and encourage a newbie, though, so please don't totally ignore this list.
 
 <http://groups.google.com/group/google-summer-of-code-discuss>
+
+**GSoC Contributor List**
+
+We have a program list for all accepted GSoC contributors. We add folks to the list based on their opting in to the GSoC Contributor list when registering for the program. This is only for current GSoC contributors and GSoC contributors/students that passed the program in previous years.
 
 ## Books
 
