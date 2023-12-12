@@ -6,7 +6,7 @@ permalink: student/evaluations.html
 sidebar: student_sidebar
 ---
 
-Evaluations occur two times: at the midpoint of the program and at the end of the program after you submit your final work product. For the standard 12 week project your first evaluation will be at the end of 6 weeks and the end final evaluation will be after the 12th week of the coding period. The evaluations are your opportunity to evaluate your mentor and your mentoring organization's performance. This is also your mentor's opportunity to evaluate you.
+Evaluations occur two times: at the midpoint of the program and at the end of the program after you submit your final work product. For the standard 12 week project your first evaluation will be at the end of 6 weeks and the end final evaluation will be after the 12th week of the coding period. For the small projects, the midterm will be after 4 weeks and the final work submission from the GSoC contributor will be after 8 weeks. The evaluations are your opportunity to evaluate your mentor and your mentoring organization's performance. This is also your mentor's opportunity to evaluate you.
 
 The pass or fail decision from an evaluation should not come as a surprise. You and your mentor will already be communicating, and you should be discussing the quality of your code, your participation in the community and your progress on your project to that point. If you aren't getting this feedback, ask for it.
 
