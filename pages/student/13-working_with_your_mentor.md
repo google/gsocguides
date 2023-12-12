@@ -10,7 +10,7 @@ Once your project is accepted you are assigned a primary mentor and potentially 
 
 ## Community Bonding Period
 
-The community bonding period is when you work out further details of your project plan, schedule regular upcoming meetings with your mentor, get your development environment set up and start to engage with the project's open source community. This is the time to work with your mentor on setting expectations for your interactions and how your progress is measured during the GSoC program. Hopefully, you have already participated in many discussions with your mentor, clarifying the project and expectations during the application period, but now is the time to finalize your plans.
+The community bonding period is the essential period of the program when you work out further details of your project plan, schedule regular upcoming meetings with your mentor, get your development environment set up and start to engage with the project's open source community. This is the time to work with your mentor on setting expectations for your interactions and how your progress is measured during the GSoC program. Hopefully, you have already participated in many discussions with your mentor, clarifying the project and expectations during the application period, but now is the time to finalize your plans.
 
 ## Staying on Track
 
