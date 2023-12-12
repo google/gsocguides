@@ -62,7 +62,7 @@ Selena is a major contributor to the PostgreSQL project. She founded Open Source
 
 **Carol Smith**
 
-Carol works for the Open Source Programs Office at Google administering the Google Summer of Code program. She has worked at Google for 5 years in a variety of positions. She has a degree in photojournalism from California State University, Northridge and is an avid cyclist.
+Carol worked for the Open Source Programs Office at Google administering the Google Summer of Code program. She worked at Google for 6+ years in a variety of positions. She has a degree in photojournalism from California State University, Northridge and is an avid cyclist.
 
 <http://www.fossygirl.com>
 
@@ -71,6 +71,10 @@ Carol works for the Open Source Programs Office at Google administering the Goog
 Malveeka is currently a graduate student in the CS dept at UC, San Diego. She participated in GSoC 2009 as a student for Systers and again as a mentor for Systers in GSoC 2010. She is also a member of Systers and WIC (Women in Computing) group at UC, San Diego and has helped in organizing events in her school for engaging and encouraging women in computing. Her favorite past times including hiking, cooking and reading books. She is a big fan of P.G. Wodehouse and Agatha Christie.
 
 <http://cseweb.ucsd.edu/~mtewari/>
+
+**Stephanie Taylor** (2011-current)
+
+Stephanie is the GSoC lead (since 2015) and has worked at Google in the Open Source Programs Office since 2011. Stephanie also led the Google Code-in program for teens that ended in 2020. Stephanie loves adventure travel and discovering the best hot chocolates around the world. 
 
 ## 2009 Participants
 
