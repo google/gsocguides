@@ -6,7 +6,11 @@ permalink: mentor/community-bonding-period.html
 sidebar: mentor_sidebar
 ---
 
-The community bonding period is the 3 weeks between GSoC student acceptance and the start of coding date. This is a vital time to engage with your GSoC contributor and set them up for success. Feedback from some GSoC contributors in recent years has been that their mentors and organizations didn't do anything in the community bonding period and they didn't understand what they should have been doing. The Community Bonding Period is the organization's opportunity to set expectations and milestones, welcome the contributor to their community and give the GSoC contributor access to the tools they need to succeed during the coding period. Here are some of the goals of this period:
+The community bonding period is the 3 weeks between GSoC contributor acceptance and the start of coding date. This is a vital time to engage with your GSoC contributor and set them up for success. Feedback from some GSoC contributors in recent years has been that their mentors and organizations didn't do anything in the community bonding period and they didn't understand what they should have been doing. The Community Bonding Period is the organization's opportunity to set expectations and milestones, welcome the contributor to their community and give the GSoC contributor access to the tools they need to succeed during the coding period. 
+
+Many orgs are not using the community bonding constructively - this is direct feedback from a number of GSoC contributors. Remember, the GSoC contributor is excited to start getting involved with your community, welcome them in immediately!
+
+Here are some of the goals of this period:
 
 * Prepare GSoC contributors to immediately start writing code at the official start of coding.
 * Get GSoC contributor engaged socially in the project. GSoC contributors have given very positive feedback about orgs that have had welcome video calls with the community. Having all of your GSoC contributors and mentors on the same call is a big plus for everyone. And bonus if you have a previous GSoC contributor that is still active in your community join the call to briefly chat about their experience.
