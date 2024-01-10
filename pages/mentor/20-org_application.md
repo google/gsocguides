@@ -14,6 +14,15 @@ The most important part of GSoC is providing the GSoC contributor an excellent e
 
 The ideas page is the most important part of the organization application. Please see the Ideas Page chapter of this guide for more information. Be sure to adjust any project ideas from the previous year to adjust for the small (90 hour), medium (175 hour) and large (350 hour) scope. Google strongly encourages organizations to have a mix of medium and large (and if possible, small) projects.
 
+## What is Google looking for in a good organization application?
+
+1. We can't say it enough - a solid Ideas list. (see above)
+2. Active community - your org needs to have a good community to support your GSoC contributor(s). You need at least 5 active people in your community. We won't accept orgs with just a few people that have submitted code to the org in the past year.
+3. Active project - have their been commits in the last few months?
+4. Solid understanding of GSoC and its goals - we can see this in your answers to the Org Application questions
+5. Established project - is the org at least 18 months old?
+6. Quality application - did you take the time to answer questions fully? Org apps with just 1 sentence answers show us you don't want to put in the time for the org app so why would Google trust you to devote the time needed to mentor a GSoC contributor? 
+
 ## Past Success
 
 Each year Google will ask the ever important question: how many of your GSoC contributors from the previous year (or your most recent GSoC participation) are still active in your community? This is a question that is important for Google and for your organization to consider. As an organization are you engaging the GSoC contributors and getting them excited about staying in your community? Are you selecting the right GSoC contributors for your community who are interested in staying after their GSoC program ends? If your percentage of long term contributors from GSoC is consistently low what can your organization do to adjust? The program is about bringing contributors into your community and getting them to stay long after GSoC ends, thus keeping your ecosystem healthy. It is okay if your numbers are low, but your goal is to increase the number year after year, and adjustments are likely going to be necessary from your organization to successfully retain more of your GSoC contributors long term.
