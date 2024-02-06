@@ -21,7 +21,7 @@ The ideas page is the most important part of the organization application. Pleas
 3. Active project - have their been commits in the last few months?
 4. Solid understanding of GSoC and its goals - we can see this in your answers to the Org Application questions
 5. Established project - is the org at least 18 months old?
-6. Quality application - did you take the time to answer questions fully? Org apps with just 1 sentence answers show us you don't want to put in the time for the org app so why would Google trust you to devote the time needed to mentor a GSoC contributor? 
+6. Quality application - did you take the time to answer questions fully? Org apps with just 1 sentence answers show us you don't want to put in the time for the org app so why would Google trust you to devote the time needed to mentor a GSoC contributor?
 
 ## Past Success
 

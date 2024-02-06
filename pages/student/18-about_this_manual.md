@@ -74,7 +74,7 @@ Malveeka is currently a graduate student in the CS dept at UC, San Diego. She pa
 
 **Stephanie Taylor** (2011-current)
 
-Stephanie is the GSoC lead (since 2015) and has worked at Google in the Open Source Programs Office since 2011. Stephanie also led the Google Code-in program for teens that ended in 2020. Stephanie loves adventure travel and discovering the best hot chocolates around the world. 
+Stephanie is the GSoC lead (since 2015) and has worked at Google in the Open Source Programs Office since 2011. Stephanie also led the Google Code-in program for teens that ended in 2020. Stephanie loves adventure travel and discovering the best hot chocolates around the world.
 
 ## 2009 Participants
 

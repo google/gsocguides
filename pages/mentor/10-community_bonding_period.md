@@ -6,7 +6,7 @@ permalink: mentor/community-bonding-period.html
 sidebar: mentor_sidebar
 ---
 
-The community bonding period is the 3 weeks between GSoC contributor acceptance and the start of coding date. This is a vital time to engage with your GSoC contributor and set them up for success. Feedback from some GSoC contributors in recent years has been that their mentors and organizations didn't do anything in the community bonding period and they didn't understand what they should have been doing. The Community Bonding Period is the organization's opportunity to set expectations and milestones, welcome the contributor to their community and give the GSoC contributor access to the tools they need to succeed during the coding period. 
+The community bonding period is the 3 weeks between GSoC contributor acceptance and the start of coding date. This is a vital time to engage with your GSoC contributor and set them up for success. Feedback from some GSoC contributors in recent years has been that their mentors and organizations didn't do anything in the community bonding period and they didn't understand what they should have been doing. The Community Bonding Period is the organization's opportunity to set expectations and milestones, welcome the contributor to their community and give the GSoC contributor access to the tools they need to succeed during the coding period.
 
 Many orgs are not using the community bonding constructively - this is direct feedback from a number of GSoC contributors. Remember, the GSoC contributor is excited to start getting involved with your community, welcome them in immediately!
 
