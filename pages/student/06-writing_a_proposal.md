@@ -56,7 +56,7 @@ Keep your personal info brief. Be sure to communicate personal experiences and s
 
 You will need to generate a PDF version of your proposal to upload.
 
-Many organizations have a required application format or other guidlines including application length limits. 
+Many organizations have a required application format or other guidlines including application length limits.
 In general, organizations _will_ throw out your proposal if you fail to conform to any guidelines they specify.
 
 You should take the time to polish your proposal.  Make it look professional, and be sure to have detailed information
