@@ -19,7 +19,7 @@ Issues we see interested contributors do that will irritate your mentors and com
 Remember...
 
 * Respect the mentors, org admin, other GSoC applicants and the org's community members. Respect everyone equally regardless of their gender.
-* Always read the [Program Rules](https://developers.google.com/open-source/gsoc/rules), [FAQ](https://developers.google.com/open-source/gsoc/faq) and this guide first！
+* Always read the [Program Rules](https://developers.google.com/open-source/gsoc/rules), [FAQ](https://developers.google.com/open-source/gsoc/faq) and this guide first!
 * Avoid humor when communicating with the entire GSoC community. It does not translate well to large groups and is likely to be misconstrued by someone.
 * Remember that other peoples' time is just as valuable as your own.
 
