@@ -22,6 +22,7 @@ The ideas page is the most important part of the organization application. Pleas
 4. Solid understanding of GSoC and its goals - we can see this in your answers to the Org Application questions
 5. Established project - is the org at least 18 months old?
 6. Quality application - did you take the time to answer questions fully? Org apps with just 1 sentence answers show us you don't want to put in the time for the org app so why would Google trust you to devote the time needed to mentor a GSoC contributor?
+7. Most years Google is looking to include more organizations in specific fields. It will vary from year to year. For 2025, Google is looking to accept more organizations involved in security and AI/ML.
 
 ## Past Success
 
