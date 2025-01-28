@@ -16,7 +16,9 @@ General:
 
 * Know and meet the deadlines for every part of participation: organization administration, GSoC contributor participation, and mentor participation. Use Google Calendars' alert feature and look at your GSoC dashboard at least once a week to remind you of upcoming deadlines.
 
-* Search the site and the Resources section in particular, but don't be afraid to ask questions on the appropriate mailing list, particularly the GSoC Mentor List.
+* Search the site and the Help section in particular, but don't be afraid to ask questions on the appropriate mailing list, particularly the GSoC Mentor List.
+
+* Read the emails GSoC Admins send to you. All of the information for each step of the program is in these emails. If you don't check the email address you provide for GSoC then you will need to change your habits to check those emails. The few emails tend to be long and filled with a lot of information rather than sending dozens of emails throughout the program. Each email will have many helpful links included to help you with the current and next stage of the program.
 
 * Talk to experienced organizations for advice; talk to new organizations for brainstorming.
 
@@ -44,11 +46,11 @@ GSoC contributors, mentors, and project slot requests:
 
   * The number of slots will determine which ranked proposals are automatically selected. If your org asks for 7 slots but is given 5, ranked proposals #1-#5 will automatically be selected as your org's GSoC contributor projects.
 
-* The application process is a great initial test of the GSoC contributor's dedication and skills, so don't offer too much help during it. Feedback is good but if you have to hand hold them now, it will be worse during the program.
+* The application process is a great initial test of the GSoC contributor's dedication and skills, so don't offer too much help during it. Feedback is good but if you have to hand hold them now, it will be worse during the program. Do not base your decisions solely on the proposal. Orgs should heavily weigh the interactions with the community when selecting their GSoC contributors. Especially with more developers using AI to write proposals, a wonderful proposal can proove meaningless if the person can't even do a pull request.
 
 * Use code tests and personal conversation to help select GSoC contributors. The applicant with the best proposal might not be the applicant who can produce the best code.
 
-* Request 1 GSoC contributor slot for every 2 mentors you have. As a first year organization you will probably receive fewer than 3 students. THIS IS A GOOD THING. Use your first year to get used to the process. Expand in your second year.
+* Request 1 GSoC contributor slot for every 2 mentors you have. As a first year organization you will probably receive 1-2 GSoC contributors. THIS IS A GOOD THING. Use your first year to get used to the process. Expand in your second year.
 
 Coding, community, and communication:
 
