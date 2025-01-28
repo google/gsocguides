@@ -38,7 +38,7 @@ Some of the proposals your organization receives will be obvious winners, about 
 
 **Find out where else the applicant has applied.** Does the applicant have other GSoC proposals? Did they copy-paste the same proposal over and over? There are often opportunities for negotiation with other organizations around someone who has applied to several places.
 
-**Look at the applicant's other summer plans.** You are looking for an applicant who is up front about possible other commitments during GSoC. If they have other commitments and are planning to do a 350 hour project in 12 weeks that could be a concern. However, if they are doing a 175 hour project in 12 weeks and are taking a class or have another part-time commitment it could likely be fine.  
+**Look at the applicant's other summer plans.** You are looking for an applicant who is up front about possible other commitments during GSoC. If they have other commitments and are planning to do a 350 hour project in 12 weeks that could be a concern. However, if they are doing a 175 hour project in 12 weeks and are taking a class or have another part-time commitment it could likely be fine. With the 90 hour projects it is much easier to be able to have a GSoC contributor who does not become overwheled with managaing a couple of classes during GSoC.
 
 ## Finding a Match
 
@@ -73,3 +73,5 @@ Once a fit is found, the project is ready to be elaborated. You and your GSoC co
 **Don't Be That Person**: Don't even think about selecting a GSoC contributor with whom you've had no contact. You should establish an active back-and-forth prior to making a decision. If you or your GSoC contributor have failed to make this happen, *do not proceed*.
 
 **Don't select multiple people for the same project idea**: If two GSoC contributors are working on the exact same project then they are competing with each other. Likewise, don't make one person's project dependent on another person's project, that essentially makes it a team project which is not allowed or in the best interest of the GSoC contributors.
+
+**Don't select a GSoC contributor based solely on their proposal**: Anyone can write a good proposal, in fact multiple people have created videos on how to create an amazing GSoC proposal. You want to pick someone that is a good fit for your community and asks great questions. They don't have to be the most knowledgeable to be a great candidate. If they want to learn and have taken the time to read through your documentation to understand your community and have reached out to your community they are much more likely to be a successful GSoC (and open source) contributor.
