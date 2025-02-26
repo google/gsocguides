@@ -15,12 +15,13 @@ Do's:
 
 + Encourage the participant to focus on their health concerns as their priority.
 + Provide reasonable accommodations and understanding.
++ Remember that Org Admins can extend a project length so if this is a situation that the person can likely recover from in a few weeks then you can extend the project by 2, 4, 6 or up to 10 additional weeks (maximum project length of 22 weeks for medium and large size projects).
 
 Dont's:
 
 + Pry into the details of the situation. It's none of your business.
 + Ask for a doctor's note or proof.
-+ Make promises about extensions outside the normal GSoC dates. With the extensions available in 2022, the max of 22 weeks should be more than enough if you and your org choose to allow the GSoC contributor to extend their final deadline.
++ Make promises about extensions outside the normal GSoC dates. With the extensions now available, the max of 22 weeks should be more than enough if you and your org choose to allow the GSoC contributor to extend their final deadline.
 + Require GSoC contributors to withdraw. This is their choice.
 
 When evaluating GSoC contributors, be cognizant of the amount of time they have put in.
