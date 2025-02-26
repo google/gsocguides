@@ -34,7 +34,7 @@ GSoC contributors, mentors, and project slot requests:
 
   * OAs invite mentors to their organization.
 
-  * Talk with potential GSoC contributors about project ideas (some orgs give applicants a task they need to complete such as a PR etc., that is up to you).
+  * Talk with potential GSoC contributors about project ideas (some orgs give applicants a task they need to complete such as a PR, a small test, etc., that is up to you). **If you want to select the best GSoC contributor for your project you MUST talk to the contributor. With the rise in AI anyone can write a great proposal but that doesn't mean they can do any of the things in the proposal or they even understand what it is your org does.**
 
   * Receive and review GSoC contributor applications.
 
