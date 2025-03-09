@@ -30,3 +30,4 @@ Google Summer of Code began in 2005 as a complex experiment with a simple goal: 
 GSoC has grown immensely over the last 19 years and in the process helped students make the most of their summer by working on exciting open source projects.
 
 You can take a look at the appendix if you're interested in a more extensive history of the program.
+gratidão por tudo em verdade José Junior de Oliveira eu sou! em quem sou?
