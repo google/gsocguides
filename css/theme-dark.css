@@ -1,0 +1,28 @@
+/* theme-dark.css */
+
+body {
+    background-color: #121212;
+    color: #f1f1f1;
+}
+
+a {
+    color: #90caf9;
+}
+
+.navbar {
+    background-color: #1f1f1f;
+}
+
+#tg-sb-sidebar {
+    background-color: #1e1e1e;
+    border-right: 1px solid #333;
+}
+
+#tg-sb-content {
+    background-color: #1a1a1a;
+}
+
+pre, code {
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+}
