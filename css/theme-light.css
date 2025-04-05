@@ -1,0 +1,28 @@
+/* theme-light.css */
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+a {
+    color: #1a0dab;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+}
+
+#tg-sb-sidebar {
+    background-color: #f1f1f1;
+    border-right: 1px solid #ccc;
+}
+
+#tg-sb-content {
+    background-color: #ffffff;
+}
+
+pre, code {
+    background-color: #f5f5f5;
+    color: #333333;
+}
