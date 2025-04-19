@@ -1,110 +1,110 @@
 <!DOCTYPE html>
 <html>
 <head>
-    {% include head.html %}
+  {% include head.html %}
 
-    <!-- Theme stylesheet -->
-    <link id="theme-stylesheet" rel="stylesheet" href="{{ '/css/theme-dark.css' | relative_url }}">
+  <!-- Theme stylesheet -->
+  <link id="theme-stylesheet" rel="stylesheet" href="{{ '/css/theme-dark.css' | relative_url }}">
 
+  <script>
+    // Load saved theme from localStorage
+    document.addEventListener("DOMContentLoaded", function () {
+      const themeLink = document.getElementById("theme-stylesheet");
+      const savedTheme = localStorage.getItem("theme") || "dark";
+      themeLink.href = "/css/theme-" + savedTheme + ".css";
+    });
+  </script>
+
+  <script>
+    $(document).ready(function () {
+      // Theme toggle logic
+      $("#theme-toggle").click(function (e) {
+        e.preventDefault();
+        const themeLink = $("#theme-stylesheet");
+        const currentHref = themeLink.attr("href");
+        const newTheme = currentHref.includes("dark") ? "light" : "dark";
+        themeLink.attr("href", "/css/theme-" + newTheme + ".css");
+        localStorage.setItem("theme", newTheme);
+      });
+
+      // Initialize navgoco with default options
+      $("#mysidebar").navgoco({
+        caretHtml: '',
+        accordion: true,
+        openClass: 'active',
+        save: false,
+        cookie: {
+          name: 'navgoco',
+          expires: false,
+          path: '/'
+        },
+        slide: {
+          duration: 400,
+          easing: 'swing'
+        }
+      });
+
+      $("#collapseAll").click(function (e) {
+        e.preventDefault();
+        $("#mysidebar").navgoco('toggle', false);
+      });
+
+      $("#expandAll").click(function (e) {
+        e.preventDefault();
+        $("#mysidebar").navgoco('toggle', true);
+      });
+
+      $('[data-toggle="tooltip"]').tooltip();
+
+      $("#tg-sb-link").click(function () {
+        $("#tg-sb-sidebar").toggle();
+        $("#tg-sb-content").toggleClass('col-md-9 col-md-12');
+        $("#tg-sb-icon").toggleClass('fa-toggle-on fa-toggle-off');
+      });
+    });
+  </script>
+
+  {% if page.datatable == true %}
+    <!-- DataTables setup -->
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+    <script type="text/javascript" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
     <script>
-        // Load saved theme from localStorage
-        document.addEventListener("DOMContentLoaded", function () {
-            const themeLink = document.getElementById("theme-stylesheet");
-            const savedTheme = localStorage.getItem("theme") || "dark";
-            themeLink.href = "/css/theme-" + savedTheme + ".css";
+      $(document).ready(function () {
+        $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+        $('table.display').DataTable({
+          paging: true,
+          stateSave: true,
+          searching: true
         });
+      });
     </script>
-
-    <script>
-        $(document).ready(function () {
-            // Theme toggle logic
-            $("#theme-toggle").click(function (e) {
-                e.preventDefault();
-                const themeLink = $("#theme-stylesheet");
-                const currentHref = themeLink.attr("href");
-                const newTheme = currentHref.includes("dark") ? "light" : "dark";
-                themeLink.attr("href", "/css/theme-" + newTheme + ".css");
-                localStorage.setItem("theme", newTheme);
-            });
-
-            // Initialize navgoco with default options
-            $("#mysidebar").navgoco({
-                caretHtml: '',
-                accordion: true,
-                openClass: 'active',
-                save: false,
-                cookie: {
-                    name: 'navgoco',
-                    expires: false,
-                    path: '/'
-                },
-                slide: {
-                    duration: 400,
-                    easing: 'swing'
-                }
-            });
-
-            $("#collapseAll").click(function (e) {
-                e.preventDefault();
-                $("#mysidebar").navgoco('toggle', false);
-            });
-
-            $("#expandAll").click(function (e) {
-                e.preventDefault();
-                $("#mysidebar").navgoco('toggle', true);
-            });
-
-            $('[data-toggle="tooltip"]').tooltip();
-
-            $("#tg-sb-link").click(function () {
-                $("#tg-sb-sidebar").toggle();
-                $("#tg-sb-content").toggleClass('col-md-9 col-md-12');
-                $("#tg-sb-icon").toggleClass('fa-toggle-on fa-toggle-off');
-            });
-        });
-    </script>
-
-    {% if page.datatable == true %}
-        <!-- DataTables setup -->
-        <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
-        <script type="text/javascript" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
-        <script>
-            $(document).ready(function () {
-                $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-                $('table.display').DataTable({
-                    paging: true,
-                    stateSave: true,
-                    searching: true
-                });
-            });
-        </script>
-    {% endif %}
+  {% endif %}
 </head>
 <body>
 
-    {% include topnav.html %}
+  {% include topnav.html %}
 
-    <!-- Page Content -->
-    <div class="container">
-        <div id="main">
-            <div class="row">
-                {% assign content_col_size = "col-md-12" %}
-                {% unless page.hide_sidebar %}
-                    <div class="col-md-3" id="tg-sb-sidebar">
-                        {% include sidebar.html %}
-                    </div>
-                    {% assign content_col_size = "col-md-9" %}
-                {% endunless %}
+  <!-- Page Content -->
+  <div class="container">
+    <div id="main">
+      <div class="row">
+        {% assign content_col_size = "col-md-12" %}
+        {% unless page.hide_sidebar %}
+          <div class="col-md-3" id="tg-sb-sidebar">
+            {% include sidebar.html %}
+          </div>
+          {% assign content_col_size = "col-md-9" %}
+        {% endunless %}
 
-                <div class="{{ content_col_size }}" id="tg-sb-content">
-                    {{ content }}
-                </div>
-            </div>
+        <div class="{{ content_col_size }}" id="tg-sb-content">
+          {{ content }}
         </div>
+      </div>
     </div>
+  </div>
 
-    {% if site.google_analytics %}
-        {% include google_analytics.html %}
-    {% endif %}
+  {% if site.google_analytics %}
+    {% include google_analytics.html %}
+  {% endif %}
 </body>
 </html>
