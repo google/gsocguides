@@ -6,7 +6,7 @@ permalink: mentor/selecting-a-student.html
 sidebar: mentor_sidebar
 ---
 
-Successful participation in GSoC is based on a three-way fit between mentor, GSoC contributor, and project. As a mentor, your role in finding that fit is two-fold: to help the organization identify and select strong GSoC contributors appropriate for your projects, and to find a pairing between yourself and a GSoC contributor that is productive and pleasant. Fortunately, these goals are quite compatible.
+Successful participation in GSoC is based on a three-way fit between the mentor(s), the GSoC contributor, and the project. As a mentor, your role in finding that fit is two-fold: to help the organization identify and select strong GSoC contributors appropriate for your projects, and to find a pairing between yourself and a GSoC contributor that is productive and pleasant. Fortunately, these goals are quite compatible.
 
 ## Understanding GSoC contributor Motivations
 
