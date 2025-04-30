@@ -6,7 +6,7 @@ permalink: mentor/selecting-a-student.html
 sidebar: mentor_sidebar
 ---
 
-Successful participation in GSoC is based on a three-way fit between mentor, GSoC contributor, and project. As a mentor, your role in finding that fit is two-fold: to help the organization identify and select strong GSoC contributors appropriate for your projects, and to find a pairing between yourself and a GSoC contributor that is productive and pleasant. Fortunately, these goals are quite compatible.
+Successful participation in GSoC is based on a three-way fit between the mentor(s), the GSoC contributor, and the project. As a mentor, your role in finding that fit is two-fold: to help the organization identify and select strong GSoC contributors appropriate for your projects, and to find a pairing between yourself and a GSoC contributor that is productive and pleasant. Fortunately, these goals are quite compatible.
 
 ## Understanding GSoC contributor Motivations
 
@@ -52,7 +52,7 @@ For those unfortunate applicants that don't make the cut for logistical reasons 
 
 The Google Open Source Program Office (OSPO) has an internal process to select mentoring organizations and allocate GSoC contributor slots; understanding it may help you make better GSoC contributor selections.
 
-Each mentoring organization will review the applications they receive (outside of the program site) and determine the best projects using the criteria agreed upon by their organization. Next the Org Admins will make sure those "best projects" have at least one mentor confirmed to mentor that project. Then the Org Admin will rank the proposals with confirmed mentors using the organization's agreed upon criteria. (Note: Google is looking for a mixture of medium and large projects, not just large projects from an org when possible). If your org has 10 great contributors and you rank the 7 large projects 1-7, then the 3 medium projects as 8-10 be prepared to get less slots than if you had mixed up medium and large in the top 7. If you have some small (90 hour) projects mixed in you'll also me be likely to receive more slots. Next the Org Admin will submit the ranked GSoC contributor "slots" they wish to receive.
+Each mentoring organization will review the applications they receive (outside of the program site) and determine the best projects using the criteria agreed upon by their organization. Next the Org Admins will make sure those "best projects" have at least one mentor confirmed to mentor that project. Then the Org Admin will rank the proposals with confirmed mentors using the organization's agreed upon criteria. (Note: Google is looking for a mixture of medium and large projects, not just large projects from an org when possible). If your org has 10 great contributors and you rank the 7 large projects 1-7, then the 3 medium projects as 8-10 be prepared to get less slots than if you had mixed up medium and large in the top 7. If you have some small (90 hour) projects mixed in you'll also be likely to receive more slots. Next the Org Admin will submit the ranked GSoC contributor "slots" they wish to receive.
 
 Next, Google OSPO will allocate each organization a number of slots. The number of slots will lock in the top ranked proposals for the organization. If an organization received 5 slots then their #1-#5 ranked proposals will automatically become GSoC contributor projects.
 
