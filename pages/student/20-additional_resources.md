@@ -19,7 +19,7 @@ We have a new Google Summer of Code Discord channel (discord.gg/google-dev-commu
 
 **Program IRC Channel**
 
-Several knowledgeable folks (mentors, org admins, former students, current contributors) hang out in #gsoc on Freenode and would be happy to give you a pointer in the right direction. And many organizations have their own IRC channels that you can hang out in.
+Several knowledgeable folks (mentors, org admins, former students, current contributors) hang out in #gsoc on [Libera.Chat](https://web.libera.chat/?channels=#gsoc) and would be happy to give you a pointer in the right direction. And many organizations have their own IRC channels that you can hang out in.
 
 **Blog Posts**
 
@@ -76,8 +76,6 @@ by Karsten Wade
 **Teaching Open Source**
 
 <http://teachingopensource.org>
-
-irc : freenode #teachingopensource
 
 ## What to Do When the Unexpected Happens?
 
