@@ -15,7 +15,7 @@ Take a look at the Program Rules and Frequently Asked Questions to make sure you
 Additionally, these resources are quite helpful:
 
 **Program Discord Channel**
-We have a new Google Summer of Code Discord channel (discord.gg/google-dev-community) that is a space to talk about open source and the exciting things folks are learning, tips for others, and also ask others for suggestions if you are stuck, etc. It is not a support channel. For support from a Google Program Administrator, email gsoc-support@google.com.
+We have a new Google Summer of Code Discord channel (discord.gg/google-dev-community) that is a space to talk about open source and the exciting things folks are learning, tips for others, and also ask others for suggestions if you are stuck, etc. It is not a support channel. For support from a Google Program Administrator, email <gsoc-support.com>.
 
 **Program IRC Channel**
 

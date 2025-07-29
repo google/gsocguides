@@ -34,7 +34,7 @@ Here are some ways to help your GSoC contributor understand that her question is
 
 **Introduce your GSoC contributor to the community's communication style**: Many groups have developed codes of conduct, such as the [Fedora IRC Helpers Code of Conduct](http://fedoraproject.org/wiki/IRC_helpers_code_of_conduct), which help initiate new members and guide the interactions of existing members. You are encouraged to read the code of conduct and think about which issues and solutions might apply to your group. Please also check out [Google's Community guidelines](https://opensource.google/conduct/).
 
-**Follow mailing list etiquette**: The GSoC mentors mailing list has more than 16000 subscribers. If you have a question for the Google team, mail gsoc-support@google.com instead of the list. Please take a moment to review list [etiquette](https://www.google.com/search?q=mailing+list+etiquette).
+**Follow mailing list etiquette**: The GSoC mentors mailing list has more than 16000 subscribers. If you have a question for the Google team, mail <gsoc-support.com> instead of the list. Please take a moment to review list [etiquette](https://www.google.com/search?q=mailing+list+etiquette).
 
 **Address communication disconnects**: When working with people for the first time, a best practice is to assume that they do not mean any harm. If your GSoC contributor makes a comment via email that offends another member of the community, it's appropriate and constructive to speak up and address the issue. Assuming that the comment was the result of misunderstanding, rather a result of malice, allows you to ask questions and help your GSoC contributor adjust to your community's communication style.
 

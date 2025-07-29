@@ -64,4 +64,4 @@ irc : freenode #teachingopensource
 
 **Contact your Organization Administrator**: They can help you figure out what to do next or contact Google for more help.
 
-**Talk to Google's Program Administrators**: They have plenty of experience with all the corner cases and strange issues that can arise during GSoC. Email gsoc-support@google.com for help.
+**Talk to Google's Program Administrators**: They have plenty of experience with all the corner cases and strange issues that can arise during GSoC. Email <gsoc-support.com> for help.
