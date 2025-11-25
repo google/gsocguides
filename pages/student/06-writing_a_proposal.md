@@ -20,7 +20,7 @@ This program is the Google Summer of _Code._ If you are less than fluent in the 
 
 ## Elements of a Quality Proposal
 
-Most organizations have their own proposal guidelines or templates. You should be extraordinarily careful to conform to these. Most organizations have many, many proposals to review. Failure to follow simple instructions is highly likely to land you at the bottom of the heap.
+Most organizations have their own proposal guidelines or templates. You should be extraordinarily careful to conform to these. Most organizations have many, many proposals to review. Failure to follow simple instructions is highly likely to land you at the bottom of the heap. Be especially careful to follow their instructions on using (or not using) AI-generated materials). Using AI-generated materials is an automatic reject for some orgs. 
 
 There are certain elements of the proposal that should apply to every organization. Proper attention to these elements will greatly improve your chances of a successful proposal.
 
@@ -30,7 +30,7 @@ Putting your full name on the proposal is not enough. Provide full contact infor
 
 **Title**
 
-Your title should be short, clear and interesting. The job of the title is to convince the reviewer to read your synopsis. Do not put your name in the title.
+Your title should be short, clear and interesting. The job of the title is to convince the reviewer to read your synopsis. Do not put your name in the title. Many orgs suggest using the name of the project idea or something similar in yoiur title to make it easier to differntiate which project idea your proposal is for.
 
 **Synopsis**
 
