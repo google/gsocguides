@@ -30,7 +30,7 @@ Putting your full name on the proposal is not enough. Provide full contact infor
 
 **Title**
 
-Your title should be short, clear and interesting. The job of the title is to convince the reviewer to read your synopsis. Do not put your name in the title. Many orgs suggest using the name of the project idea or something similar in yoiur title to make it easier to differntiate which project idea your proposal is for.
+Your title should be short, clear and interesting. The job of the title is to convince the reviewer to read your synopsis. Do not put your name in the title. Many orgs suggest using the name of the project idea or something similar in your title to make it easier to differentiate which project idea your proposal is for.
 
 **Synopsis**
 
@@ -56,7 +56,7 @@ Keep your personal info brief. Be sure to communicate personal experiences and s
 
 You will need to generate a PDF version of your proposal to upload.
 
-Many organizations have a required application format or other guidlines including application length limits.
+Many organizations have a required application format or other guidelines including application length limits.
 In general, organizations _will_ throw out your proposal if you fail to conform to any guidelines they specify.
 
 You should take the time to polish your proposal.  Make it look professional, and be sure to have detailed information
