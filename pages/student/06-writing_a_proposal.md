@@ -20,7 +20,7 @@ This program is the Google Summer of _Code._ If you are less than fluent in the 
 
 ## Elements of a Quality Proposal
 
-Most organizations have their own proposal guidelines or templates. You should be extraordinarily careful to conform to these. Most organizations have many, many proposals to review. Failure to follow simple instructions is highly likely to land you at the bottom of the heap. Be especially careful to follow their instructions on using (or not using) AI-generated materials. Using AI-generated materials is an automatic reject for some orgs. 
+Most organizations have their own proposal guidelines or templates. You should be extraordinarily careful to conform to these. Most organizations have many, many proposals to review. Failure to follow simple instructions is highly likely to land you at the bottom of the heap. Be especially careful to follow their instructions on using (or not using) AI-generated materials. Using AI-generated materials is an automatic reject for some orgs.
 
 There are certain elements of the proposal that should apply to every organization. Proper attention to these elements will greatly improve your chances of a successful proposal.
 
