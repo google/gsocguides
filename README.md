@@ -1,3 +1,5 @@
+![gsoc_logo](https://github.com/user-attachments/assets/94e8b482-1f18-4881-a057-f272a3c30c11)
+
 # Google Summer of Code Guides
 
 This project contains the Google Summer of Code Mentor Guide and Contributor Guide.
