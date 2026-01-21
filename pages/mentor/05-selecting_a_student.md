@@ -38,7 +38,7 @@ Some of the proposals your organization receives will be obvious winners, about 
 
 **Find out where else the applicant has applied.** Does the applicant have other GSoC proposals? Did they copy-paste the same proposal over and over? There are often opportunities for negotiation with other organizations around someone who has applied to several places.
 
-**Look at the applicant's other summer plans.** You are looking for an applicant who is up front about possible other commitments during GSoC. If they have other commitments and are planning to do a 350 hour project in 12 weeks that could be a concern. However, if they are doing a 175 hour project in 12 weeks and are taking a class or have another part-time commitment it could likely be fine. With the 90 hour projects it is much easier to be able to have a GSoC contributor who does not become overwheled with managaing a couple of classes during GSoC.
+**Look at the applicant's other summer plans.** You are looking for an applicant who is up front about possible other commitments during GSoC. If they have other commitments and are planning to do a 350 hour project in 12 weeks that could be a concern. However, if they are doing a 175 hour project in 12 weeks and are taking a class or have another part-time commitment it could likely be fine. With the 90 hour projects it is much easier to be able to have a GSoC contributor who does not become overwhelmed with managing a couple of classes during GSoC.
 
 ## Finding a Match
 
