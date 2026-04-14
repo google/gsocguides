@@ -32,6 +32,10 @@ If you ask for a certain number of slots and are given that number but then real
 
 You can not substitute in other proposals after you have ranked your proposals and received the slot allocations.
 
+## Multiple contributors submitting proposals on the same idea
+
+Based on an organization's list of ideas, multiple contributors might submit proposals based on the same idea. Given that the project of one GSoC contributor should not depend on the project of another GSoC contributor, you should only select one proposal per project: the ranking list of an organization should rank stand-alone projects, not potential contributors for the same project. In case the specific proposal is not matched (e.g., contributor selected by multiple orgs - next section), Google will contact you to see which project you would like to replace that slot with.
+
 ## GSoC contributors selected by multiple orgs
 
 GSoC contributors are allowed to submit up to 3 proposals each year, and they can be to multiple organizations. When organizations have chosen their desired GSoC contributors based on their ranked slot allocations, it is inevitably the case that a few GSoC contributors are sought by more than one organization (usually around 10-20 each year).
