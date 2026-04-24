@@ -10,7 +10,7 @@ Your community is the collection of people who work on or with your project. Hel
 
 ## Set the Tone
 
-As a mentor, you can really help to set the tone for your GSoC contributors's initial experiences by facilitating community. Encourage your GSoC contributor to introduce themselves on mailing lists and chat, and invite comments on their proposal. If your project maintains biographical information on contributors, ask your GSoC contributor to read through this information, and spend some time talking with your student about the people with whom they may interact.
+As a mentor, you can really help to set the tone for your GSoC contributor's initial experiences by facilitating community. Encourage your GSoC contributor to introduce themselves on mailing lists and chat, and invite comments on their proposal. If your project maintains biographical information on contributors, ask your GSoC contributor to read through this information, and spend some time talking with your student about the people with whom they may interact.
 
 Once a GSoC contributor has a feeling for who's who in the community, they are more likely to communicate and seek advice from others. This increases their chances of getting issues resolved more quickly and effectively than if they relied on only their mentor for help.
 
