@@ -49,7 +49,7 @@ Questions a patch reviewer might ask include:
 * Does it follow a relevant specification, RFC or the community-agreed behavior?
 * Are there corner cases or failure situations the author has failed to consider?
 * Does the patch slow down simple tests or other features?
-* Does it follow the project coding guidelines? For an example, see <http://developer.postgresql.org/pgdocs/postgres/source.html>
+* Does it follow the project coding guidelines? For an example, see <http://postgresql.org/docs/current/source.html>
 * Will it work on all supported operating system and hardware platforms?
 * Are the comments sufficient and accurate? Are there any comments at all?
 * Does it produce compiler warnings?
