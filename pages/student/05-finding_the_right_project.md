@@ -28,4 +28,4 @@ In most cases, your potential mentor(s) will have lots of ideas and preconceptio
 
 **Pro Tip:** The earlier you apply, the better. Submitting your proposal early helps you get early feedback.
 
-**Don't be that person**: Cut and pasting an idea from the organization page and turning that in as your project's description is a big no-no. You'll be expected to research and submit your own ideas about how to accomplish the project your way, not just state the end result.
+**Don't be that person**: Cutting and pasting an idea from the organization page and turning that in as your project's description is a big no-no. You'll be expected to research and submit your own ideas about how to accomplish the project your way, not just state the end result.
