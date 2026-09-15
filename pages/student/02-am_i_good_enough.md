@@ -57,3 +57,4 @@ Every project has additional characteristics that they look for when selecting c
 Be aware that some requirements are likely to be firm and you must meet those requirements for the organization to consider your application. For example, many organizations require potential GSoC contributors to submit pull requests as part of their application, or they require you to have a chat with someone in the community about your idea before submitting your proposal. More complicated projects will likely require familiarity with particular programming languages, processes or techniques. It is also possible some organizations may be looking for students who are earlier in their development, while other organizations may be looking for applicants more advanced in their skills.
 
 However, some of the requirements may be less stringent and could be things you can learn quickly, just be sure to mention that you are working on these skills, etc.
+
