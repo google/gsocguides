@@ -1,0 +1,8 @@
+config: .markdownlint.yaml
+globs:
+  - "**/*.md"
+ignores:
+  - "vendor/**"
+  - "_site/**"
+  - ".bundle/**"
+  - "node_modules/**"
