@@ -1,0 +1,58 @@
+/* Theme variables */
+:root {
+    --theme-background: #ffffff;
+    --theme-text: #333333;
+    --theme-link: #337ab7;
+}
+
+/* Dark theme */
+[data-theme="dark"] {
+    --theme-background: #1e1e1e;
+    --theme-text: #e0e0e0;
+    --theme-link: #6db3f2;
+}
+
+/* Apply theme */
+body {
+    background-color: var(--theme-background);
+    color: var(--theme-text);
+}
+
+a {
+    color: var(--theme-link);
+}
+
+/* Dark theme component overrides */
+[data-theme="dark"] .tab-content,
+[data-theme="dark"] .search-results,
+[data-theme="dark"] #mysidebar li a {
+    background-color: #2b2b2b;
+    color: #e0e0e0;
+}
+
+[data-theme="dark"] table {
+    color: #e0e0e0;
+}
+
+[data-theme="dark"] table tr:nth-child(odd) {
+    background-color: #252525;
+}
+
+[data-theme="dark"] h1,
+[data-theme="dark"] h2,
+[data-theme="dark"] h3,
+[data-theme="dark"] h4,
+[data-theme="dark"] h5,
+[data-theme="dark"] h6 {
+    color: #e0e0e0;
+}
+
+[data-theme="dark"] #toc,
+[data-theme="dark"] #toc ul {
+    background-color: #2b2b2b;
+    color: #e0e0e0;
+}
+
+[data-theme="dark"] hr.shaded {
+    border-color: #444;
+}

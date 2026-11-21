@@ -52,3 +52,52 @@ $(function() {
         }
     });
 });
+
+// Theme selection
+(function () {
+    var themeKey = 'gsocguides-theme';
+
+    function applyTheme(theme) {
+        if (theme === 'system') {
+            var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            document.documentElement.setAttribute(
+                'data-theme',
+                prefersDark ? 'dark' : 'light'
+            );
+        } else {
+            document.documentElement.setAttribute('data-theme', theme);
+        }
+    }
+
+    function getSavedTheme() {
+        return localStorage.getItem(themeKey) || 'system';
+    }
+
+    // Apply the saved theme when the page loads.
+    applyTheme(getSavedTheme());
+
+    // Handle theme selection from the dropdown.
+    $(document).on('click', '[data-theme-option]', function (event) {
+        event.preventDefault();
+
+        var theme = $(this).data('theme-option');
+
+        localStorage.setItem(themeKey, theme);
+        applyTheme(theme);
+    });
+
+    // Update the page when the system theme changes.
+    var mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+
+    function handleSystemThemeChange() {
+        if (getSavedTheme() === 'system') {
+            applyTheme('system');
+        }
+    }
+
+    if (mediaQuery.addEventListener) {
+        mediaQuery.addEventListener('change', handleSystemThemeChange);
+    } else if (mediaQuery.addListener) {
+        mediaQuery.addListener(handleSystemThemeChange);
+    }
+})();
