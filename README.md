@@ -62,4 +62,4 @@ npm install markdownlint-cli
 
 ## Want to contribute?
 
-Please see the [CONTRIBUTING](CONTRIBUTING.md) instructions.
+Please see the [CONTRIBUTING](CONTRIBUTING.md) instructions..
